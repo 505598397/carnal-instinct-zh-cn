@@ -1,0 +1,42 @@
+{
+  "name": "Carnal Instinct Independent zh-CN",
+  "version": "0.1.0-draft",
+  "testedGameBuild": "Steam Build v0.7.95.16435",
+  "engine": "Unreal Engine 5.5.4",
+  "language": "zh-CN",
+  "localizationEntries": 15112,
+  "entriesContainingChinese": 14555,
+  "translationMethods": {
+    "machine": 13611,
+    "reviewed": 1501
+  },
+  "quests": [
+    {
+      "table": "quest_list",
+      "rows": 68,
+      "displayFields": 100,
+      "changed": 100,
+      "internalReferencesPreserved": true
+    },
+    {
+      "table": "quest_objectives",
+      "rows": 333,
+      "displayFields": 654,
+      "changed": 654,
+      "internalReferencesPreserved": true
+    },
+    {
+      "table": "quest_sub_objectives",
+      "rows": 123,
+      "displayFields": 177,
+      "changed": 176,
+      "internalReferencesPreserved": true
+    }
+  ],
+  "translationModel": "Argos Translate en_zh 1.9 / CTranslate2 int8",
+  "status": "Machine translation draft with selected terminology reviewed",
+  "completePlaythroughTested": false,
+  "repeatedNormalRestartTested": false,
+  "containsUserSaves": false,
+  "containsDecryptionKey": false
+}

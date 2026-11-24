@@ -1,0 +1,21 @@
+# Personal state, credentials, raw game extraction and local tools are not public.
+.env
+.env.*
+*.local.*
+*key.local*
+*.sav
+*.dmp
+*.log
+*.upipelinecache
+SaveGames/
+Saved/
+backups/
+save-copies/
+model/
+.venv/
+tools/
+extracted/
+*_stage/
+dist/
+*.zip
+__pycache__/
