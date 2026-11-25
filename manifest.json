@@ -1,14 +1,19 @@
 {
   "name": "Carnal Instinct Independent zh-CN",
-  "version": "0.1.0-draft",
+  "version": "0.2.0-reviewed",
+  "releaseDate": "2026-11-25",
   "testedGameBuild": "Steam Build v0.7.95.16435",
   "engine": "Unreal Engine 5.5.4",
   "language": "zh-CN",
-  "localizationEntries": 15112,
-  "entriesContainingChinese": 14555,
+  "localizationEntries": 15629,
+  "entriesContainingChinese": 15029,
+  "supplementalResourceRecords": 523,
+  "netNewLocalizationEntries": 517,
+  "reviewedBySol61SourceStrings": 2967,
   "translationMethods": {
-    "machine": 13611,
-    "reviewed": 1501
+    "machine": 10660,
+    "reviewed-sol61": 3568,
+    "reviewed": 1401
   },
   "quests": [
     {
@@ -33,10 +38,34 @@
       "internalReferencesPreserved": true
     }
   ],
-  "translationModel": "Argos Translate en_zh 1.9 / CTranslate2 int8",
-  "status": "Machine translation draft with selected terminology reviewed",
+  "translationModels": {
+    "draft": "Argos Translate en_zh 1.9 / CTranslate2 int8",
+    "revision": "GPT-6.1-sol subagent"
+  },
+  "revisedDialogueGroups": [
+    "Farak",
+    "Void Spirit",
+    "Reseph",
+    "Shaken Villager",
+    "Amara"
+  ],
+  "status": "Partial revision of a machine translation draft; most other long dialogues remain unreviewed",
+  "validation": {
+    "reviewedNewlinesAndFormatsValid": true,
+    "optimizedResourceRoundtrip": true,
+    "referenceCountsValid": true
+  },
+  "bossCutsceneRetest": {
+    "patchVersion": "0.1.0-draft",
+    "isolatedSaveCopy": true,
+    "result": "User confirmed Felreq post-boss cutscene completed; no new crash report",
+    "crashRootCauseConfirmed": false
+  },
+  "releaseGameplayTested": false,
   "completePlaythroughTested": false,
   "repeatedNormalRestartTested": false,
   "containsUserSaves": false,
-  "containsDecryptionKey": false
+  "modifiesUserSaves": false,
+  "containsDecryptionKey": false,
+  "containsFonts": false
 }

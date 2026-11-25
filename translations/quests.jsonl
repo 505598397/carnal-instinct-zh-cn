@@ -1,793 +1,793 @@
-{"source":"It'll all be okay, honey","target":"一切都会好的,亲爱的","method":"machine"}
-{"source":"A pregnancy lady requires your attention","target":"怀孕的女士需要你照顾","method":"machine"}
-{"source":"I talked to him second time, and he finished my quest.","target":"我第二次和他说话,他完成了我的探险。","method":"machine"}
-{"source":"UNTIL DEATH","target":"至死方休","method":"reviewed"}
-{"source":"I reunited the pair, now they can rest in peace.","target":"我和他们团聚了 现在他们可以安息了","method":"machine"}
-{"source":"I chose to not aid the villager, why don't they look themselves?","target":"我选择不帮助村民, 为什么他们不看自己?","method":"machine"}
-{"source":"MY BROTHER'S KEEPER","target":"兄弟的守护者","method":"reviewed"}
-{"source":"Sadly I didn't make it back in time. At least I'm now accompanied by Aadi, the aadi.","target":"可惜我没能及时回来 至少我现在有Aadi,Aadi的陪伴","method":"machine"}
-{"source":"I don't even know what an aadi is, let alone how to track one. I decided its best not to get involved.","target":"我甚至不知道Aadi是什么,更别说如何追踪了,我决定最好不要卷入其中。","method":"machine"}
-{"source":"THE PRODIGAL SON","target":"浪子","method":"reviewed"}
-{"source":"I brought news of his son back to the farmer.","target":"我把他儿子的消息带回了农场主","method":"machine"}
-{"source":"I opted to not help the farmer look for their son.","target":"我选择不帮助农民 寻找他们的儿子。","method":"machine"}
-{"source":"SHADE","target":"幽影","method":"reviewed"}
-{"source":"I did as the shade asked of me.","target":"我照树荫的要求做了","method":"machine"}
-{"source":"PAINSLUT","target":"针叶树","method":"machine"}
-{"source":"I've ''helped'' Harabi with her predicament.","target":"我帮了Harabi 解决了她的困境","method":"machine"}
-{"source":"SHIPWRECKED ANUBITES","target":"遭遇船难的阿努比斯族","method":"reviewed"}
-{"source":"I've aided the Anubites in their quest and collected their reliquary.","target":"我协助阿努比特人的征讨,并收集他们的遗物.","method":"machine"}
-{"source":"The Anubites lie dead. Perhaps I should collect the reliquary.","target":"阿努比人死了,也许我该去收尸","method":"machine"}
-{"source":"SIN'S REWARD","target":"罪恶的报偿","method":"reviewed"}
-{"source":"You've received Hatha blessing","target":"你得到过哈莎的祝福","method":"machine"}
-{"source":"Along the River","target":"沿河而行","method":"reviewed"}
-{"source":"Investigate the cause of the crash","target":"调查坠机原因","method":"machine"}
-{"source":"Beyond Hope","target":"希望之外","method":"reviewed"}
-{"source":"Man goes to ruin, dies","target":"人会毁灭,会死","method":"machine"}
-{"source":"BEHOLD","target":"比利时","method":"machine"}
-{"source":"HOME FROM HOME","target":"异乡之家","method":"reviewed"}
-{"source":"MASQUERADE","target":"假面","method":"reviewed"}
-{"source":"IF IT BLEEDS","target":"若它会流血","method":"reviewed"}
-{"source":"EVENT: Kehm Farmstead","target":"凯姆农场","method":"machine"}
-{"source":"EVENT: Frenzied Feast","target":"狂欢节","method":"machine"}
-{"source":"A Call to Adventure","target":"冒险的召唤","method":"reviewed"}
-{"source":"The Avarice of Birds","target":"贪婪之鸟","method":"reviewed"}
-{"source":"Find and Retrieve the lost Scepter","target":"找到并夺回失去的权杖","method":"machine"}
-{"source":"WELCOME TO THE FOLD","target":"欢迎入群","method":"reviewed"}
-{"source":"Herdmaster Reseph has offered for you to become his apprentice","target":"畜牧师雷瑟夫已经提议让你成为他的徒弟","method":"machine"}
-{"source":"The Stuff No-One Thinks About","target":"无人留意之事","method":"reviewed"}
-{"source":"No Rest for the Wicked","target":"恶人不得安宁","method":"reviewed"}
-{"source":"Depths of Kab'Alrah","target":"卡布阿尔拉深处","method":"reviewed"}
-{"source":"Lost and Found","target":"失而复得","method":"reviewed"}
-{"source":"TROUBLES AT IKENNI VILLA","target":"伊肯尼庄园的麻烦","method":"reviewed"}
-{"source":"ROMANCE: MERA","target":"恋情：梅拉","method":"reviewed"}
-{"source":"FISHIN' FOR THE FOLD","target":"为群落垂钓","method":"reviewed"}
-{"source":"HERDING UP A THIRST","target":"放牧解渴","method":"reviewed"}
-{"source":"ROMANCE: DAMARIS","target":"恋情：达玛瑞斯","method":"reviewed"}
-{"source":"EVENT: The Old Warrior","target":"老战士","method":"machine"}
-{"source":"Master Baiter","target":"诱饵大师","method":"reviewed"}
-{"source":"A Road Paved with Good Intent","target":"善意铺就的道路","method":"reviewed"}
-{"source":"Investigate the Massacre at Maz-Arjeni at the hands of the Inquisition.","target":"在宗教裁判所手中调查马兹-阿杰尼的大屠杀事件.","method":"machine"}
-{"source":"Good Tombkeeping","target":"守墓有道","method":"reviewed"}
-{"source":"A Bump in the Path","target":"前路的阻碍","method":"reviewed"}
-{"source":"Whispers in the Dark","target":"黑暗中的低语","method":"reviewed"}
-{"source":"Discover the Mysteries of the Waterlogged Cave","target":"揭开积水洞的谜团","method":"machine"}
-{"source":"EVENT: Maz-Arjeni","target":"马兹-阿杰尼","method":"machine"}
-{"source":"ZEALOT OF THE DARK QUEEN","target":"黑暗女王的狂信徒","method":"reviewed"}
-{"source":"Explore the depths of the Maz-Arjeni Tomb","target":"探索Maz-Arjeni墓的深度","method":"machine"}
-{"source":"Ritual of the Fifth Step","target":"第五步仪式","method":"reviewed"}
-{"source":"I just work here","target":"我只是在这里工作","method":"machine"}
-{"source":"Beck and call","target":"随传随到","method":"reviewed"}
-{"source":"Finders Keepers","target":"谁捡到就归谁","method":"reviewed"}
-{"source":"Pest Control","target":"除害行动","method":"reviewed"}
-{"source":"Lifeguard Duty","target":"救生员的职责","method":"reviewed"}
-{"source":"Hot Local Singles","target":"本地热情单身者","method":"reviewed"}
-{"source":"The Price of Speed","target":"速度的代价","method":"reviewed"}
-{"source":"Crossroads","target":"十字路口","method":"reviewed"}
-{"source":"The Quality of Copper","target":"铜的成色","method":"reviewed"}
-{"source":"Whose Who","target":"谁","method":"machine"}
-{"source":"Resolve a dispute between a bickering Anubite and Herder over a formless slave","target":"解决阿努比特人和赫德尔人之间对一个无形奴隶的争执","method":"machine"}
-{"source":"Would You?","target":"你会吗?","method":"machine"}
-{"source":"Honeypot","target":"甜蜜陷阱","method":"reviewed"}
-{"source":"Path of the Jackal","target":"豺狼之道","method":"reviewed"}
-{"source":"The Path of Bastet","target":"巴斯特之道","method":"reviewed"}
-{"source":"Gathering Power","target":"汇聚力量","method":"reviewed"}
-{"source":"The Stonebound Tribunal","target":"石缚法庭","method":"reviewed"}
-{"source":"Blackwater","target":"黑水","method":"reviewed"}
-{"source":"Hidden Pilgrimage","target":"隐秘朝圣","method":"reviewed"}
-{"source":"Greener Pastures","target":"更好的去处","method":"reviewed"}
-{"source":"Diamond In The Rough","target":"璞玉","method":"reviewed"}
-{"source":"Tales Of The Void","target":"虚空传说","method":"reviewed"}
-{"source":"Justice Never Sleeps","target":"正义永不眠","method":"reviewed"}
-{"source":"Law And Order","target":"法律与秩序","method":"reviewed"}
-{"source":"Secret Admirer","target":"秘密仰慕者","method":"reviewed"}
-{"source":"Blood Script","target":"血书","method":"reviewed"}
-{"source":"Hell of a Kitchen","target":"地狱厨房","method":"reviewed"}
-{"source":"Containment Breach","target":"封印破裂","method":"reviewed"}
-{"source":"Dying Oath","target":"临终誓言","method":"reviewed"}
-{"source":"Treasure Hunt","target":"寻宝","method":"reviewed"}
-{"source":"Treasure Hunting","target":"寻宝行动","method":"reviewed"}
-{"source":"Runnoft","target":"运行函数","method":"machine"}
-{"source":"Find Sam and call him a wankstain","target":"去找阿琛,叫他小混混","method":"machine"}
-{"source":"Sam went on to say once I'm back, I should call him a \"Wankstain\" ... That's fine with me.","target":"山姆接着说,一旦我回来,我应该叫他\"温克斯坦\"...","method":"machine"}
-{"source":"Example Objective.","target":"例目标.","method":"machine"}
-{"source":"Description of success objective.","target":"说明成功目标。","method":"machine"}
-{"source":"Deliver Havar's note to Mehlva","target":"把哈瓦的纸条交给迈尔瓦","method":"machine"}
-{"source":"Havar has asked me to take a note to Mehlva north of the docks in the fishing village, I've been sworn to secrecy.","target":"哈瓦要我给梅赫瓦留个笔记 我宣誓要保密","method":"machine"}
-{"source":"Return to Havar with the news from Mehlva","target":"带回哈瓦,从迈尔瓦传来的消息","method":"machine"}
-{"source":"Mehlva says she desires an object that shows Havar's affection.","target":"Mehlva说她想要一个能显示Havar的爱意的物体.","method":"machine"}
-{"source":"Look for Havar's lost Amulet","target":"找哈瓦失守的护身符","method":"machine"}
-{"source":"Havar has asked me to look for her lost Amulet in a nearby camp, I should be careful since it had been overrun.","target":"哈瓦要我在附近的营地寻找她失去的阿穆莱特,我应该小心,因为它已经被攻破了。","method":"machine"}
-{"source":"Take the Amulet to Mehlva","target":"带护身符去迈尔瓦","method":"machine"}
-{"source":"I've found the Amulet! I need to take this to Mehlva as proof of Havar's affection.","target":"我找到护身符了 我要把这个带到迈尔瓦 来证明哈瓦的爱意","method":"machine"}
-{"source":"Return to Havar with the good news","target":"带着好消息回到哈瓦尔","method":"machine"}
-{"source":"The Amulet held an incredible power over Mehlva and she loves the gift, I need to return to Havar to give the good news and retrieve my reward.","target":"阿穆莱特对迈尔瓦拥有不可思议的力量 她喜欢这个礼物 我要回到哈瓦尔去给好消息 并拿回我的奖励","method":"machine"}
-{"source":"Speak to Mehlva","target":"跟梅尔瓦说","method":"machine"}
-{"source":"I lied to Mehlva and claimed to be the secret admirer, I should speak to her to claim my reward.","target":"我骗了梅尔娃,并声称自己是秘密崇拜者,我应该和她谈谈,要求得到我的奖励.","method":"machine"}
-{"source":"Search for Clues","target":"寻找线索","method":"reviewed"}
-{"source":"The camp has been looted by local Tombrobbers, I might be able to find a clue as to where they've stashed their loot.","target":"营地被当地Tombrobbers洗劫一空 我也许能找到他们藏赃物的线索","method":"machine"}
-{"source":"Find the Tombrobber Hideout and Stash","target":"找到《汤姆伯藏》和《史塔什》","method":"machine"}
-{"source":"On one of the Tombrobbers I've found a key and a note about a local stash nearby, that must be where they're keeping the amulet.","target":"在其中的一家Tombrobbers上 我找到一把钥匙和一张关于附近地方藏品的纸条 一定是他们把护身符藏在那里了","method":"machine"}
-{"source":"Talk to Mesahtnofret","target":"和梅萨特诺夫雷特谈谈","method":"machine"}
-{"source":"I've agreed to help Mesahtnofret save her village. I should ask about her plan.","target":"我同意帮助Mesahtnofret 拯救她的村庄,我应该问她的计划。","method":"machine"}
-{"source":"Find the Entrance to the Tomb","target":"找到墓穴的入口","method":"machine"}
-{"source":"Mesahtnofret has directed me to a nearby tomb where an ancient warlord is buried. It is said that this leader used a powerful aphrodisiac that could drive anyone wild with lust. Mesahtnofret thinks that the recipe for this elixir may be hidden among the belongings buried with the warlord.","target":"梅萨特诺弗雷特将我引向了附近一座埋葬着一位古代军阀的坟墓,据说这位领袖使用了一种强大的药剂,可以使任何有欲望的人发狂. 梅萨特诺弗雷特认为,这种灵药可能隐藏在与军阀合葬的财物中.","method":"machine"}
-{"source":"Search the Tomb for the Recipe","target":"寻找灵媒墓","method":"machine"}
-{"source":"I have arrived at the tomb, but it is crawling with the restless dead. Finding the recipe may be more difficult than I had originally thought. I expect that it was hidden near the final resting place for this warlord.","target":"我已抵达墓穴,但墓穴里却充满了不安的死尸。 找到食谱可能比我原先想象的更困难。 我估计它藏在了这位军阀最后的安息地附近。","method":"machine"}
-{"source":"Return to Mesahtnofret","target":"回到梅萨特诺夫雷特","method":"machine"}
-{"source":"I have defeated the undead warlord and found the recipe in his remains! I should return to Mesahtnofret at once.","target":"我打败了不死军阀 在他的遗骨里找到了配方 我该马上回到麦萨特诺弗里特","method":"machine"}
-{"source":"Ask Mesahtnofret about the missing ingredient","target":"问梅萨特诺弗雷特 缺少的成分","method":"machine"}
-{"source":"Mesahtnofret says that she has all but one of the required ingredients for the elixir. I should ask where I can find the missing ingredient.","target":"Mesahtnofret说,她除了配有灵丹妙药的成分之外,还有其他必需的成分。我该问一下,我在哪里能找到缺少的成分。","method":"machine"}
-{"source":"Find the Acolyte of Seshat","target":"找到塞萨特的阿科利特","method":"machine"}
-{"source":"Mesahtnofret does not know where to find the missing ingredient, but she thinks that an acolyte of Seshat may have that knowledge. She directed in the direction of the last acolyte who passed through.","target":"迈萨特诺夫雷特不知道在哪里找到缺失的成分,但她认为塞萨特的阴茎可能拥有这种知识,她指导方向是经过的最后一位阴茎.","method":"machine"}
-{"source":"Speak with the Acolyte","target":"和亚科利特说话","method":"machine"}
-{"source":"I have found the acolyte's camp. I should find the acolyte and ask about the missing ingredient.","target":"我找到了Acolyte的营地,我应该找到Acolyte,问一下缺少的成分.","method":"machine"}
-{"source":"I have accepted the acolyte's offer. I should return to Mesahtnofret, but what should I tell her?","target":"我接受了Acolyte的提议,我应该回到Mesahtnofret,但是我该怎么告诉她?","method":"machine"}
-{"source":"I have lied to Mesahtnofret. Her village is doomed, but at least she doesn't know that there was a chance.","target":"我对Mesahtnofret撒谎了 她的村子完蛋了 但至少她不知道有没有机会","method":"machine"}
-{"source":"Defeat the Acolyte","target":"击败亚细亚","method":"machine"}
-{"source":"I have rejected the acolyte's offer. she did not take kindly to that. I must defeat her.","target":"我拒绝了Acolyte的提议,她没有善待我,我必须打败她。","method":"machine"}
-{"source":"Gather Enough Petals for the Village","target":"为村里收集足够多的花瓣","method":"machine"}
-{"source":"The acolyte mentioned that the night lotus grew in this area. I should try to find it and gather enough blossoms to cure the village.","target":"亚科利特人提到,夜莲生长于此地区,我应该试着找到它,并收集足够的花朵来治好村庄.","method":"machine"}
-{"source":"I have gathered enough of the lotus petals. I should return them to Mesahtnofret.","target":"我已经收集够了莲花瓣,我应该把它们还给梅萨特诺弗雷特.","method":"machine"}
-{"source":"The Cure","target":"库尔","method":"machine"}
-{"source":"Mesahtnofret now has everything that she needs to prepare the elixir and will soon give the cure to her people.","target":"梅萨特诺弗里特现在拥有了一切她需要准备的灵丹妙药,并很快会给她的族人解药.","method":"machine"}
-{"source":"She's ready!","target":"她准备好了!","method":"machine"}
-{"source":"Get there fast","target":"快点赶到那里","method":"machine"}
-{"source":"Search for Kemma","target":"寻找 Kemma","method":"machine"}
-{"source":"Kemma must be somewhere nearby, I will recognise her by a necklace set with blue gemstones.","target":"凯玛一定在附近 我用一条带蓝色宝石的项链认出她","method":"machine"}
-{"source":"Return to the Villager","target":"返回村民处","method":"reviewed"}
-{"source":"I shoiuld bring the news of Kemma's demise to her lover.","target":"我Shoiuld把Kemma的死的消息 带给她的情人","method":"machine"}
-{"source":"Look for Clues to Find the Missing Brother","target":"寻找失踪兄弟的线索","method":"reviewed"}
-{"source":"I've been asked to search for a villager's brother who got towed away with their aadi when it bolted.","target":"我被要求寻找一个村民的弟弟 当他被拖走时 他的阿迪被拖走","method":"machine"}
-{"source":"I've found the aadi and brother, I should bring the aadi back and let them know what happened.","target":"我找到Aadi和兄弟了 我该把Aadi带回来 让他们知道发生了什么","method":"machine"}
-{"source":"Track Anhur's location","target":"追踪安赫尔的位置","method":"machine"}
-{"source":"I've been tasked to find a farmer's son and fieldhand who have a habit of sneaking off. They can't have gone too far.","target":"我奉命找一个农民的儿子和田地手,有偷偷溜走的习惯,他们不能走太远.","method":"machine"}
-{"source":"Search for Anhur and the Fieldhand","target":"寻找安赫尔和菲尔德手","method":"machine"}
-{"source":"I've found a camp not too far from the farmer's land, perhaps this is where they snuck off to. I should have a look around.","target":"我找到一个离农场不远的营地,也许这就是他们溜往的地方。我应该四处看看。","method":"machine"}
-{"source":"Return to the Farmer","target":"返回农夫处","method":"reviewed"}
-{"source":"I should bring these notes back to the farmer, but what should I tell him?","target":"我应该把这些笔记带回给农民 但我该怎么告诉他?","method":"machine"}
-{"source":"Patience","target":"耐心点","method":"machine"}
-{"source":"The shade said that they would return when the need arises.. Whatever that means.","target":"影子说,他们会在有需要时回来,不管这意味着什么。","method":"machine"}
-{"source":"Find a compatible partner","target":"找到一个兼容的伴侣","method":"machine"}
-{"source":"I've been instructed to 'fulfill my carnal desires' by the shade, I should find someone who meets my tastes.","target":"我奉命\"满足我的性欲\" 在荫下,我应该找到一个符合我口味的人。","method":"machine"}
-{"source":"Extend Harabi's sentence","target":"延长哈拉比的刑期","method":"machine"}
-{"source":"Harabi's asked me to try and find a way to extend her punishment since her time's nearly up, perhaps the best place to start is the person she's strapped to.","target":"Harabi让我想办法延长她的刑期 因为她的时间快到了 也许最好的起点是她被绑起来的人","method":"machine"}
-{"source":"Tell Harabi the good news","target":"告诉哈拉比好消息","method":"machine"}
-{"source":"I've successfully managed to extend Harabi's punishment, she'll be delighted to hear it.","target":"我成功地延长了哈拉比的惩罚 她会很高兴听到的","method":"machine"}
-{"source":"Find the leg straps","target":"找到腿带","method":"machine"}
-{"source":"Harabi has offered a pair of leg straps as a reward for helping her, she said I can find them in her home nearby.","target":"Harabi提供了一双腿带作为帮助她的奖励,她说我可以在她附近的家中找到它们.","method":"machine"}
-{"source":"Find the Missing Brother","target":"找到失踪的哥哥","method":"machine"}
-{"source":"Find out what happened to the Anubites","target":"查查阿努比人的情况","method":"machine"}
-{"source":"I've found a group of wounded Anubites, speaking to a Priestess among them it seems that they were attacked by some kind of creature and are now stranded. She had mentioned a Captain, perhaps I should find him?","target":"我找到一群受伤的阿努比人,跟其中的一位女祭司说话,似乎他们被某种生物袭击,现在搁浅了,她提到过一位上尉,也许我应该找到他?","method":"machine"}
-{"source":"Aid the Anubites","target":"援助阿努比人","method":"machine"}
-{"source":"Captain Asim sent scouts along to coast to find a way off the island, though they didn't return. Maybe I'll have better luck.","target":"阿西姆船长派侦察员去海岸寻找离开小岛的路,尽管他们没有回来,也许我会有更好的运气.","method":"machine"}
-{"source":"Inform the Priestess about the boats.","target":"把船的事通知牧师","method":"machine"}
-{"source":"I've found some boats along the coastline, I should inform Preistess Ameni back at the Anubite camp so they can make their escape.","target":"我在海岸线上找到一些船,我应该通知阿梅尼夫人 回到阿努比特营地,让他们逃出去。","method":"machine"}
-{"source":"Find the Anubites weapons.","target":"找到阿努比人的武器","method":"machine"}
-{"source":"Captain Asim mentioned how during the shipwreck they lost their armaments with the ship. If I can find and return these, they may stand a chance should the creature return.","target":"阿西姆船长提到在沉船期间,他们是如何与舰只失去他们的军备的,如果我能找到并归还这些,如果生物返回,他们就可能有机会。","method":"machine"}
-{"source":"Return the supplies to the Priestess.","target":"把补给还给女祭司","method":"machine"}
-{"source":"I've found the Anubites armaments, I should return them to the camp.","target":"我找到安努比特人的军火了,我应该把它们送回营地.","method":"machine"}
-{"source":"Inform the Priestess of my successful hunt.","target":"告诉女祭司 我成功的狩猎。","method":"machine"}
-{"source":"I've managed to find and kill the Kravenrook, the Priestess back at the Anubite camp would be delighted to hear about this.","target":"我找到并杀死了克拉文鲁克人 回到阿努比特营地的女祭司会很高兴听到这个消息","method":"machine"}
-{"source":"Collect the reliquary.","target":"收复 ⁇ .","method":"machine"}
-{"source":"Priestess Ameni has given me her blessing to carry the reliquary on her behalf, I should go and collect it.","target":"阿梅尼神父为我送了礼物 我该去取了","method":"machine"}
-{"source":"Speak to Captain Asim and Decide the Anubite's Fate","target":"跟阿西姆队长说,决定阿努比特人的命运","method":"machine"}
-{"source":"Priestess Ameni has asked me to inform the Captain of my success.","target":"阿梅尼神父要我把成功通知船长","method":"machine"}
-{"source":"Kill the creature.","target":"杀死这个生物。","method":"machine"}
-{"source":"I've discovered a creature that may be the one that attacked the Anubites, if I manage to kill it they would be able to rest easy.","target":"我发现一个生物 可能是攻击阿努比人的人 如果我能杀死他们 他们就能轻松休息了","method":"machine"}
-{"source":"Seed Swollen. Stamina reduced by 25.","target":"种子斯沃伦,斯塔米纳减少25人.","method":"machine"}
-{"source":"Matriarch's Rage. Damage increased by 10.","target":"马特里亚克的Rage,损失增加了10。","method":"machine"}
-{"source":"Investigate the shipwreck","target":"调查沉船事件","method":"machine"}
-{"source":"Continue on","target":"继续","method":"machine"}
-{"source":"Locate the Tomb","target":"寻找墓穴","method":"machine"}
-{"source":"Find a way further inland to safety","target":"找到一条通往内陆安全的道路","method":"machine"}
-{"source":"Go to the site of the curse","target":"去诅咒的现场","method":"machine"}
-{"source":"Survive Kethra's Onslaught","target":"幸存的凯斯拉的\"乌斯劳特\"","method":"machine"}
-{"source":"Follow the Anubite Captain","target":"跟着阿努比特船长","method":"machine"}
-{"source":"Climb the wall and enter the village","target":"爬上墙,进入村里","method":"machine"}
-{"source":"Find a way into the village","target":"想办法进村里","method":"machine"}
-{"source":"Move the objects blocking the door","target":"移动挡住门的物体","method":"machine"}
-{"source":"Get to Traitor's Gate","target":"去卖国贼的门","method":"machine"}
-{"source":"Find a shovel to bury the dead","target":"找个铲子埋死人","method":"machine"}
-{"source":"Search for survivors","target":"寻找幸存者","method":"reviewed"}
-{"source":"Seek out survivors","target":"寻找幸存者","method":"machine"}
-{"source":"Cleanse Tal'Senet","target":"清洁图案","method":"machine"}
-{"source":"Make the island safe for habitation","target":"使该岛安全居住","method":"machine"}
-{"source":"Return to Damaris","target":"回到达马里斯","method":"machine"}
-{"source":"Travel to Mehden Island","target":"前往梅登岛","method":"machine"}
-{"source":"Damaris has told me that Mehden island may have a blacksmith which can remove my mask, I should go there and find them.","target":"达玛里斯告诉我,梅登岛可能有一个铁匠,可以摘下我的面具,我应该去那里找到他们。","method":"machine"}
-{"source":"Search for the Blacksmith","target":"寻找铁匠","method":"machine"}
-{"source":"I have landed on Mehden Island, I should look for this Blacksmith","target":"我降落在梅登岛了,我该去找这铁匠","method":"machine"}
-{"source":"Save the Trapped Villager","target":"拯救被困村民","method":"machine"}
-{"source":"Follow the Villager to the Blacksmith","target":"跟着村人去找铁匠","method":"machine"}
-{"source":"Find Utnas at the temple","target":"在庙里找到Utnas","method":"machine"}
-{"source":"Defeat the Felreq","target":"击败费勒克","method":"machine"}
-{"source":"Speak to the saved villager","target":"和救过的人说话","method":"machine"}
-{"source":"Clear the area","target":"清除区域","method":"machine"}
-{"source":"Inspect the source of power","target":"检查权力来源","method":"machine"}
-{"source":"Search for Survivors","target":"寻找幸存者","method":"reviewed"}
-{"source":"I've found myself on a Strange Island, I'm not sure what happened back there, I should look for Survivors.","target":"我发现自己来到了一座陌生的岛屿，不清楚之前究竟发生了什么。我应该寻找其他幸存者。","method":"reviewed"}
-{"source":"Enter the lair of the beast","target":"进入野兽的巢穴","method":"machine"}
-{"source":"I've discovered a strange tomb entrance, the nearby statues and Effigies are related to a twisted creature knowns as a Kravenrook.","target":"我发现了一个奇怪的墓穴入口,附近的雕像和埃菲吉斯都与被称为克拉文鲁克的扭曲生物有关.","method":"machine"}
-{"source":"Investigate the lair","target":"调查巢穴","method":"machine"}
-{"source":"I must investigate the lair of The Kravenrook.","target":"我必须调查克拉文鲁克的巢穴","method":"machine"}
-{"source":"Escape the room by burning the effigy","target":"烧了衣服就逃走了","method":"machine"}
-{"source":"I've been trapped in a room with the Kravenrook, the creature can appear anywhere at any moment as long as the Effigy remains.","target":"我和克拉文鲁克被困在一间房间里 只要伊菲吉还活着 生物随时可能出现在任何地方","method":"machine"}
-{"source":"Find and Kill the creature","target":"找到并杀死这个生物","method":"machine"}
-{"source":"Having narrowly avoided death, I must delve further into the creature's lair and kill the creature","target":"躲过死亡之后,我必须深入到生物的巢穴里,杀死生物","method":"machine"}
-{"source":"Defeat the Kravenrook","target":"击败Kravenrook","method":"machine"}
-{"source":"By killing the Kravenrook I can escape this tomb and save the Anubites","target":"杀了克拉文鲁克人,就能逃出坟墓 拯救阿努比人","method":"machine"}
-{"source":"Clear Kehm Farmstead of enemies","target":"清除敌人的Kehm农场","method":"machine"}
-{"source":"Kehm Farmstead is swarming with foes. I must defeat them.","target":"Kehm Farmstead 到处是敌人 我必须打败他们","method":"machine"}
-{"source":"Exterminate the Bloodseeker encampment","target":"消灭寻找鲜血的营地","method":"machine"}
-{"source":"I've discovered an encampent of Bloodseekers--bloodthirsty cannibals who find pleasure in carnage and eating their victims alive. I should end their miserable existence.","target":"我发现一群嗜血的食人族 在屠杀中找到乐趣,活吞活剥。我应该结束他们的悲惨生活。","method":"machine"}
-{"source":"Meet Amara at The Shrine of Ascension","target":"在阿森松圣殿见阿马拉","method":"machine"}
-{"source":"A mysterious woman asked me to meet her at The Shrine of Ascension. She made it sound like something of great importance that should be done quickly.","target":"一个神秘的女人让我在阿森松圣殿见她,她把事情说得好像一件很重要的事,应该赶快去做。","method":"machine"}
-{"source":"Commune with The Shrine","target":"与神社的公社","method":"machine"}
-{"source":"The mysterious woman told me to transfer my essence into The Shrine of Ascension, whatever that means. Perhaps touching it will be enough. Anything to get this mask off...","target":"这个神秘的女人让我把我的精髓转移到阿森松圣殿,不管那是什么意思,也许碰它就足够了。","method":"machine"}
-{"source":"Talk to Amara","target":"和阿玛拉谈谈","method":"machine"}
-{"source":"I've communed with the shrine. I should speak to the mysterious woman now.","target":"我和神社住过,我应该跟那个神秘的女人谈谈","method":"machine"}
-{"source":"Learn and use a Sorcery","target":"学习并使用魔法","method":"machine"}
-{"source":"I have learned that I can use Sorcery, the kind of mystical abilites such as those of the Felreq, but I need to learn them at The Shrine of Ascension. Once I've learned, I should show the mysterious woman what I can do.","target":"我学会了使用魔法,像费勒克那样神秘的精灵, 但我需要去阿森松圣殿学习。一旦我学会了,我应该告诉那个神秘的女人我能做什么。","method":"machine"}
-{"source":"Find and retrieve the lost sceptre","target":"找到并收回丢失的权杖","method":"machine"}
-{"source":"The mysterious woman told me about the artifact she used to teleport herself to The Shrine of Ascension. Apparently a karrow bird flew off with it, but if I find it, I can keep it.","target":"那个神秘的女人告诉我她用来传送自己到阿森松神社的文物,显然一只小鸟带着它飞走了,但如果我找到它,我可以留着它。","method":"machine"}
-{"source":"(Optional) Read the five Tenets","target":"(可选)读取五种特涅茨","method":"machine"}
-{"source":"Herdmaster Reseph told me to read about the tenets of the Gilded Fold. They are engraved in pillars within the Gilded Fold's compound, and there should be five of them in total.","target":"牧師瑞瑟夫叫我念吉尔德福德的信条,它们刻在吉尔德福德院内的柱子上,总共应该有5个.","method":"machine"}
-{"source":"Speak to Reseph","target":"跟Reseph说话","method":"machine"}
-{"source":"I've read the tenets and should return to Herdmaster Reseph to discuss what I've learned.","target":"我读过信条 应该回到牧羊人Reseph来讨论我学到了什么","method":"machine"}
-{"source":"Capture Sehet","target":"抓获塞赫特","method":"machine"}
-{"source":"Herdmaster Reseph has agreed to take me on as his apprentice, but first I need to learn the basics. He's given me a capture jar and told me to use it on one of the slaves named Sehet.","target":"牧師雷希夫同意把我當做他的徒弟,但首先我要学习基本知识,他给了我一个抓捕罐,并告诉我要用在其中一个叫塞赫特的奴隶身上.","method":"machine"}
-{"source":"Place Sehet in the cage","target":"把塞赫特放在笼子里","method":"machine"}
-{"source":"I've successfully captured Sehet! Now I need to expell her from my capture jar to place her back into her cage as Herdmaster Reseph instructed.","target":"我成功抓获了塞赫特 现在我要把她从我的捕捉罐中驱逐出来 把她放回笼子里","method":"machine"}
-{"source":"I've done as Herdmaster Reseph asked. I should speak to him.","target":"我按牧師瑞斯夫的要求做了,我应该和他谈谈","method":"machine"}
-{"source":"Find and capture your slave","target":"找到你的奴隶","method":"machine"}
-{"source":"Herdmaster Reseph has sent me off to capture my very first slave! There are some prime candidates hiding in a cave not far from here.","target":"牧羊人雷斯夫派我来抓我的第一个奴隶!","method":"machine"}
-{"source":"Return to Reseph","target":"返回到reseph 中( R)","method":"machine"}
-{"source":"I've captured my first slave. I should return to Herdmaster Reseph and show him.","target":"我抓住了第一个奴隶,我应该回到牧羊人雷瑟夫那里给他看看.","method":"machine"}
-{"source":"Get on the cart","target":"上车吧","method":"machine"}
-{"source":"Wrangler Sotema needs help protecting her cart from bandits on the way to and from a farm. I've agreed to help, and she's waiting for me to get onto her cart before we set off.","target":"Wrangler Sotema需要帮助保护她的车 在去农场的路上和离开农场时,我同意帮助她,她在等我上她的车,然后我们出发。","method":"machine"}
-{"source":"Save the village","target":"拯救村庄","method":"machine"}
-{"source":"The village Sotema is supposed to get supplies from is under attack by Inquisitors of Bast. Sotema has already rushed to the village's rescue. I should join her!","target":"索特马村本来要从巴斯特的审讯者袭击的村庄获得补给,索特马已经赶到村里的营救,我应该和她一起!","method":"machine"}
-{"source":"Collect supplies","target":"收集用品","method":"machine"}
-{"source":"We were too late to do much, and most of the village was masacred. There's still a job to be done though, and Sotema has asked me to gather supplies to take back to the Gilded Fold.","target":"我们来不及做很多事,村里大部分地方都是被抹黑的,虽然还有工作要做,索特马让我收集物资,带回吉尔德福尔德.","method":"machine"}
-{"source":"Return to the cart","target":"回车上去","method":"machine"}
-{"source":"I've gathered all of the supplies I can. I should return to Sotema's cart and ride with her back to the Gilded Fold compound.","target":"我已经收集了所有能用的物资,我应该回到索特马的车里,和她一起骑车回吉尔德福德大院.","method":"machine"}
-{"source":"Find Nergaal's Tomb","target":"找到Nergaal的墓","method":"machine"}
-{"source":"There is an ancient warlord named Nergaal who harbored the recipe to a special elixir Mesatnofreht thinks can help save the afflicted villagers. I must find the tomb.","target":"有个叫Nergaal的古代军阀 藏着一种特制的灵丹妙药","method":"machine"}
-{"source":"Enter Nergaal's tomb","target":"进入Nergaal的坟墓","method":"machine"}
-{"source":"I've found Nergaal's Tomb. Time to go in.","target":"我找到Nergaal的墓了 该进去了","method":"machine"}
-{"source":"Find the recipe","target":"找到食谱","method":"machine"}
-{"source":"I've entered Nergaal's Tomb. Now to find the recipe for Mesatnofreht.","target":"我进入了Nergaal的墓穴 现在找到Mesatnofreht的食谱","method":"machine"}
-{"source":"Read the recipe inscriptions","target":"读食谱铭文","method":"machine"}
-{"source":"Segments of the recipe I seek are etched onto tablets inside Nergaal's Tomb. I should search the place for more etchings until I find the complete recipe.","target":"我所寻求的食谱的片段被刻在Nergaal墓的碑上。我应该寻找更多的蚀刻品,直到找到完整的食谱为止。","method":"machine"}
-{"source":"Defeat Nergaal","target":"击败内尔加尔","method":"machine"}
-{"source":"It turns out Nergaal isn't entirely dead. I'm trapped with nowhere to run. I must defeat Nergaal if I want to leave this place alive.","target":"结果发现Nergaal并没有完全死,我被困在无处可逃,如果我想活着离开这个地方,我必须打败Nergaal.","method":"machine"}
-{"source":"Return to Mesatnofreht","target":"回到Mesatnofreht (美国食品市场)","method":"machine"}
-{"source":"I've found all the parts to the recipe, and even one of the ingredients. I should return to Mesatnofreht with the news.","target":"我找到了食谱上的所有部分,甚至其中的一种成分。我应该带着新闻回到Mesatnofreht。","method":"machine"}
-{"source":"Gather the ingredients","target":"收集成份","method":"machine"}
-{"source":"I must gather the rest of the ingredients for the ancient elixir. Mesatnofreht knows where they can be found.","target":"我必须收集其他的古老精液原料 Mesatnofreht知道在哪里能找到它们","method":"machine"}
-{"source":"I've gathered all the necessary ingredients. I should return to Mesatnofreht quickly so she can brew the elixir and save the villagers.","target":"我收集了所有必需的原料,我应该尽快回到Mesatnofreht,这样她就可以酿造灵丹妙药,拯救村民.","method":"machine"}
-{"source":"Delve into Kab'Alrah","target":"潜入Kab'Alrah","method":"machine"}
-{"source":"I've found an ancient tomb called Kab'Alrah. Who knows what treasures may be found within? Like most tombs, the idea of entering it is foreboding. I should be warry of potential danger.","target":"我发现了一个古墓,叫Kab'Alrah, 谁知道里面有什么宝藏?","method":"machine"}
-{"source":"Find the stolen jar","target":"找到偷来的罐子","method":"machine"}
-{"source":"Temarah mentioned she's searching for a runaway slave. The slave has stolen a jar from her, and Temarah wants it back.","target":"特玛拉提到她正在寻找一个逃跑的奴隶,这个奴隶从她身上偷了一个罐子,特玛拉想要把它还回去.","method":"machine"}
-{"source":"Take the jar to Temarah","target":"把罐子拿给特玛拉","method":"machine"}
-{"source":"I found the slave, and the jar. Although it seems to have cracked, I should return it to Temarah.","target":"我找到奴隶和罐子了 虽然它好像裂了,我应该把它还给Temara","method":"machine"}
-{"source":"Meet with the Anubites","target":"和阿努比人见面","method":"machine"}
-{"source":"It would seem the Anubites are causing Safiya great distress. I should look into it. Maybe I can negotiate a peace between them.","target":"阿努比特人似乎正在给萨菲亚带来极大的痛苦,我应该调查一下,也许我可以在他们之间谈判和平。","method":"machine"}
-{"source":"Create a distraction for Mera to escape","target":"让梅拉分心逃跑","method":"machine"}
-{"source":"Mera is ready to make her escape from Ikenni Villa. I need to distract her sisters so she can slip away.","target":"梅拉已经准备好让她从伊肯尼别墅逃走了 我得让她的姐妹们分心 这样她就可以溜走了","method":"machine"}
-{"source":"Find Mera","target":"找到梅拉( M)","method":"machine"}
-{"source":"Mera has made her escape. She shouldn't have gone far. I should look for her outside Ikenni Villa.","target":"梅拉让她逃走了 她不该走远的 我应该在艾肯尼别墅外面找她","method":"machine"}
-{"source":"Speak with Safiya","target":"和萨菲亚说话","method":"machine"}
-{"source":"Sergeant Tabu has agreed to allow me to make a deal with Safiya. If I can convince her to share her adopted daughters with his soldiers, then he will make sure that the priestess will allow Safiya access to her pool.","target":"塔布中士同意我和萨菲亚达成协议,如果我能说服她与他的士兵们分享她领养的女儿,那么他就会确保女祭司允许萨菲亚进入她的泳池.","method":"machine"}
-{"source":"Meet with Tabu","target":"与 Tabu 会面","method":"machine"}
-{"source":"Safiya has accepted the deal to share her daughters. I should return to Tabu with the good news.","target":"萨菲亚已经接受了分享女儿的协议,我应该带着好消息回到塔布.","method":"machine"}
-{"source":"Collect five sandscale minnow","target":"收集5个沙层","method":"machine"}
-{"source":"Badeel of the Gilded Fold needs aid in feeding the flock. Catching at least five sandscale minnow for him should be enough.","target":"吉尔德·福德的巴迪尔在喂养羊群方面需要援助,为他捕捉至少五只沙子应该足够了。","method":"machine"}
-{"source":"Turn in your catches","target":"交出你的渔获物","method":"machine"}
-{"source":"I've caught five sandscale minnow. I should place them into the barrel near Badeel.","target":"我抓了五个沙子,我应该把它们放在巴迪尔附近的桶里","method":"machine"}
-{"source":"Find the herder a drink","target":"给牧民找杯喝的","method":"machine"}
-{"source":"I ran into a herder who is dying for a drink. Maybe if I grab him one he'll put in a good word for me with The Fold.","target":"我遇到一个牧民,他要喝酒了,也许我拿一个,他就会帮我写一个好词","method":"machine"}
-{"source":"Bring a drink to the herder","target":"给牧人拿杯酒来","method":"machine"}
-{"source":"I've found a drink. I should return to the thirsty herder.","target":"我找到酒了,我该回那口渴的牧人那里去","method":"machine"}
-{"source":"Meet Damaris outside","target":"外面见达玛里斯","method":"machine"}
-{"source":"Damaris has asked me to join her for a walk outside.","target":"达玛里斯让我跟她出去散步","method":"machine"}
-{"source":"Make your decision","target":"做决定吧","method":"machine"}
-{"source":"I need to decide how to approach my relationship with Demaris.","target":"我得决定怎么处理我和德马里斯的关系","method":"machine"}
-{"source":"Find Damaris at the Taberna","target":"在塔贝纳找到达玛里斯","method":"machine"}
-{"source":"I should seek out Damaris at The Rampant Lioness.","target":"我应该去找Damaris 在朗潘特狮子。","method":"machine"}
-{"source":"Talk to Damaris","target":"和达玛里斯谈谈","method":"machine"}
-{"source":"I should speak with Damaris.","target":"我该和达玛里斯谈谈","method":"machine"}
-{"source":"Regain Damaris' trust","target":"重新赢得达马里斯的信任","method":"machine"}
-{"source":"Damaris undoubtedly hates me, but maybe I'll be able to regain her trust later.","target":"达玛里斯无疑恨我,但也许我以后能重新获得她的信任.","method":"machine"}
-{"source":"Help Amonhoteph","target":"帮助 Amonhoteph","method":"machine"}
-{"source":"I've met an old warrior named Amonhoteph. He seeks a warrior's death by a worthy foe. I am to defeat him in honorable combat and send his spirit to Keth-Eros.","target":"我见过一个名叫阿蒙霍特夫的老战士,他要用一个值得称道的敌人来寻找一个战士的死亡,我要在光荣的战斗中击败他,并将他的精神送到凯斯-伊罗斯.","method":"machine"}
-{"source":"Learn to fish with Moswen","target":"学着和莫斯文一起钓鱼","method":"machine"}
-{"source":"Moswen has offered to teach me to fish, and surprisingly with no strings attached. He's offered me his pole to use.","target":"莫斯文曾提出教我钓鱼,令人惊讶的是没有附着的绳索,他还向我提供了他的杆子来使用.","method":"machine"}
-{"source":"Catch your first fish with Moswen","target":"和莫斯文一起钓鱼吧","method":"machine"}
-{"source":"Moswen has asked me catch a fish while he watches.","target":"莫斯文让我在看时钓鱼","method":"machine"}
-{"source":"Recieve permission from Safiya","target":"收回来自萨菲亚的许可","method":"machine"}
-{"source":"Mera is stricly forbidden from intimate interactions with any outsiders without Mother's permission. I should speak to Safiya about this.","target":"梅拉在未经母亲允许的情况下被严禁与任何外人亲密交往,我应该和萨菲亚谈谈这个问题.","method":"machine"}
-{"source":"Give Mera the good news","target":"给梅拉个好消息","method":"machine"}
-{"source":"I've secured a treaty between the Anubites and Safiya, granting me access to her handmaidens, including Mera. I should speak with Mera.","target":"我和阿努比人和萨菲亚人签了约,允许我接触她的婢女,包括梅拉,我应该和梅拉谈谈.","method":"machine"}
-{"source":"Free Khalia","target":"免费卡莉亚","method":"machine"}
-{"source":"I found a woman bound up by the Inquisition of Bast. I should free her.","target":"我发现一个女人被Bast的宗教裁判所捆绑 我该释放她","method":"machine"}
-{"source":"Speak to Khalia","target":"跟卡莉亚说","method":"machine"}
-{"source":"I've freed Khalia. I should speak with her now.","target":"我释放了卡莉娅 我现在应该和她谈谈了","method":"machine"}
-{"source":"Follow the suspicious villager","target":"跟随可疑的村民","method":"machine"}
-{"source":"A suspicious looking villager was watching me as I freed Khalia. I assumed the Inquisition killed everyone else. I should follow this villager to find out who they are.","target":"一个可疑的村民在我释放卡莉娅时看着我,我猜宗教裁判所杀了其他人,我应该跟随这个村民去找出他们是谁.","method":"machine"}
-{"source":"Follow the stranger inside","target":"跟着陌生人进去","method":"machine"}
-{"source":"The suspicious villager has disappeared into a house. I should follow her inside.","target":"可疑的村民已经消失在房子里了 我应该跟着她进去","method":"machine"}
-{"source":"Investigate the depths of the house","target":"调查房子的深处","method":"machine"}
-{"source":"The house is not all it seems to be. I should delve deeper in search of the suspicious villager.","target":"房子看起来并不尽然,我应该更深入地寻找可疑的村民.","method":"machine"}
-{"source":"Speak with the suspicious villager","target":"跟那个可疑的村民说话","method":"machine"}
-{"source":"I followed the suspicious villager to into an exotic refuge carved out beneath the house. She caught me off guard, but spared my life. I should speak to her to learn more about who she is, and what she's doing.","target":"我跟着那个可疑的村民来到一个异国避难处,在房子下面雕刻了一座,她把我吓坏了,却饶了我一命,我应该跟她谈谈,以了解她是谁,她在做什么.","method":"machine"}
-{"source":"Help Tefahra or leave","target":"帮助Tefahra或离开","method":"machine"}
-{"source":"I've learned that the suspicious villager is a woman named Tefahra, an Inquisitor of Bast. I stand at a crossroads. Do I help her in her supposedly noble cause? Or do I simply leave and forget this meeting ever happened?","target":"我了解到,可疑的村民是一个叫Tefahra的女人,是巴斯的宗教裁判官。我站在十字路口,我帮她从事她所谓的崇高事业吗?还是我干脆离开,忘记了这次会面的发生?","method":"machine"}
-{"source":"Find the Anubite orgy","target":"找到无比狂欢","method":"machine"}
-{"source":"I've agreed to help Tefahra, but she wishes to test my dedication first. I must interrupt an Anubite orgy. The first step is to locate it.","target":"我同意帮助泰法赫拉,但她希望先测试我的献身精神,我必须打断一次阿努比特狂欢,第一步是找到它.","method":"machine"}
-{"source":"Deal with the Anubite orgy","target":"处理狂欢狂欢","method":"machine"}
-{"source":"I've found the Anubite orgy. Now, according to Tefahra, I must find a way to interrupt it, lest they continue to perpetuate the horrible curse affecting everyone.","target":"我找到了Anubite狂欢。现在,根据Tephra,我必须想办法打断它,以免它们继续延续影响每个人的可怕诅咒。","method":"machine"}
-{"source":"Return to Tefahra in Maz-Arjeni","target":"回马兹阿杰尼的特法赫拉","method":"machine"}
-{"source":"I've dealt with the Anubite orgy-goers. Now I must return to Tefahra in her hideout beneath Maz-Arjeni.","target":"我对付过阿努比特狂欢狂人 现在我必须回到马兹 -阿杰尼的藏身处","method":"machine"}
-{"source":"Search for clues to Tefahra's whereabouts","target":"寻找Tephahra下落的线索","method":"machine"}
-{"source":"I've returned to Tefahra's hideout beneath Maz-Arjeni, but she isn't here. Perhaps she left a clue to where she went off to around here somewhere.","target":"我回到了Tephahra的藏身之处,但她不在,也许她留下了一条线索,她跑到附近某个地方去了。","method":"machine"}
-{"source":"Speak to Tefahra at the Rampant Lioness","target":"在朗潘特狮子座对Tefahra说","method":"machine"}
-{"source":"I've discovered that Tefahra has moved to the taberna known as The Rampant Lioness on Tal'Senet. I should find her there. According to the note she left me, I should bring her a Blood-Reed Tonic to show I am still a friend of her order.","target":"我发现泰法赫拉已经搬到塔勒塞内特的塔勒纳, 叫做\"拉姆潘特狮子\"。我应该在那里找到她。根据她留给我的字条,我应该给她带一支血红通尼克来表明我仍然是她命令的朋友。","method":"machine"}
-{"source":"Go to Kab'Alrek","target":"去Kab'Alrek(卡布阿尔雷克)","method":"machine"}
-{"source":"Tefahra has tasked me to stop the Anubites from recovering a ritual vessel that was sealed in a tomb called Kab'Alrek. I should make my way there.","target":"特法赫拉让我阻止阿努比人 找回一个被封在一个叫Kab'Alrek的坟墓里的祭祀器","method":"machine"}
-{"source":"Infiltrate the tomb","target":"潜入坟墓","method":"machine"}
-{"source":"I've found Kab'Alrek, but the Anubites are already inside. Going through the front door will no doubt end in bloodshed. Perhaps there's a way I could sneak in.","target":"我找到Kab'Alrek了,但Anubites已经在里面了,穿过前门无疑会流血而死,也许我可以偷偷溜进去。","method":"machine"}
-{"source":"Deal with the priestess","target":"和女祭司谈吧","method":"machine"}
-{"source":"Deep within Kab'Alrek, I've discovered an Anubite Priestess attempting to use the ritual vessel. I should take care of her.","target":"在Kab'Alrek深处,我发现一个阿努比特女祭司 试图使用仪式容器。","method":"machine"}
-{"source":"Leave Kab'Alrek","target":"离开Kab'Alrek","method":"machine"}
-{"source":"With the Anubite priestess defeated, it's safe to say their excursion is over. I should return to Tefahra with the good news.","target":"随着阿努比特女祭司被击败,可以说他们的远足已经结束了,我应该带着好消息回到特法赫拉.","method":"machine"}
-{"source":"Speak to the Inquisitor","target":"和审讯官说话","method":"machine"}
-{"source":"Some Inquisitors have arrived, if only they had arrive a bit sooner... Nevertheless, I should speak to their leader.","target":"有些审讯者已经到来,但愿他们早一点到来...","method":"machine"}
-{"source":"Return to Tefahra","target":"回到特法赫拉","method":"machine"}
-{"source":"It appears the Inquisitors have things at Kab'Alrek sorted. I should report back to Tefahra.","target":"看来调查者在Kab'Alrek有事情要处理 我得回特法赫拉去","method":"machine"}
-{"source":"Choose a path","target":"选择路径","method":"machine"}
-{"source":"Tefahra wishes to induct me into the Inquisition of Bast! I've been given the choice of three different methods through which I may devote myself. I should let Tefahra know my choice.","target":"特法赫拉希望把我介绍进巴斯特的宗教裁判所里去!我被赋予了选择三种不同方法,通过这些方法我可以专心奉献,我应该让特法赫拉知道我的选择.","method":"machine"}
-{"source":"Meet Tefahra in her hideout","target":"在她的藏身处见特法赫拉","method":"machine"}
-{"source":"Tefahra wishes to induct me into the Inquisition of Bast! I need to find her in her hideout and then make my choice. I've been given the choice of three different methods through which I may devote myself.","target":"特法赫拉想把我介绍进巴斯特的宗教裁判所 我需要找到她在她的藏身处 然后做我的选择","method":"machine"}
-{"source":"Complete the Trial of Pain","target":"完成痛苦审判","method":"machine"}
-{"source":"I've chosen the Trial of Pain. Now I must endure, for Bast.","target":"我选择了痛苦的考验 现在我必须忍受,为Bast。","method":"machine"}
-{"source":"Complete the Ritual of Temptation","target":"完成诱惑程序","method":"machine"}
-{"source":"I've chosen to go through the Ritual of Temptation. I must remain steadfast for Tefahra, and for Bast.","target":"我选择了通过\"诱惑仪式\" 我必须为Tefahra和Bast 坚持不懈","method":"machine"}
-{"source":"Complete the Plea of Deliverance","target":"完成 \" 交付欢乐 \"","method":"machine"}
-{"source":"I've choses to devote myself to Bast through the Plea of Deliverance. May Bast hear my words.","target":"我选择了通过\"交付的欢乐\"献身于巴斯,愿巴斯听到我的话.","method":"machine"}
-{"source":"Speak to Tefahra","target":"告诉特法赫拉","method":"machine"}
-{"source":"I did it. I successfully performed the rite. I should speak to Tefahra to finalize my induction into the Inquisition.","target":"我做到了,我成功完成了仪式,我应该和特法赫拉谈谈, 完成我进入宗教裁判所的入门仪式。","method":"machine"}
-{"source":"Search for Amhak","target":"寻找安哈克","method":"machine"}
-{"source":"An Anubite priestess named Amansi has asked me to look for Amhak, her 'dimwitted half-brother'. There must be someone around here who knows where he went...","target":"一位名叫阿曼西的阿努比特女祭司叫我去找阿姆哈克 她的\"白痴同父异母的弟弟\"","method":"machine"}
-{"source":"Find Amhak's ruins","target":"找到阿姆哈克的废墟","method":"machine"}
-{"source":"According to Amhak's journal, there's a ruined tomb known not far from here. He apparently believes it contains a ritual vessel, and has gone off in search of it. I should look for these ruins.","target":"根据Amhak的日记,离这里不远处有一座被毁的坟墓,他显然认为里面有一艘祭祀船,为了寻找它,我应该找找这些废墟.","method":"machine"}
-{"source":"Find Kab'Sehet","target":"找到 Kab' sehet( Kab' sehet )","method":"machine"}
-{"source":"I spoke with Amhak's servant who told me Amhak went to explore some nearby ruins, a tomb called 'Kab'Sehet'. I should make my way there.","target":"我和安哈克的仆人谈过了,他说安哈克去探索附近的一些废墟,一个叫'Kab'Sehet'的坟墓,我应该去那儿。","method":"machine"}
-{"source":"I've found Kab'Sehet. Amhak must be within. I should have a look around.","target":"我找到Kab'Sehet了 Amhak一定在里面 我该四处看看","method":"machine"}
-{"source":"Find Amhak","target":"找到阿姆哈克","method":"machine"}
-{"source":"I've found some ruins nearby the Anubite encampment. Perhaps this is where Amhak went? I should have a look around.","target":"在阿努比特营地附近发现了一些废墟,也许阿姆哈克就是到这里的?","method":"machine"}
-{"source":"Save Amhak","target":"保存安哈尔","method":"machine"}
-{"source":"I've found Amhak, but he's trapped. I should eliminate the enemies keeping him trapped.","target":"我找到Amhak了,但他被困住了 我应该除掉那些让他被困住了的敌人","method":"machine"}
-{"source":"Speak to Amhak at the Anubite camp","target":"和阿努比特营地的阿姆哈克说话","method":"machine"}
-{"source":"I've successfully saved Amhak. I should check in on him back at the Anubite camp.","target":"我成功救回了Amhak 我应该在Anubite营地检查一下他","method":"machine"}
-{"source":"Speak to Astari","target":"和阿斯塔里说话","method":"machine"}
-{"source":"It seems Amhak's other half-sister, Astari, would like a word with me.","target":"看来阿姆哈克的另一个同父异母的妹妹 阿斯塔里想和我谈谈","method":"machine"}
-{"source":"Speak to Amhak","target":"跟阿姆哈克说","method":"machine"}
-{"source":"Now Amhak wishes to speak with me. To offer thanks, no doubt. It sure feels good to be helpful.","target":"现在安哈克想和我谈谈 说谢谢,毫无疑问 很有帮助","method":"machine"}
-{"source":"Delve into the mysteries of the cave","target":"深挖洞穴的奥秘","method":"machine"}
-{"source":"I've discovered a strange cave. The very air emanating from it feels... strange. I should investigate.","target":"我发现了一个奇怪的洞穴,它产生的空气感觉...","method":"machine"}
-{"source":"Defeat Inquisition raiders","target":"败于宗教裁判所突袭者","method":"machine"}
-{"source":"Maz-Arjeni is under attack. I must defeat the Inquisition and free the woman they appear to have tied up.","target":"马兹阿杰尼受到攻击,我必须打败宗教裁判所,释放他们被绑起来的女人。","method":"machine"}
-{"source":"Explore deeper into Maz-Arjeni Tomb","target":"深入到Maz-Arjeni墓","method":"machine"}
-{"source":"I've entered into the Maz-Arjeni Tomb, it appears to be filled with the Inquisition.","target":"我进入了Maz -Arjeni墓, 它似乎充满了宗教裁判所。","method":"machine"}
-{"source":"Free the captives","target":"释放俘虏","method":"machine"}
-{"source":"I've found tied up Captives being held here, I can help. I have a bad feeling about this.","target":"我发现卡皮提斯被绑在这里 我可以帮忙 我有不好的预感","method":"machine"}
-{"source":"Find out what is required for the ritual","target":"找出仪式需要什么","method":"machine"}
-{"source":"I've offered to 'tread the Path' with an Anubite called Asman, I should find out what he needs from me.","target":"我提议跟一个叫阿斯曼的阿努比特人 一起\"去读路\",我应该知道他需要我什么","method":"machine"}
-{"source":"Search for the \"Sacred\" Oils of Preparation","target":"寻找\"神圣的\"油料准备","method":"machine"}
-{"source":"Asman has asked me to find the \"Sacred\" Oils of Preparation. They should be somewhere nearby, surely any Oil will do.","target":"阿斯曼要求我找到\"神圣\"的准备油,它们应该就在附近,任何石油肯定都会做.","method":"machine"}
-{"source":"Return to Asman","target":"回到阿斯曼身边","method":"machine"}
-{"source":"I've found the oils! I should return to Asman.","target":"我找到油了,我该回阿斯曼了","method":"machine"}
-{"source":"Search for the Sacred Rug of Repose","target":"寻找Repose的神圣鲁格","method":"machine"}
-{"source":"I've now been sent to find the Sacred Rug of Repose, surely it's around here somewhere.","target":"我被派去寻找雷波斯的圣鲁格 肯定就在这里附近","method":"machine"}
-{"source":"I've got the rug, I should bring it back to Asman.","target":"我有地毯,我应该把它带回阿斯曼。","method":"machine"}
-{"source":"Search for the Sacred Incense of Insight","target":"寻找视觉的神圣内涵","method":"machine"}
-{"source":"Asman has now asked me to find the Sacred Incense of Insight. He said that it'd probably be near where I found the Sacred Oil.","target":"阿斯曼现在要求我找到神明的神灵。他说,它可能就在我发现圣油的地方。","method":"machine"}
-{"source":"I can't find any Sacred Incense of Insight around, I should let Asman know.","target":"我找不到任何神圣的洞察力, 我应该让阿斯曼知道。","method":"machine"}
-{"source":"Bring Farkos some Melinh Wine","target":"给法科斯拿点梅林酒来","method":"machine"}
-{"source":"A minoan has demanded I bring him a local drink, I've heard some locals talking about 'Melinh Wine' so hopefully that'll do. There must be a bar nearby I can purchase it from.","target":"一个小矮人要求我给他带点当地饮料, 我听到一些当地人说\"麦林酒\",希望这样。附近一定有个酒吧,我可以从那里买。","method":"machine"}
-{"source":"Bring Farkos some Yellow Sweetwater","target":"给法科斯拿点黄甜水来","method":"machine"}
-{"source":"Farkos hated the wine and is now demanding some Yellow Sweetwater, the nearby bar should sell it.","target":"法科斯讨厌酒,现在要求一些黄甜水,附近的酒吧应该出售.","method":"machine"}
-{"source":"Bring Farkos some Minot Brandy","target":"给法科斯拿些米诺白兰地","method":"machine"}
-{"source":"... Farkos hated the Yellow Sweetwater as well and is now demanding Minot Brandy. There must be some at the bar.","target":"法科斯也讨厌黄甜水 现在要求米诺特白兰地 酒吧一定有","method":"machine"}
-{"source":"Bring Nisu some Girin-Da","target":"给尼苏拿点吉林达来","method":"machine"}
-{"source":"I've bumped into Nisu who mid-threesome has asked me to fetch her some lube, specifically Girin-Da She said that Hasina should have some in stock.","target":"我碰到了尼苏,他三点半就叫我给她拿点润滑油 特别是吉林达 她说哈西娜应该有一点","method":"machine"}
-{"source":"Find a musician","target":"找个音乐家","method":"machine"}
-{"source":"Nisu has now asked me to bring her a musician, hopefully one will be lurking around here somewhere.","target":"尼苏现在让我带一个音乐家来 希望有人会潜伏在这里某处","method":"machine"}
-{"source":"Return to Nisu","target":"回到尼苏","method":"machine"}
-{"source":"Apet has agreed to play for Nisu, I should check in with her.","target":"阿沛同意为尼苏出场了,我应该去跟她谈谈.","method":"machine"}
-{"source":"Find Nisu's friend","target":"去找小乃的朋友,你找谁?","method":"machine"}
-{"source":"Nisu has now asked me to pass a message to a friend of hers- they need to go and see her for 'the usual'. She should be on Tal-Senet alongside her husband.","target":"尼苏现在让我给她的朋友发个信息 他们得去见她,像往常一样,她应该和丈夫一起在塔勒森特上","method":"machine"}
-{"source":"Catch up with Amhak over some drinks","target":"和阿姆哈克一起喝杯酒吧","method":"machine"}
-{"source":"I've met up with Amhak outside the Taberna, I should find out if he has any clues relating to more Vessels.","target":"我和阿姆哈克在塔伯纳号外见过面 我该查查他有没有 更多船只的线索","method":"machine"}
-{"source":"Investigate Amhak's Camp for clues","target":"调查阿姆哈克的营地 寻找线索","method":"machine"}
-{"source":"Amhak has been investigating clues relating to more Ritual Vessels, I should check with him and the Artefacts in his camp","target":"阿姆哈克一直在调查更多里图尔船只的线索 我该查查他和他的营地里的阿尔特福克斯","method":"machine"}
-{"source":"Speak with Amhak","target":"跟阿姆哈克说话","method":"machine"}
-{"source":"I've inspected Amhak's tomb findings and they all point to one location - Kab'Siron, I should speak to him about it.","target":"我检查了Amhak的墓穴发现 他们都指向一个地点 Kab'Siron 我该和他谈谈","method":"machine"}
-{"source":"Find Kab'Siron","target":"找到卡布的西龙","method":"machine"}
-{"source":"All of Amhak's notes relate to a Dungeon on Mehden Island called Kab'Siron, we should head there to look for any clues.","target":"所有阿姆哈克的笔记都和梅登岛的一个叫Kab'Siron的敦煌有关 我们应该去那里寻找任何线索","method":"machine"}
-{"source":"Rendezvous with Amhak","target":"和阿姆哈克结对","method":"machine"}
-{"source":"I've entered Kab'Siron, I should meetup with Amhak so we can uncover it's mysteries together.","target":"我进入了卡布西龙,我应该和阿姆哈克碰面 这样我们就可以一起发现这是个谜","method":"machine"}
-{"source":"Find another route","target":"寻找其它路线","method":"machine"}
-{"source":"Amhak has fallen through a trap door and is lost, I can't follow him, I'll have to find another way through.","target":"阿姆哈克掉进陷阱门 迷路了 我无法跟随他 我必须另寻出路","method":"machine"}
-{"source":"Solve the puzzle","target":"解开谜题","method":"machine"}
-{"source":"I've found a flooded room with no clear way to get across the broken Aqueduct, maybe it has something to do with these water valves?","target":"我发现一个淹没的房间 没有明确的方法穿过破损的水管 也许它和这些水阀有关?","method":"machine"}
-{"source":"I've found a way to flood the room to get across, I'll find Amhak in here somewhere","target":"我找到一个办法把房间淹了 才能过去 我会找到阿姆哈克的","method":"machine"}
-{"source":"Defeat the Shade of Nethyra","target":"击败内希拉的阴影","method":"machine"}
-{"source":"Amhak by nearing the Vessel of Nethrya has summoned a terrifying Crocodilian monster, hopefully by killing it we can grab the Vessel and make it out alive.","target":"阿姆哈克靠近内特里亚的船 召唤了一只可怕的鳄鱼 希望通过杀死它 我们就能抓住这艘船 让它活着出来","method":"machine"}
-{"source":"Obtain the Vessel of Nethrya","target":"获得Nethrya号船只","method":"machine"}
-{"source":"The beast has been defeated and I'm somehow still alive, let's grab the Vessel and get out of here.","target":"这只野兽被打败了 我不知怎么还活着 我们抓住船离开这儿吧","method":"machine"}
-{"source":"Return to Amansi at the Anubite Camp","target":"回到阿努比特营地的阿曼西","method":"machine"}
-{"source":"Now I've got the Vessel, I should head back to Amansi in the Anubite Camp and see if this was worth the effort.","target":"现在我有船了,我该回阿努比特营地的阿曼西 看看这是否值得努力","method":"machine"}
-{"source":"Loot the Anubite Armoury","target":"偷袭阿努比特军械","method":"machine"}
-{"source":"I've chosen a key to the Anubite Armory, I should grab the weapon and see what other rewards await me around the camp.","target":"我选了阿努比特兵团的钥匙 我该拿起武器 看看营地周围还有什么回报等着我","method":"machine"}
-{"source":"Find the Farmstead owner","target":"找到农场主","method":"machine"}
-{"source":"Investigate the Farm","target":"调查农场","method":"machine"}
-{"source":"Track the source of blood","target":"追踪血液的来源","method":"machine"}
-{"source":"Find the Farmer","target":"找到农夫","method":"machine"}
-{"source":"Find a way to save the Formless","target":"找到拯救无形者的方法","method":"machine"}
-{"source":"I've found a shipwrecked Gilded Fold herder with some drowning caged formless, it appears the key has been lost with the wreckage nearby.","target":"我发现一艘沉船撞上了吉尔德·福尔德牧民 上面有些溺水的笼子没有形状 看起来钥匙跟附近的残骸一起丢了","method":"machine"}
-{"source":"Negotiate with the Inquisitor","target":"与审讯官谈判","method":"machine"}
-{"source":"An Inquisitor has shown up and has taken issue with simply freeing the slaves from drowning only to hand them over to slavery, I need to make my choice of their fate even if this means conflict.","target":"一个问讯官露面, 并开始反对仅仅让奴隶们免于溺水, 只为了把他们交给奴隶, 我需要选择他们的命运, 即使这意味着冲突。","method":"machine"}
-{"source":"Find the Pleasure Palace","target":"找到欢乐宫","method":"machine"}
-{"source":"I've heard rumour of a place nearby full of desire and pleasure, I should check it out, seems right up my alley.","target":"我听说过一个有欲望和快乐的地方的谣言 我该去查查 似乎就在我小巷里","method":"machine"}
-{"source":"Enter the pleasure palace","target":"进入欢乐的宫殿","method":"machine"}
-{"source":"Having found the pleasure palace and the less than enthused attendant, I should head inside.","target":"找到快乐宫殿 和不够热情的侍从后, 我该进去了。","method":"machine"}
-{"source":"Investigate the Pleasure Palace","target":"调查欢乐宫","method":"machine"}
-{"source":"I appear to have been trapped inside, hopefully this is for my benefit, but I'm beginning to get concerned, I should take a look around.","target":"我好像被困在里面了 希望这有利于我 但我开始担心了 我应该四处看看","method":"machine"}
-{"source":"Defeat the Inquisition Ambush","target":"击败宗教裁判所突围","method":"machine"}
-{"source":"I've been ambushed by an overly zealous Inquisitor, it's do or die.","target":"我被一个过于狂热的问讯员伏击了, 它要么是做,要么是死。","method":"machine"}
-{"source":"Escape the Pleasure Palace","target":"逃离欢乐宫","method":"machine"}
-{"source":"Having defeated the Inquisitor, I should use that key I looted to make it out the back alive.","target":"打败了宗教裁判所之后 我应该用我抢来的钥匙 让它活着出来","method":"machine"}
-{"source":"Find the Aadi seller","target":"找到Aadi卖家","method":"machine"}
-{"source":"I've found a note from a stablemaster on Tal'Senet, he's gone to Mehden island, if I find them, I can buy my own Aadi.","target":"我从塔尔塞内特的马厩师那里找到一张纸条 他去了梅登岛 如果我找到他们 我可以买我自己的Aadi","method":"machine"}
-{"source":"Inquire about a Mount","target":"问一问山","method":"machine"}
-{"source":"I've found Hakor, I should see about acquiring my own steed.","target":"我找到哈科了 我该看看能不能买到自己的马匹","method":"machine"}
-{"source":"Purchase an Aadi","target":"购买一个Aadi","method":"machine"}
-{"source":"I've acquired an Aadi on trial from Hakor, if I pay him 1,000 gold, I can get the mount as my very own.","target":"我从Hakor那里买到一个Aadi 如果我付他1000金 我就能自己买到那座山","method":"machine"}
-{"source":"Find the meeting point","target":"找到会合点","method":"machine"}
-{"source":"I've received a strange and urgent note telling me to come to the Ruins of the Sacred Steps to retrieve an important item.","target":"我收到一封奇怪的紧急通知 通知我到圣阶山路去取一件重要物品","method":"machine"}
-{"source":"Investigate the Standoff","target":"调查僵局","method":"machine"}
-{"source":"I've discovered both the Anubites and the Inquisition fighting over the ruins, this is looking like trouble.","target":"我发现阿努比人和宗教裁判所 都在为废墟而战 这看起来很麻烦","method":"machine"}
-{"source":"Resolve the Situation","target":"解决局势","method":"machine"}
-{"source":"There's a simple dispute between a Copper Merchant and a Buyer, it appears the area is littered with complaints, I should investigate and settle the matter.","target":"铜商和买家之间有简单的纠纷 看来这个区域充满了投诉 我应该调查并解决问题","method":"machine"}
-{"source":"I've come across bickering Anubite and Gilded Fold members over the sale of a Slave, I think I can resolve this issue without any bloodshed.","target":"我遇到过争吵 阿努比特和吉尔德·福德成员 关于卖奴隶的事 我想我可以解决这个案子 而不流血","method":"machine"}
-{"source":"Choose your side","target":"选择你的一面","method":"machine"}
-{"source":"I must choose by side between the Anubites and the Inquisition on who should take the Artifact.","target":"我必须在阿努比人和宗教裁判所之间 做出选择 由谁来做艺术研究","method":"machine"}
-{"source":"Win the Battle","target":"赢得战斗","method":"machine"}
-{"source":"I've chosen to side with the Cult of Anubis, for now, and I must help kill the Inquisitors to retrieve the Voice of Amun.","target":"我选择了站在阿努比斯的邪教一边,现在,我必须帮助杀死调查者,以夺回阿蒙之声.","method":"machine"}
-{"source":"I've chosen to side with the Inquisition of Bast, for now, and I must help kill the Anubites to retrieve the Voice of Amun.","target":"我选择了站在巴斯宗教裁判所一边,现在,我必须帮助杀死阿努比人以夺回阿蒙之声.","method":"machine"}
-{"source":"Speak to Mehsu","target":"和美秀说话吧","method":"machine"}
-{"source":"I've retrieved the Voice of Amun, I need to speak to Mehsu to discuss the next steps.","target":"我找回了Amun之声 我需要和Mehsu谈谈下一步","method":"machine"}
-{"source":"Speak to Nehma","target":"和尼哈说","method":"machine"}
-{"source":"I've retrieved the Voice of Amun, I need to speak to Nehma to discuss the next steps.","target":"我找回了Amun之声 我需要和Nehma谈谈下一步","method":"machine"}
-{"source":"Kill Mehsu","target":"杀死梅苏","method":"machine"}
-{"source":"I've chosen to betray the Anubites and bring the Voice of Amun to the Inquisition, I must kill Mehsu.","target":"我选择了背叛阿努比人 将阿蒙之声带到宗教裁判所 我必须杀死梅苏","method":"machine"}
-{"source":"Kill Nehma","target":"杀了尼哈","method":"machine"}
-{"source":"I've chosen to betray the Inquisition and bring the Voice of Amun to the Anubites, I must kill Nehma.","target":"我决定背叛宗教裁判所 将阿蒙之声带到阿努比人那里 我必须杀了尼赫玛","method":"machine"}
-{"source":"Obtain the Voice of Amun","target":"获得Amun之声","method":"machine"}
-{"source":"There's some sort of Magical Force preventing me from just taking the Artifact. There must be a way to break the spell around here.","target":"一定有办法打破咒语","method":"machine"}
-{"source":"Hand over the Voice of Amun to Astari","target":"将阿蒙之声交给阿斯塔里","method":"machine"}
-{"source":"Hand over the Voice of Amun to Astari.","target":"把阿蒙的声音交给阿斯塔里","method":"machine"}
-{"source":"Hand over the Voice of Amun to Karo","target":"把阿蒙之声交给卡罗","method":"machine"}
-{"source":"Hand over the Voice of Amun to Karo.","target":"把阿蒙之声交给卡罗","method":"machine"}
-{"source":"Talk to the Baker","target":"和贝克谈谈","method":"machine"}
-{"source":"I've witnessed a thief making off with some bread from the Baker in Dhrakoq port, this injustice needs investigating.","target":"我亲眼看到一个小偷用 德拉科克港贝克号的面包溜走了 这不公平现象需要调查","method":"machine"}
-{"source":"Search for the Thief","target":"寻找小偷","method":"machine"}
-{"source":"I've offered to help a baker search for a Thief that keeps stealing from them, since they keep going there they must live nearby. I should search the area.","target":"我提议帮助一个面包师寻找一个盗贼, 他们一直在偷东西,因为他们必须住在附近。我应该搜查这个地区。","method":"machine"}
-{"source":"Decide what to do with the Thief","target":"决定怎么对付小偷","method":"machine"}
-{"source":"I've found the Thief, I could head back to the Baker now and let her know about him. Alternatively there must be some way I could convince him to stop stealing.","target":"我找到那个小偷了,我现在可以回贝克家 让她知道他的情况,否则我一定能说服他停止偷东西","method":"machine"}
-{"source":"Return to the Cook","target":"回到厨师身边","method":"machine"}
-{"source":"I've had a word with the Thief, he won't be a problem anymore. I should let the Baker know.","target":"我和小偷谈过了,他不会麻烦了,我应该让贝克知道","method":"machine"}
-{"source":"I've given the Thief some money to get them back on their feet, hopefully now they'll leave the Baker alone. I should let them know.","target":"我给了小偷一些钱让他们重新站起来 希望现在他们能离开贝克号","method":"machine"}
-{"source":"Deal with the Vigilante","target":"对付治安维持者","method":"machine"}
-{"source":"The Baker hired a Vigilante to take care of the Thief. I need to find and stop him before it's too late!","target":"贝克雇了一名治安维持者来对付小偷 我需要在为时已晚之前找到他并阻止他","method":"machine"}
-{"source":"Bring the Voice of Amun to Astari","target":"将阿蒙之声带到阿斯塔里","method":"machine"}
-{"source":"Now I have the Artifact - the Voice of Amun, I need to bring it to the Anubites, it cannot be in the Inquisiton Control. Astari will know what to do.","target":"现在,我得到了艺术 - Amun之声, 我需要把它带到Anubites, 它不能在Inquisiton控制。","method":"machine"}
-{"source":"Await further Instructions","target":"等待进一步指示","method":"machine"}
-{"source":"To be Continued...","target":"继续...","method":"machine"}
-{"source":"Bring the Voice of Amun to Karo","target":"把阿蒙之声带到卡罗","method":"machine"}
-{"source":"Now I have the Artifact - the Voice of Amun, I need to bring it to the Inquisition, it cannot be in the Anubites Control. Karo will know what to do.","target":"现在,我得到了艺术 - Amun之声, 我需要把它带到宗教裁判所, 它不能在Anubites控制。","method":"machine"}
-{"source":"Investigate the Strange Cries","target":"调查奇异的克瑞斯","method":"machine"}
-{"source":"I can hear some odd noises coming from a nearby pot, is someone stuck?","target":"我听到附近锅里有怪声 有人卡住了吗?","method":"machine"}
-{"source":"Free Onha from the Jar","target":"将Onha从大火中解放出来","method":"machine"}
-{"source":"I've discovered a helpless but clearly aroused stranger trapped inside a pot, I should see what I can do to help, maybe I can get hold of some Fish Oil from a vendor..","target":"我发现一个无助但显然激起陌生人 困在锅里,我应该看看我能做些什么来帮助, 也许我可以从一个卖家那里得到一些鱼油。","method":"machine"}
-{"source":"Return to Onha with the Lube","target":"带着卢贝回到翁哈","method":"machine"}
-{"source":"I've managed to find some Fish Oil, let's see if this can help get her lubed up and out of the pot.","target":"我找到一些鱼油了 看看这能不能帮到她从锅里拉出来","method":"machine"}
-{"source":"Journey to the Temple of Pahnu","target":"前往帕赫努寺的旅程","method":"machine"}
-{"source":"After speaking to Amara at the Shrine of Ascension, to gain more power and change the world I need to obtain the essence of demigods. For the essence of Pahnu I need to travel to their temple in the desert.","target":"在阿森松圣殿与阿马拉交谈后,为了获得更多的权力并改变世界,我需要获得神明的精髓,为了帕赫努的精髓,我需要前往沙漠中的神庙.","method":"machine"}
-{"source":"Investigate the temple","target":"调查神庙","method":"machine"}
-{"source":"I've arrived in the temple in the desert, let's investigate.","target":"我到了沙漠里的寺庙,我们来调查一下","method":"machine"}
-{"source":"Aid the Mouth of Pahnu","target":"帮助帕赫努的嘴","method":"machine"}
-{"source":"I've discovered and spoken to the Mouth of Pahnu, I think it won't speak to me unless I satiate it's thirst.","target":"我发现并和帕赫努的嘴说话, 我想它不会对我说话,除非我满足它渴。","method":"machine"}
-{"source":"Speak to the Mouth of Pahnu","target":"向帕赫努的嘴说话","method":"machine"}
-{"source":"After watering the tree, I can speak to the Mouth and unlock the next steps.","target":"给树浇水后,我可以对嘴说话,解锁下一步.","method":"machine"}
-{"source":"Attune to the Elements - Seek the Ancient Shrines","target":"适应元素 - 寻找古老的圣迹","method":"machine"}
-{"source":"The Mouth of Pahnu won't grant me access to the Labyrinth until I attune myself to the Land, Sea and Sky. I need to find their shrines and attune with the elements if I want the essence.","target":"帕赫努的嘴不会允许我进入迷宫,直到我回到陆地、海洋和天空。我要找到他们的神社,并适应元素,如果我想得到精髓的话。","method":"machine"}
-{"source":"Return to the Mouth of Pahnu","target":"回到帕赫努的嘴边","method":"machine"}
-{"source":"I've attuned to all three elements of Land, Sea and Sky and now I can proceed with my journey back to the Mouth of Pahnu.","target":"我已经适应了陆地、海洋和天空的所有三个要素,现在我可以继续我的旅程,回到帕赫努的嘴。","method":"machine"}
-{"source":"Enter the Temple of Pahnu","target":"进入帕赫努寺","method":"machine"}
-{"source":"I've been granted access, let's continue onward into the Temple.","target":"我获准进入,我们继续进入圣殿","method":"machine"}
-{"source":"Navigate Pahnu's Labyrinth","target":"帕胡湖导航","method":"machine"}
-{"source":"I've found that the temple is based on the ivy covered grounds of an Ancient Labyrinth, hopefully Pahnu is in the middle.","target":"我发现圣殿是基于古老迷宫的常青藤覆盖的地基,希望帕赫努位于中间.","method":"machine"}
-{"source":"Speak with the Demi-God Pahnu","target":"和上帝的帕赫努说话","method":"machine"}
-{"source":"I've found Pahnu, I need to obtain their essence.","target":"我找到Pahnu了,我要得到他们的精髓","method":"machine"}
-{"source":"Defeat Pahnu","target":"击败帕赫努","method":"machine"}
-{"source":"Enough talk, surely I can obtain Pahnu's essence by defeating them.","target":"说够了吧,我一定能打败他们 得到帕赫努的精髓","method":"machine"}
-{"source":"Return to Amara at the Shrine of Ascension","target":"回到阿森松圣殿的阿马拉","method":"machine"}
-{"source":"I've obtained the essence, I can now return to Amara at the Shrine fo Ascension","target":"我得到了精髓,我现在可以回到阿马拉 在圣殿佛阿森松","method":"machine"}
-{"source":"Deal with the Dune Bugs","target":"处理沙丘虫","method":"machine"}
-{"source":"Pahnu won't part with any essence until I prove that I can tend to the land, I can clear out some Dune Bug nests nearby to hopefully appease the Demi-God.","target":"帕赫努不会离开任何本质 除非我证明我能照顾土地 我可以清理附近一些沙丘虫窝 希望安抚德米神","method":"machine"}
-{"source":"Speak to Pahnu","target":"跟帕努说","method":"machine"}
-{"source":"After burning many Dune Bug nests, I've proved I can tend to the land and hopefully Pahnu will give me the essence I need.","target":"烧了许多沙丘虫巢后,我证明了我能照顾土地,希望帕赫努能给我所需的精髓.","method":"machine"}
-{"source":"Touch the Shrine to begin Purification","target":"触摸神社开始净化","method":"machine"}
-{"source":"I've found one of the Shrines of Elements, the Shrine of Sea. I need to touch it to attune to the Shrine.","target":"我找到一个\"元素圣殿\",\"海洋圣殿\",我需要触摸它才能适应圣殿.","method":"machine"}
-{"source":"Survive the trial of the Sea Shrine","target":"幸免于海神社的审判","method":"machine"}
-{"source":"The shrine is testing me by expunging dark creatures, I feel that if I survive the onslaught that I'll be worthy to meditate here.","target":"圣殿通过清除黑暗生物来考验我, 我觉得如果我能幸免于这种攻击, 我将值得在这里冥想。","method":"machine"}
-{"source":"Meditate at the Shrine","target":"在圣殿深思熟虑","method":"machine"}
-{"source":"I've survived the purging and now I can meditate and attune to the Sea.","target":"我活了下来,现在我可以沉思 并适应海洋。","method":"machine"}
-{"source":"Return to the Shrine Area to restart the Ritual","target":"回到神社区域,重启礼仪","method":"machine"}
-{"source":"After leaving the area I can feel that the shrine has become dormant once again, if I return I should be able to re-start the ritual.","target":"离开这个地区后,我感觉到神社再次变得休眠,如果我返回,我应该能够重新开始仪式。","method":"machine"}
-{"source":"Pass the trials to activate the Shrine of Land","target":"通过试验启动土地圣迹","method":"machine"}
-{"source":"I've found the Shrine of the Land, it appears to be dormant and is surrounded by void  magic. Perhaps by completing the puzzling trials the shrine will activate.","target":"我发现了圣殿,它似乎沉睡着,周围是虚幻的魔法,也许通过完成令人费解的试验,神社会激活它。","method":"machine"}
-{"source":"Meditate at the Shrine of Land","target":"冥想在土地圣迹","method":"machine"}
-{"source":"I've activated the shrine of Land and now I can meditate and attune to the Land.","target":"我激活了大地神社 现在我可以冥想和抚慰大地了","method":"machine"}
-{"source":"Traverse the Sky to reach the Sky Essence","target":"绕过天空到达天空之渊","method":"machine"}
-{"source":"I've found one of the Shrines of Elements, the Shrine of Sky. I need to touch it to attune to the Shrine. There appears to be a faint whispy path in the sky that I can traverse to make my way to the Shrine.","target":"我找到了一个\"元素圣殿\",即\"天空圣殿\",我需要触摸它才能适应圣殿,在天空中似乎有一条微弱的微弱的微弱路径,我可以穿过它去圣殿.","method":"machine"}
-{"source":"Speak to Amhak and Nepthys","target":"跟阿姆哈克和尼普提斯说话","method":"machine"}
-{"source":"I've found Amhak and Nepthys in Wased-Heq, they seem to be discussing something important.","target":"我在Washed-Heq找到Amhak和Nepthys 他们似乎在讨论一些重要的事情","method":"machine"}
-{"source":"Catch up with Amhak at the Temple of Anubis","target":"在阿努比斯庙跟阿姆哈克碰头","method":"machine"}
-{"source":"Make the journey to Wased-Heq","target":"踏上Washed-Heq的旅程","method":"machine"}
-{"source":"Find the Anubite Barracks","target":"找到阿努比特兵营","method":"machine"}
-{"source":"Nepthys has offered me a place in the Anubite Barracks to rest after my travels.","target":"Nepthys让我在阿努比特兵营里住个地方 在我旅行后休息","method":"machine"}
-{"source":"Earn a bunk in the ring","target":"在戒指里挣个床铺","method":"machine"}
-{"source":"The Barrack's Captain is making me prove myself to earn a bunk in the Barracks. Fisticuffs it is.","target":"军营的队长让我证明自己在军营里 挣了个床位,是的","method":"machine"}
-{"source":"DUD RN FOR SOME KINDA EVENT","target":"DUDRN 一些金塔式活动","method":"machine"}
-{"source":"Take a well earned Rest","target":"好好休息 休息 休息 休息 休息 休息","method":"machine"}
-{"source":"Having given the Barrack's Captain a good fisting, it's time to take a break and take a hard earned rest in the bunks.","target":"给营长一个很好的拳击, 是时候休息一下, 在床铺里好好休息。","method":"machine"}
-{"source":"Return to Nepthys and Amhak","target":"回到尼普提斯和安哈克","method":"machine"}
-{"source":"I've never felt so refreshed despite all the bumps in the night. I better get back to Nepthys, Amansi and Amhak.","target":"尽管晚上发生了很多意外,我从未感到如此清爽过,我最好回到尼普提斯,阿曼西和安哈克那里.","method":"machine"}
-{"source":"Travel to the Tomb of Q'Tesh","target":"前往Q'Tesh墓","method":"machine"}
-{"source":"The High Priestess, Nepthys, has requested that a ritual vessel be recovered from the Tomb of the Ascended.","target":"大祭司尼普提斯要求从阿斯塞德人墓中寻回一艘祭祀船.","method":"machine"}
-{"source":"Find the ritual vessel","target":"找到仪式的船","method":"machine"}
-{"source":"I've found the Tomb of Q'tesh, at least some entrance into this cursed place, now I need to find the ritual vessel.","target":"我找到Q'tesh的墓 至少在被诅咒的地方的某个入口 现在我需要找到仪式的容器","method":"machine"}
-{"source":"Defeat the Void Titan to Obtain the Sealed Vessel of Q'Tesh","target":"击败了威德巨人 以获得Q'Tesh的密封船","method":"machine"}
-{"source":"The Sealed Vessel is being guarded by some giant creature of the void, I'll need to kill this creature to take the vessel back to Nepthys.","target":"封印船被一个虚空的巨型生物守护着 我要杀了这个生物 才能把船带回尼普提斯","method":"machine"}
-{"source":"Pickup the Sealed Vessel of Q'Tesh","target":"搭起Q'Tesh的密封船","method":"machine"}
-{"source":"Now the Tomb Guardian has been defeated, I can retrieve the Sealed Vessel of Q'Tesh.","target":"墓护卫被击败了,我可以收回Q'Tesh的密封船。","method":"machine"}
-{"source":"Return to Nepthys","target":"返回 Nepthys 中","method":"machine"}
-{"source":"I have defeated the Tomb Guardian and retrieved the Sealed Vessel of Q'Tesh, I can now return to Nepthys.","target":"我打败了墓守护者 夺回了Q'Tesh的密封船 我现在可以回到Nepthys了","method":"machine"}
-{"source":"Speak to TEF","target":"跟TEF说话","method":"machine"}
-{"source":"Tefahra has requested that the Sealed Ritual vessel be recovered from the Tomb of the Ascended, stealing it from the Anubites.","target":"泰法赫拉公司要求从阿斯肯特人墓中收回密封礼仪船,从阿努比人那里偷来.","method":"machine"}
-{"source":"Find the Sealed Ritual Vessel of Q'Tesh","target":"找到Q'Tesh的密封礼仪船","method":"machine"}
-{"source":"Defeat the Void Titan to obtain the Ritual Vessel","target":"击败土卫六巨人以获得轮船","method":"machine"}
-{"source":"The Sealed Ritual Vessel is being guarded by some giant creature of the void, I'll need to kill this creature to take the vessel back to Tefahra.","target":"密封的礼仪船被一个 虚空的巨型生物守护着 我需要杀死这个生物 才能把船带回特法赫拉","method":"machine"}
-{"source":"Pick up the Sealed Vessel of Q'Tesh","target":"拿起Q'Tesh的密封船","method":"machine"}
-{"source":"I have defeated the Tomb Guardian and retrieved the Sealed Vessel of Q'Tesh, I can now return to Tefahra at her hideout.","target":"我击败了墓园守护者 夺回了Q'Tesh的封印船 我现在可以回到Tephahra的藏身处了","method":"machine"}
-{"source":"Speak to Esi","target":"跟艾西说","method":"machine"}
-{"source":"One of the Adepts of the Temple is here making camp outside the Tomb, I should speak to her.","target":"寺中阿底普特人之一在此在墓外筑营,我应该和她谈谈.","method":"machine"}
-{"source":"Investigate the body and area","target":"调查尸体和地区","method":"machine"}
-{"source":"One of the Adepts of the Temple is dead here, having made camp outside the Tomb, I should investigate.","target":"寺中阿底普特人之一在此逝世,在墓外扎营后,我应调查.","method":"machine"}
-{"source":"Find Khaba the Scribe","target":"找到卡巴的血迹","method":"machine"}
-{"source":"I should follow the river to the scribe's house.","target":"吾应随河至文士家.","method":"machine"}
-{"source":"Speak to Khaba","target":"跟哈巴说","method":"machine"}
-{"source":"I've found Khaba the Scribe at their home, I should speak to them and investigate the void.","target":"我在他们家找到卡巴的血迹 我应该和他们谈谈 并调查这个空虚","method":"machine"}
-{"source":"Find Khaba's servant","target":"去找哈巴的仆人 去找哈巴的仆人","method":"machine"}
-{"source":"Return to Khaba","target":"回到哈巴岛","method":"machine"}
-{"source":"Search for the ancient ruins","target":"寻找古老的废墟","method":"machine"}
-{"source":"Khaba has told me of ruins that supposedly house a gateway between this world and The Void. Laughed off as a children's story by Esi, perhaps this place really is a door to a place beyond reality.","target":"哈巴告诉我,这些废墟在这个世界和《流浪者》之间有一道通道。 被艾西嘲笑为儿童故事,也许这个地方真的是通往一个超越现实的地方的大门。","method":"machine"}
-{"source":"Unlock the Mysteries of the Ruins","target":"解开这些废墟的谜团","method":"machine"}
-{"source":"There are four statues marked with symbols that spin freely on their plinth. Perhaps a specific alignment of these is all that's needed to open the gateway.","target":"有四座雕像的标志 上面有他们的圆柱上自由旋转的标志, 也许这些雕像的具体对齐是打开入口所需要的。","method":"machine"}
-{"source":"Enter the temple","target":"进庙去","method":"machine"}
-{"source":"Find the hidden weapon","target":"找到隐藏的武器","method":"machine"}
-{"source":"It was trivial to open the gateway to The Void... baffling really that nobody had done it already. Now I've entered this void space, I need to find this hidden weapon.","target":"打开Void的网关实在太小了 令人困惑的是,没有人已经这样做了。","method":"machine"}
-{"source":"Speak to the void spirit","target":"向虚空的心灵说话","method":"machine"}
-{"source":"A void spirit has appeared within this strange place, I should speak to them.","target":"在这个陌生的地方出现了一种虚幻的精神,我应该和他们谈谈。","method":"machine"}
-{"source":"Gather Evidence to Find the Thief","target":"收集证据找到小偷","method":"machine"}
-{"source":"The Watch have asked me to search for a thief that's been plaguing the docks. I should ask around to try and track the thief down before confronting anyone. The various tradespeople are a good bet, one of them must have seen something.","target":"守望使我搜捕一个一直在码头上捣乱的贼,我应该四处找找,在与别人对峙之前先追寻这个贼,各行各业的人打赌是好的,其中一人一定看见了什么.","method":"machine"}
-{"source":"Confront the Black Felian","target":"面对黑菲利安","method":"machine"}
-{"source":"I have a description of the suspect, a distincive one at that. I should confront the Black Felian and put a stop to this spate of thefts.","target":"我有一个嫌疑人的描述,一个不切实际的,我应该面对黑菲利安人,并阻止这一系列的盗窃行为。","method":"machine"}
-{"source":"Determine the fate of Iraya","target":"确定伊拉亚的命运","method":"machine"}
-{"source":"I must choose the thief's fate, though no choice will be without consequence for myself. With a single decision I could make powerful friends, or dangerous enemies.","target":"我必须选择小偷的命运,尽管任何选择都不会对我自己造成后果,只要有单一的决定,我就能成为强大的朋友,或危险的敌人.","method":"machine"}
-{"source":"Condemned Iraya to the watch","target":"谴责伊拉亚上表","method":"machine"}
-{"source":"I have chosen to condemn Iraya to the watch, no doubt straight into the hands of the Merchant Guild.","target":"我选择了谴责伊拉亚上手表,毫无疑问是直接落入商行的手中.","method":"machine"}
-{"source":"Enslaved Iraya","target":"被奴役的伊拉亚","method":"machine"}
-{"source":"I've chosen to capture Iraya, I suppose I may as well sell her myself.","target":"我选择了抓住伊拉娅 我想我还是自己卖掉她吧","method":"machine"}
-{"source":"Freed Iraya","target":"释放伊拉亚","method":"machine"}
-{"source":"I've chosen to let Iraya go, surely her crimes do not warrant such awful fates.","target":"我选择了让伊拉娅走 她的罪行肯定不会给人如此可怕的命运","method":"machine"}
-{"source":"Investigate the body","target":"调查尸体","method":"machine"}
-{"source":"I've found the body of someone murdered in the street, maybe I should check it out.","target":"我发现有人在街上被谋杀了 也许我应该去查查","method":"machine"}
-{"source":"Report the body to the Watch","target":"把尸体报告给观察组织","method":"machine"}
-{"source":"The body has been mutilated, I should report it to the guards.","target":"尸体被肢解了,我应该向警卫报告","method":"machine"}
-{"source":"Find and speak to potential witnesses:","target":"寻找并会见可能的证人:","method":"machine"}
-{"source":"To get to the bottom of these killings I should speak to any potential witnesses.","target":"为了查清这些杀人事件 我该跟任何可能的证人谈谈","method":"machine"}
-{"source":"Find a Scribe","target":"找到一个 Scribe","method":"machine"}
-{"source":"The Jackal mentioned a scribe, perhaps there's one around here who can help identify the markings.","target":"Jackal提到过一位文士,也许附近有一位可以帮助识别标记的人.","method":"machine"}
-{"source":"Speak to the Stranger","target":"跟陌生人说话","method":"machine"}
-{"source":"There's a Draconid that's acting a bit suspicious, I should see if they saw anything.","target":"有个Draconid有点可疑 我该看看他们有没有看到什么","method":"machine"}
-{"source":"Follow the Stranger","target":"跟随陌生人","method":"machine"}
-{"source":"After mentioning Atá the Draconid ran, saying to follow them since 'it's not safe to mention that name here'. I should catch up to them.","target":"在提到阿塔后,德拉科尼德跑道,说要跟他们走,因为这里提到这个名字不安全,我应该赶上他们。","method":"machine"}
-{"source":"I've caught up to the Draconid and now they've locked me out, I should see what they have to say.","target":"我赶上了德拉科尼德 现在他们把我锁在外面了 我该看看他们要说什么","method":"machine"}
-{"source":"Defeat Mered","target":"击败梅雷德","method":"machine"}
-{"source":"I've refused to aid Mered and now he's attacking me, I need to defend myself.","target":"我拒绝帮助Mered 现在他正在攻击我 我需要保护自己","method":"machine"}
-{"source":"Read the Tome","target":"读《多美》","method":"machine"}
-{"source":"Mered mentioned a tome is what told him to kill people, I should check it out.","target":"梅雷德提到一个汤姆是 告诉他要杀人,我应该检查出来。","method":"machine"}
-{"source":"Speak to Mered","target":"跟Mered说话","method":"machine"}
-{"source":"I've refused to help Atá, I should return to Mered and turn him in.","target":"我拒绝帮助Atá, 我应该回到Mered 并把他交出来。","method":"machine"}
-{"source":"Decide the Scribe's fate","target":"决定Scribe的命运","method":"machine"}
-{"source":"Atá has asked me to kill the scribe, I should decide if I'll help with the killings.","target":"阿塔要我杀了文士,我应该决定我是否愿意帮忙解决这些杀戮事件.","method":"machine"}
-{"source":"Kill the Scribe","target":"杀死Scribe","method":"machine"}
-{"source":"I've decided to aid Atá in killing the scribe, I should pay them a visit.","target":"我决定协助阿塔杀死文士 我应该去拜访他们","method":"machine"}
-{"source":"I refused to kill the scribe and now Atá has instead asked me to bring Mered to Uket's shrine. I should go and grab him.","target":"我拒绝杀死文士,现在阿塔却让我把Mered带到Uket的神社,我应该去抓他。","method":"machine"}
-{"source":"Go to Uket's shrine","target":"去Uket的神庙","method":"machine"}
-{"source":"I need to lead Mered to Uket's shrine.","target":"我要带Mered去Uket的神社","method":"machine"}
-{"source":"Deal with Mered","target":"处理合并","method":"machine"}
-{"source":"We've arrived at Uket's shrine, time to see what Atá plans with Mered.","target":"我们到了Uket的神社,该看看Atá和Mered有什么计划了.","method":"machine"}
-{"source":"I've managed to get the Draconid to open the door and speak to me, let's figure out what's going on.","target":"我设法让德雷科尼德打开门,和我说话,我们想一想到底是怎么回事.","method":"machine"}
-{"source":"Atá has decided that Mered will be a worthy enough sacrifice to free him.","target":"阿塔决定默里德将是一个值得牺牲的牺牲来释放他.","method":"machine"}
-{"source":"Kill Mered","target":"杀死默化","method":"machine"}
-{"source":"I've determined that Mered must die to attone for his crimes.","target":"我决定梅雷德必须死 以弥补他的罪行","method":"machine"}
-{"source":"Decide Mered's Fate","target":"决定Mered的命运","method":"machine"}
-{"source":"Mered is begging for mercy and his life, I must choose.","target":"梅瑞德在求饶 他的命,我必须选择","method":"machine"}
-{"source":"Cook a Fruit Medley","target":"做个水果梅德利","method":"machine"}
-{"source":"I've run into a Chef who believes I'm part of his team and has demanded I make him a Fruit Medley with the nearby ingredients. Perhaps I should play along and see what I can learn.","target":"我遇到了一位厨师,他相信我是他的团队的一员,要求我给他做一个配有附近原料的水果梅德利。也许我应该一起玩,看看我能学到什么。","method":"machine"}
-{"source":"Hand the Fruit Medley to Kordon","target":"把水果梅德利交给柯登","method":"machine"}
-{"source":"I've made the Fruit Medley! I should bring it back to Kordon to see what he thinks.","target":"我做了水果梅德利,我应该把它带回科顿看看他怎么想的","method":"machine"}
-{"source":"Cook Emerald Skewers","target":"烹饪翡翠滑石","method":"machine"}
-{"source":"Kordon has now demanded I cook him some Emerald Skewers, surely he'll like those.","target":"Kordon现在要求我给他做点翡翠饼干 他肯定会喜欢的","method":"machine"}
-{"source":"Hand the Emerald Skewers to Kordon","target":"将翡翠悬崖交给柯登","method":"machine"}
-{"source":"I've made the Emerald Skewers! Now I need to hand them over to Kordon.","target":"我制造了翡翠雪糕 现在我要把它们交给科登","method":"machine"}
-{"source":"Cook Candied Nunut","target":"烹饪罐头核桃","method":"machine"}
-{"source":"Kordon also hated the Emerald Skewers and is now sending me to make some Candied Nunut. Perhaps this time he'll actually like it.","target":"Kordon也讨厌翡翠石雕,现在派我来做点甜甜的核桃。也许这次他会喜欢的。","method":"machine"}
-{"source":"Hand the Candied Nunut to Kordon","target":"将甜甜的核桃交给柯登","method":"machine"}
-{"source":"I've made the Candied Nunut, time to bring them back to Kordon.","target":"我已经做了甜甜圈, 时间把他们带回科尔登。","method":"machine"}
-{"source":"Search for clues","target":"寻找线索","method":"reviewed"}
-{"source":"I've encountered a Ritual Vessel that appears to be leaking. Perhaps if I can find a way to fix it, I could take its power for myself.","target":"我遇到了一个似乎在漏水的礼仪船,也许如果我能找到一个方法来修复它,我可以为自己夺取它的力量.","method":"machine"}
-{"source":"Read the Inquisitor's Journal","target":"阅读《问讯员杂志》","method":"machine"}
-{"source":"There was a dead Inquisitor nearby, perhaps their journal contains some information about what happened here.","target":"附近有一位死去的宗教裁判所, 也许他们的日记中包含了一些关于这里发生的事情的信息.","method":"machine"}
-{"source":"Reseal the Ritual Vessel","target":"恢复轮船","method":"machine"}
-{"source":"According to the Inquisitor's journal the Ritual Vessel can be resealed with the use of the Void, perhaps using a Void sorcery on it would do the trick?","target":"根据宗教裁判所的期刊 礼仪船可以重新封装 使用Void, 也许使用Void巫术 它会做诡计?","method":"machine"}
-{"source":"Pick up the Ritual Vessel","target":"拿起礼仪船","method":"machine"}
-{"source":"I've managed to reseal the Ritual Vessel, I should grab it before anyone else gets to it.","target":"我设法重新收复了礼仪船,我应该在别人到达之前抓住它.","method":"machine"}
-{"source":"I've encountered an Inquisitor who has been injured while fighting off some Cursed Ones. I should see what they were up to.","target":"我遇到一个审讯官,他在与被诅咒的人战斗时受伤。我应该看看他们在做什么。","method":"machine"}
-{"source":"Collect the Ritual Vessel","target":"收集轮船","method":"machine"}
-{"source":"The Inquisitor has succumbed to their wounds, I should grab the Ritual Vessel before it causes more problems.","target":"审讯官已经屈从于他们的伤口,我应该抓住礼仪船,以免它造成更多的问题。","method":"machine"}
-{"source":"Find the Inquisition's Shrine","target":"找到宗教裁判所的圣迹","method":"machine"}
-{"source":"The Inquisitor mentioned a Shine, perhaps I should do as they asked and destroy the Ritual Vessel there.. Or maybe I could use it for myself.","target":"问讯官提到闪电,也许我应该照他们的要求去做,摧毁那里的礼仪船,或者我可以自己使用它.","method":"machine"}
-{"source":"Defeat the Shrine Guardian","target":"打败神社守护者","method":"machine"}
-{"source":"It seems the Shrine was warded against non-Inquisitors, I need to take care of this Guardian.","target":"看来神社被禁锢在非审讯者身上 我需要照顾这个守护者","method":"machine"}
-{"source":"Destroy the Ritual Vessel","target":"摧毁礼仪船","method":"machine"}
-{"source":"I've found the Inquisition Shrine as well as a chest that's locked with some kind of spell. Maybe it was intended as a reward for the Inquisitor after they destroyed the Ritual Vessel. That being said.. I could still use the Ritual Vessel for myself instead.","target":"我找到了宗教裁判所的圣殿 以及一个用某种咒语锁住的胸膛 也许它是为了奖励宗教裁判所 在他们摧毁礼仪船之后","method":"machine"}
-{"source":"Investigate the commotion","target":"调查骚动","method":"machine"}
-{"source":"I've encountered a couple arguing over what appears to be some dug up treasure, I should check it out.","target":"我遇到了一对夫妇争吵 似乎一些挖掘出来的宝藏, 我应该检查出来。","method":"machine"}
-{"source":"Trouble in Paradise","target":"天堂的麻烦","method":"machine"}
-{"source":"After suggesting only one of them gets the treasure a fight has broken out between the duo. I should probably leave them alone.. But I could use this as my chance to get the treasure for myself.","target":"在暗示只有其中一人得到宝藏后,杜鹃花之间发生了争吵,我也许应该放过他们,但是我可以利用这个机会为自己获得宝藏.","method":"machine"}
-{"source":"Kill Hamnet & Shira","target":"杀死 Hamnet & Shira","method":"machine"}
-{"source":"I've decided that I want the treasure for myself, I should take care of these two first.","target":"我决定要宝物给自己,我先要照顾这两个.","method":"machine"}
-{"source":"Search the chest","target":"检查胸口","method":"machine"}
-{"source":"The treasure is mine for the taking!","target":"宝藏是我的!","method":"machine"}
-{"source":"Find the treasures","target":"找到宝藏","method":"machine"}
-{"source":"It turns out the treasure chest had just contained a couple of maps, perhaps I can find the real reward if I track them down.","target":"发现宝箱里有几张地图 或许我能找到真正的奖赏","method":"machine"}
-{"source":"Speak to the Slave","target":"向奴隶说","method":"machine"}
-{"source":"I've encountered a runaway Slave collapsed in the sand, I should see if I can help them.","target":"我遇到一个逃跑的奴隶 在沙子上崩溃了,我应该看看我能不能帮助他们。","method":"machine"}
-{"source":"Bring the Slave some water","target":"给奴隶拿点水来","method":"machine"}
-{"source":"I've brought the Slave to the shade but they're in dire need of something to drink. I should find some water for them.","target":"我把奴隶带到了阴凉的地方,但他们急需喝点什么,我应该给他们找点水喝.","method":"machine"}
-{"source":"Kemma must be somewhere nearby, I will recognise her by her necklace set with blue gemstones","target":"凯玛一定在附近,我会用她的项链认出她,带蓝色宝石","method":"machine"}
-{"source":"Description of success sub objective.","target":"成功分目标说明。","method":"machine"}
-{"source":"Return to the villager","target":"返回村民处","method":"reviewed"}
-{"source":"Search for the Brother","target":"寻找兄弟","method":"machine"}
-{"source":"Investigate the camp","target":"调查营地","method":"reviewed"}
-{"source":"Find out what happened.","target":"查明发生了什么。","method":"reviewed"}
-{"source":"Find some boats.","target":"找几条船","method":"machine"}
-{"source":"Speak to Captain Asim.","target":"跟阿西姆船长说","method":"machine"}
-{"source":"Search the West","target":"搜索西部","method":"reviewed"}
-{"source":"Search the North","target":"搜索北部","method":"reviewed"}
-{"source":"Search the South","target":"搜索南部","method":"reviewed"}
-{"source":"Search the Centre","target":"搜索中部","method":"reviewed"}
-{"source":"(Optional) Find Damaris' Lost Sword","target":"(可选)寻找 Damaris 丢失的剑","method":"machine"}
-{"source":"Find Damaris' Lost Sword","target":"寻找 Damaris 丢失的剑","method":"machine"}
-{"source":"Clear threats in the west","target":"西部有明显的威胁","method":"machine"}
-{"source":"Kill the cursed ones in the west","target":"杀死西部那些被诅咒的人","method":"machine"}
-{"source":"Clear threats in the north","target":"北部的明显威胁","method":"machine"}
-{"source":"Kill the cursed wives","target":"杀了那些被诅咒的妻子","method":"machine"}
-{"source":"Clear threats in the south","target":"南方明显存在威胁","method":"machine"}
-{"source":"Kill the cursed families","target":"杀了那些被诅咒的家庭","method":"machine"}
-{"source":"Find a Boat","target":"找到一条船","method":"machine"}
-{"source":"Reach Mehden Island","target":"抵达梅登岛","method":"reviewed"}
-{"source":"Speak to Captain Asim","target":"跟阿西姆队长说","method":"machine"}
-{"source":"Speak to Priestess Ameni","target":"跟阿门尼神父说话","method":"machine"}
-{"source":"Search the north of the island","target":"在岛的北部搜索","method":"machine"}
-{"source":"Search the south of the island","target":"搜索岛的南部","method":"machine"}
-{"source":"(Optional) Find and hunt the Creature","target":"(可选) 寻找和猎杀 生物","method":"machine"}
-{"source":"(Optional) Find and hunt the Creature which has been killing the Anubites","target":"(可选的)寻找和猎杀一直在杀死阿努比特人的生物","method":"machine"}
-{"source":"(Optional) Read the Frescos and Messages","target":"(可选)读取 Frescos 和信件","method":"machine"}
-{"source":"(Optional) Destroy the Effigies","target":"(可选)摧毁Effigies","method":"machine"}
-{"source":"Kill Cursed Ones","target":"杀死被诅咒的一","method":"machine"}
-{"source":"Kill Bloodseekers","target":"杀死寻求鲜血的人","method":"machine"}
-{"source":"Rescue Prisoners","target":"营救囚犯","method":"reviewed"}
-{"source":"Kill the Inquisition Raiders","target":"杀死审讯室的突袭者","method":"machine"}
-{"source":"Find the Last Supplies","target":"找到最后的补给品","method":"machine"}
-{"source":"Gather pulp of Yellow Fruit","target":"收集黄果浆","method":"machine"}
-{"source":"Gather River water","target":"收集河水( 河水)","method":"machine"}
-{"source":"Gather Night Lotus","target":"聚落夜莲","method":"machine"}
-{"source":"Gather Semen","target":"集合精液( T)","method":"machine"}
-{"source":"Return to Mesatnofreht with the Supplies","target":"带补给品回到Mesatnofreht","method":"machine"}
-{"source":"Find a weapon amongst the wreckage","target":"在残骸中寻找武器","method":"reviewed"}
-{"source":"Find Moswen's Rod","target":"找到莫斯文的罗德","method":"machine"}
-{"source":"Meet Moswen at the Docks","target":"在码头见莫斯文","method":"machine"}
-{"source":"Speak to the Anubite Priestess","target":"跟阿努比特女祭司说话","method":"machine"}
-{"source":"Kill the Anubites","target":"杀了阿努比人","method":"machine"}
-{"source":"???","target":"???","method":"machine"}
-{"source":"Try not to be seen!","target":"尽量不要被人看到!","method":"machine"}
-{"source":"Kill the Enemies trapping Amhak","target":"杀死敌人 陷害阿姆哈克","method":"machine"}
-{"source":"Dead Cattle","target":"死畜","method":"machine"}
-{"source":"Broken Table","target":"已断开的表格","method":"machine"}
-{"source":"Farm Implement","target":"农场执行","method":"machine"}
-{"source":"Fireplace","target":"壁炉","method":"machine"}
-{"source":"Eliminate the Bloodseekers","target":"消灭寻求鲜血者","method":"machine"}
-{"source":"Obtain the Cage Key","target":"获取笼盖密钥","method":"machine"}
-{"source":"Formless Saved","target":"无窗体已保存","method":"machine"}
-{"source":"Find another way through","target":"找另一条路过","method":"machine"}
-{"source":"Inspect the Copper Ingots (Optional)","target":"检查铜戈(可选)","method":"machine"}
-{"source":"Read the complaint tablets (Optional)","target":"读取申诉书片(可选)","method":"machine"}
-{"source":"Choose the Cult of Anubis","target":"选择阿努比斯的邪教","method":"machine"}
-{"source":"Choose the Inquisition of Bast","target":"选择 Bast 的裁判所","method":"machine"}
-{"source":"Kill the Inquisition","target":"杀死宗教裁判所","method":"machine"}
-{"source":"(Optional) Obtain the Voice of Amun","target":"(可选)获得Amun之声","method":"machine"}
-{"source":"Speak to the Suvivors","target":"与幸存者交谈","method":"reviewed"}
-{"source":"Give it to the Inquisition","target":"把它交给宗教裁判所","method":"machine"}
-{"source":"Give it to the Anubites","target":"把它给阿努比人","method":"machine"}
-{"source":"Solve the Puzzle to unlock the Artifact","target":"解开谜题以解锁艺术","method":"machine"}
-{"source":"Acquire some Lubricant","target":"买些润滑剂","method":"machine"}
-{"source":"Suvive the onslaught - Purify Time :","target":"拯救猛烈的进攻——清净时间:","method":"machine"}
-{"source":"Defeat Wave 3","target":"失败的波浪 3","method":"machine"}
-{"source":"Defeat Wave 4","target":"击败波浪4","method":"machine"}
-{"source":"Solve the Puzzle of Path","target":"解开路径谜题","method":"machine"}
-{"source":"Solve the Puzzle of Sequence","target":"解开序列谜题","method":"machine"}
-{"source":"Solve the Puzzle of Mind","target":"解开思维谜题","method":"machine"}
-{"source":"Attune to the Sky","target":"向天空进发","method":"machine"}
-{"source":"Attune to the Sea","target":"向海进发","method":"machine"}
-{"source":"Attune to the Land","target":"向大地进发","method":"machine"}
-{"source":"Destroy the Dune Bug Hives","target":"摧毁沙丘虫蜂巢","method":"machine"}
-{"source":"(Optional) Find Khaba's Servant","target":"(可选)寻找卡巴的仆人","method":"machine"}
-{"source":"Find a way to Defeat the Void Titan","target":"想办法击败土卫六","method":"machine"}
-{"source":"I must search for a means to defeat this Guardian. It seems that it cannot be harmed by normal means, but perhaps someone knows of a way to destroy it. There's got to be more than one exit from this cursed tomb.","target":"我必须寻找办法打败这个守护者,似乎不能用正常的手段来伤害它,但也许有人知道如何摧毁它,这个被诅咒的坟墓必须有一个以上的出口.","method":"machine"}
-{"source":"Check Incense Boxes for \"Sacred Incense\"","target":"检查“ 神圣的内燃机” 的内燃机箱","method":"machine"}
-{"source":"(Optional) Speak to the Adept Esi","target":"(可选) Adept Esi 说话","method":"machine"}
-{"source":"Perhaps I should talk with the Adept,  surely she will have knowledge of this place.","target":"也许我应该和阿黛普特人谈谈 她肯定知道这个地方","method":"machine"}
-{"source":"You must be unarmed","target":"一定是手无寸铁","method":"machine"}
-{"source":"Report in to the Barrack Captain for a bunk","target":"报到营长的铺位","method":"machine"}
-{"source":"Rest on your Bunk","target":"在床铺上休息","method":"reviewed"}
-{"source":"(Optional) You can store your items in your storage chest","target":"(可选)您可以将您的物品存储在您的存储胸口","method":"machine"}
-{"source":"You can store your items in your storage chest","target":"你可以把物品放在你的储藏箱里","method":"machine"}
-{"source":"(Optional) Pick up your Anubite Armour","target":"(可选)拿起你的安努比特盔甲","method":"machine"}
-{"source":"Speak to the workers around the docks for information","target":"和码头附近的工人说点什么","method":"machine"}
-{"source":"Shadya","target":"沙迪亚","method":"machine"}
-{"source":"Speak to the Slavers","target":"和奴隶们说话","method":"machine"}
-{"source":"Slaver","target":"奴隶","method":"machine"}
-{"source":"Speak to the Merchants","target":"跟商人说话","method":"machine"}
-{"source":"(Optional) Claim you are the secret admirer","target":"(可选)声称你是秘密崇拜者","method":"machine"}
-{"source":"Watchmen","target":"观察者","method":"machine"}
-{"source":"Strange Draconid","target":"奇怪的Draconid( 奇异的Draconid) Name","method":"machine"}
-{"source":"Loitering Jackal","target":"游荡的杰克尔","method":"machine"}
-{"source":"Citizens","target":"公民","method":"machine"}
-{"source":"Find out more about Atá","target":"查查阿塔的更多情况","method":"machine"}
-{"source":"(Optional) Use the Ritual Vessel","target":"(可选)使用礼仪船","method":"machine"}
-{"source":"(Optional) Walk Away","target":"(可选)走开","method":"machine"}
-{"source":"(Optional) Steal the Treasure for yourself","target":"(可选) 偷宝为自己","method":"machine"}
-{"source":"Find the first treasure","target":"找到第一宝","method":"machine"}
-{"source":"Find the second treasure","target":"找到第二个宝藏","method":"machine"}
-{"source":"Investigate the Strange Obelisk","target":"调查奇怪的方尖碑","method":"reviewed"}
-{"source":"(Optional) Grab the Ingredients from the Table","target":"(可选)从表格中获取成分","method":"machine"}
-{"source":"Kordon has provided all the necessary ingredients","target":"Kordon 提供了所有必需的原料","method":"machine"}
+{"source":"It'll all be okay, honey","target":"一切都会好起来的，亲爱的","method":"reviewed-sol61"}
+{"source":"A pregnancy lady requires your attention","target":"一位孕妇需要你的关照","method":"reviewed-sol61"}
+{"source":"I talked to him second time, and he finished my quest.","target":"我第二次与他交谈后，他便替我完成了任务。","method":"reviewed-sol61"}
+{"source":"UNTIL DEATH","target":"至死方休","method":"reviewed-sol61"}
+{"source":"I reunited the pair, now they can rest in peace.","target":"我让两人重聚了，如今他们终于可以安息。","method":"reviewed-sol61"}
+{"source":"I chose to not aid the villager, why don't they look themselves?","target":"我决定不帮那位村民。他们怎么不自己去找？","method":"reviewed-sol61"}
+{"source":"MY BROTHER'S KEEPER","target":"兄弟的守护者","method":"reviewed-sol61"}
+{"source":"Sadly I didn't make it back in time. At least I'm now accompanied by Aadi, the aadi.","target":"可惜我没能及时赶回去。至少现在有一只名叫阿迪的阿迪兽陪着我。","method":"reviewed-sol61"}
+{"source":"I don't even know what an aadi is, let alone how to track one. I decided its best not to get involved.","target":"我连阿迪兽是什么都不知道，更别提怎么追踪它了。我决定还是别掺和。","method":"reviewed-sol61"}
+{"source":"THE PRODIGAL SON","target":"浪子","method":"reviewed-sol61"}
+{"source":"I brought news of his son back to the farmer.","target":"我把他儿子的消息带回给了农夫。","method":"reviewed-sol61"}
+{"source":"I opted to not help the farmer look for their son.","target":"我选择不帮农夫寻找儿子。","method":"reviewed-sol61"}
+{"source":"SHADE","target":"幽影","method":"reviewed-sol61"}
+{"source":"I did as the shade asked of me.","target":"我完成了幽影的嘱托。","method":"reviewed-sol61"}
+{"source":"PAINSLUT","target":"嗜痛成瘾","method":"reviewed-sol61"}
+{"source":"I've ''helped'' Harabi with her predicament.","target":"我已经“帮”哈拉比解决了她的难题。","method":"reviewed-sol61"}
+{"source":"SHIPWRECKED ANUBITES","target":"遭遇船难的阿努比斯族","method":"reviewed-sol61"}
+{"source":"I've aided the Anubites in their quest and collected their reliquary.","target":"我帮助阿努比斯族完成了他们的任务，并取走了圣物匣。","method":"reviewed-sol61"}
+{"source":"The Anubites lie dead. Perhaps I should collect the reliquary.","target":"阿努比斯族人已经死了。或许我该取走圣物匣。","method":"reviewed-sol61"}
+{"source":"SIN'S REWARD","target":"罪恶的报偿","method":"reviewed-sol61"}
+{"source":"You've received Hatha blessing","target":"你获得了哈莎的祝福","method":"reviewed-sol61"}
+{"source":"Along the River","target":"沿河而行","method":"reviewed-sol61"}
+{"source":"Investigate the cause of the crash","target":"调查失事原因","method":"reviewed-sol61"}
+{"source":"Beyond Hope","target":"希望之外","method":"reviewed-sol61"}
+{"source":"Man goes to ruin, dies","target":"此人走向毁灭，最终死去","method":"reviewed-sol61"}
+{"source":"BEHOLD","target":"见证","method":"reviewed-sol61"}
+{"source":"HOME FROM HOME","target":"异乡之家","method":"reviewed-sol61"}
+{"source":"MASQUERADE","target":"假面","method":"reviewed-sol61"}
+{"source":"IF IT BLEEDS","target":"若它会流血","method":"reviewed-sol61"}
+{"source":"EVENT: Kehm Farmstead","target":"事件：凯姆农庄","method":"reviewed-sol61"}
+{"source":"EVENT: Frenzied Feast","target":"事件：狂乱盛宴","method":"reviewed-sol61"}
+{"source":"A Call to Adventure","target":"冒险的召唤","method":"reviewed-sol61"}
+{"source":"The Avarice of Birds","target":"贪婪之鸟","method":"reviewed-sol61"}
+{"source":"Find and Retrieve the lost Scepter","target":"找回遗失的权杖","method":"reviewed-sol61"}
+{"source":"WELCOME TO THE FOLD","target":"加入金辉牧团","method":"reviewed-sol61"}
+{"source":"Herdmaster Reseph has offered for you to become his apprentice","target":"牧长雷瑟夫愿意收你为徒","method":"reviewed-sol61"}
+{"source":"The Stuff No-One Thinks About","target":"无人留意之事","method":"reviewed-sol61"}
+{"source":"No Rest for the Wicked","target":"恶人不得安宁","method":"reviewed-sol61"}
+{"source":"Depths of Kab'Alrah","target":"卡布阿尔拉深处","method":"reviewed-sol61"}
+{"source":"Lost and Found","target":"失而复得","method":"reviewed-sol61"}
+{"source":"TROUBLES AT IKENNI VILLA","target":"伊肯尼庄园的麻烦","method":"reviewed-sol61"}
+{"source":"ROMANCE: MERA","target":"恋情：梅拉","method":"reviewed-sol61"}
+{"source":"FISHIN' FOR THE FOLD","target":"为牧团垂钓","method":"reviewed-sol61"}
+{"source":"HERDING UP A THIRST","target":"放牧解渴","method":"reviewed-sol61"}
+{"source":"ROMANCE: DAMARIS","target":"恋情：达玛瑞斯","method":"reviewed-sol61"}
+{"source":"EVENT: The Old Warrior","target":"事件：老战士","method":"reviewed-sol61"}
+{"source":"Master Baiter","target":"诱饵大师","method":"reviewed-sol61"}
+{"source":"A Road Paved with Good Intent","target":"善意铺就的道路","method":"reviewed-sol61"}
+{"source":"Investigate the Massacre at Maz-Arjeni at the hands of the Inquisition.","target":"调查审判庭在马兹阿尔杰尼犯下的屠杀。","method":"reviewed-sol61"}
+{"source":"Good Tombkeeping","target":"守墓有道","method":"reviewed-sol61"}
+{"source":"A Bump in the Path","target":"前路的阻碍","method":"reviewed-sol61"}
+{"source":"Whispers in the Dark","target":"黑暗中的低语","method":"reviewed-sol61"}
+{"source":"Discover the Mysteries of the Waterlogged Cave","target":"探索积水洞穴的秘密","method":"reviewed-sol61"}
+{"source":"EVENT: Maz-Arjeni","target":"事件：马兹阿尔杰尼","method":"reviewed-sol61"}
+{"source":"ZEALOT OF THE DARK QUEEN","target":"黑暗女王的狂信徒","method":"reviewed-sol61"}
+{"source":"Explore the depths of the Maz-Arjeni Tomb","target":"探索马兹阿尔杰尼墓穴深处","method":"reviewed-sol61"}
+{"source":"Ritual of the Fifth Step","target":"第五步仪式","method":"reviewed-sol61"}
+{"source":"I just work here","target":"我只是个打工的","method":"reviewed-sol61"}
+{"source":"Beck and call","target":"随传随到","method":"reviewed-sol61"}
+{"source":"Finders Keepers","target":"谁捡到就归谁","method":"reviewed-sol61"}
+{"source":"Pest Control","target":"除害行动","method":"reviewed-sol61"}
+{"source":"Lifeguard Duty","target":"救生员的职责","method":"reviewed-sol61"}
+{"source":"Hot Local Singles","target":"本地热情单身者","method":"reviewed-sol61"}
+{"source":"The Price of Speed","target":"速度的代价","method":"reviewed-sol61"}
+{"source":"Crossroads","target":"十字路口","method":"reviewed-sol61"}
+{"source":"The Quality of Copper","target":"铜的成色","method":"reviewed-sol61"}
+{"source":"Whose Who","target":"谁是谁","method":"reviewed-sol61"}
+{"source":"Resolve a dispute between a bickering Anubite and Herder over a formless slave","target":"调解阿努比斯族人与牧人之间关于一名无形者奴隶的争执","method":"reviewed-sol61"}
+{"source":"Would You?","target":"你愿意吗？","method":"reviewed-sol61"}
+{"source":"Honeypot","target":"甜蜜陷阱","method":"reviewed-sol61"}
+{"source":"Path of the Jackal","target":"豺狼之道","method":"reviewed-sol61"}
+{"source":"The Path of Bastet","target":"巴斯特之道","method":"reviewed-sol61"}
+{"source":"Gathering Power","target":"汇聚力量","method":"reviewed-sol61"}
+{"source":"The Stonebound Tribunal","target":"石缚法庭","method":"reviewed-sol61"}
+{"source":"Blackwater","target":"黑水","method":"reviewed-sol61"}
+{"source":"Hidden Pilgrimage","target":"隐秘朝圣","method":"reviewed-sol61"}
+{"source":"Greener Pastures","target":"更好的去处","method":"reviewed-sol61"}
+{"source":"Diamond In The Rough","target":"璞玉","method":"reviewed-sol61"}
+{"source":"Tales Of The Void","target":"虚空传说","method":"reviewed-sol61"}
+{"source":"Justice Never Sleeps","target":"正义永不眠","method":"reviewed-sol61"}
+{"source":"Law And Order","target":"法律与秩序","method":"reviewed-sol61"}
+{"source":"Secret Admirer","target":"秘密仰慕者","method":"reviewed-sol61"}
+{"source":"Blood Script","target":"血书","method":"reviewed-sol61"}
+{"source":"Hell of a Kitchen","target":"地狱厨房","method":"reviewed-sol61"}
+{"source":"Containment Breach","target":"封印破裂","method":"reviewed-sol61"}
+{"source":"Dying Oath","target":"临终誓言","method":"reviewed-sol61"}
+{"source":"Treasure Hunt","target":"寻宝","method":"reviewed-sol61"}
+{"source":"Treasure Hunting","target":"寻宝行动","method":"reviewed-sol61"}
+{"source":"Runnoft","target":"出逃","method":"reviewed-sol61"}
+{"source":"Find Sam and call him a wankstain","target":"找到萨姆，骂他一声“混账”","method":"reviewed-sol61"}
+{"source":"Sam went on to say once I'm back, I should call him a \"Wankstain\" ... That's fine with me.","target":"萨姆还说，我回来后应该骂他一声“混账”……那我就不客气了。","method":"reviewed-sol61"}
+{"source":"Example Objective.","target":"示例目标。","method":"reviewed-sol61"}
+{"source":"Description of success objective.","target":"目标完成说明。","method":"reviewed-sol61"}
+{"source":"Deliver Havar's note to Mehlva","target":"将哈瓦尔的信交给梅尔瓦","method":"reviewed-sol61"}
+{"source":"Havar has asked me to take a note to Mehlva north of the docks in the fishing village, I've been sworn to secrecy.","target":"哈瓦尔让我把一封信送给渔村码头北边的梅尔瓦，并要我发誓保密。","method":"reviewed-sol61"}
+{"source":"Return to Havar with the news from Mehlva","target":"将梅尔瓦的答复带给哈瓦尔","method":"reviewed-sol61"}
+{"source":"Mehlva says she desires an object that shows Havar's affection.","target":"梅尔瓦说，她想要一件能证明哈瓦尔心意的东西。","method":"reviewed-sol61"}
+{"source":"Look for Havar's lost Amulet","target":"寻找哈瓦尔遗失的护符","method":"reviewed-sol61"}
+{"source":"Havar has asked me to look for her lost Amulet in a nearby camp, I should be careful since it had been overrun.","target":"哈瓦尔让我去附近的营地找她遗失的护符。营地已经被人占领，我得小心。","method":"reviewed-sol61"}
+{"source":"Take the Amulet to Mehlva","target":"将护符交给梅尔瓦","method":"reviewed-sol61"}
+{"source":"I've found the Amulet! I need to take this to Mehlva as proof of Havar's affection.","target":"我找到护符了！得把它交给梅尔瓦，证明哈瓦尔的心意。","method":"reviewed-sol61"}
+{"source":"Return to Havar with the good news","target":"将好消息带给哈瓦尔","method":"reviewed-sol61"}
+{"source":"The Amulet held an incredible power over Mehlva and she loves the gift, I need to return to Havar to give the good news and retrieve my reward.","target":"护符对梅尔瓦有着非同寻常的影响，她非常喜欢这份礼物。我得回去把好消息告诉哈瓦尔，再领取报酬。","method":"reviewed-sol61"}
+{"source":"Speak to Mehlva","target":"与梅尔瓦交谈","method":"reviewed-sol61"}
+{"source":"I lied to Mehlva and claimed to be the secret admirer, I should speak to her to claim my reward.","target":"我骗梅尔瓦说，我才是那个秘密仰慕她的人。该找她领取回报了。","method":"reviewed-sol61"}
+{"source":"Search for Clues","target":"寻找线索","method":"reviewed-sol61"}
+{"source":"The camp has been looted by local Tombrobbers, I might be able to find a clue as to where they've stashed their loot.","target":"营地被附近的盗墓贼洗劫了。或许能找到线索，查出他们把赃物藏在哪里。","method":"reviewed-sol61"}
+{"source":"Find the Tombrobber Hideout and Stash","target":"寻找盗墓贼的藏身处与赃物","method":"reviewed-sol61"}
+{"source":"On one of the Tombrobbers I've found a key and a note about a local stash nearby, that must be where they're keeping the amulet.","target":"我在一名盗墓贼身上找到了一把钥匙，还有一张提到附近藏匿点的纸条。护符一定就藏在那里。","method":"reviewed-sol61"}
+{"source":"Talk to Mesahtnofret","target":"与梅萨特诺芙蕾特交谈","method":"reviewed-sol61"}
+{"source":"I've agreed to help Mesahtnofret save her village. I should ask about her plan.","target":"我答应帮梅萨特诺芙蕾特拯救她的村庄。该问问她有什么计划。","method":"reviewed-sol61"}
+{"source":"Find the Entrance to the Tomb","target":"寻找墓穴入口","method":"reviewed-sol61"}
+{"source":"Mesahtnofret has directed me to a nearby tomb where an ancient warlord is buried. It is said that this leader used a powerful aphrodisiac that could drive anyone wild with lust. Mesahtnofret thinks that the recipe for this elixir may be hidden among the belongings buried with the warlord.","target":"梅萨特诺芙蕾特让我去附近一座埋葬着古代军阀的墓穴。据说，那位军阀曾使用一种强力春药，能让任何人欲火焚身。梅萨特诺芙蕾特认为，药剂配方可能藏在他的陪葬品中。","method":"reviewed-sol61"}
+{"source":"Search the Tomb for the Recipe","target":"在墓穴中寻找配方","method":"reviewed-sol61"}
+{"source":"I have arrived at the tomb, but it is crawling with the restless dead. Finding the recipe may be more difficult than I had originally thought. I expect that it was hidden near the final resting place for this warlord.","target":"我来到墓穴，却发现这里到处是不安的亡灵。寻找配方或许比我原先想的更难。我猜它就藏在那位军阀的安息之所附近。","method":"reviewed-sol61"}
+{"source":"Return to Mesahtnofret","target":"返回梅萨特诺芙蕾特处","method":"reviewed-sol61"}
+{"source":"I have defeated the undead warlord and found the recipe in his remains! I should return to Mesahtnofret at once.","target":"我击败了亡灵军阀，并在他的遗骸中找到了配方！得立刻回去找梅萨特诺芙蕾特。","method":"reviewed-sol61"}
+{"source":"Ask Mesahtnofret about the missing ingredient","target":"向梅萨特诺芙蕾特询问缺少的材料","method":"reviewed-sol61"}
+{"source":"Mesahtnofret says that she has all but one of the required ingredients for the elixir. I should ask where I can find the missing ingredient.","target":"梅萨特诺芙蕾特说，配制药剂所需的材料只差一种。该问问她去哪里找。","method":"reviewed-sol61"}
+{"source":"Find the Acolyte of Seshat","target":"寻找塞莎特的侍祭","method":"reviewed-sol61"}
+{"source":"Mesahtnofret does not know where to find the missing ingredient, but she thinks that an acolyte of Seshat may have that knowledge. She directed in the direction of the last acolyte who passed through.","target":"梅萨特诺芙蕾特不知道去哪里寻找缺少的材料，但她认为塞莎特的侍祭可能知道。她告诉了我上一位途经此地的侍祭离开的方向。","method":"reviewed-sol61"}
+{"source":"Speak with the Acolyte","target":"与侍祭交谈","method":"reviewed-sol61"}
+{"source":"I have found the acolyte's camp. I should find the acolyte and ask about the missing ingredient.","target":"我找到了侍祭的营地。该找到她，询问那种缺少的材料。","method":"reviewed-sol61"}
+{"source":"I have accepted the acolyte's offer. I should return to Mesahtnofret, but what should I tell her?","target":"我接受了侍祭的提议。该回去找梅萨特诺芙蕾特了，可我该怎么向她解释？","method":"reviewed-sol61"}
+{"source":"I have lied to Mesahtnofret. Her village is doomed, but at least she doesn't know that there was a chance.","target":"我骗了梅萨特诺芙蕾特。她的村庄在劫难逃，但至少她不会知道，村子原本还有一线生机。","method":"reviewed-sol61"}
+{"source":"Defeat the Acolyte","target":"击败侍祭","method":"reviewed-sol61"}
+{"source":"I have rejected the acolyte's offer. she did not take kindly to that. I must defeat her.","target":"我拒绝了侍祭的提议，她对此很不高兴。我必须击败她。","method":"reviewed-sol61"}
+{"source":"Gather Enough Petals for the Village","target":"为村庄收集足够的花瓣","method":"reviewed-sol61"}
+{"source":"The acolyte mentioned that the night lotus grew in this area. I should try to find it and gather enough blossoms to cure the village.","target":"侍祭提到夜莲就生长在这一带。我该找找看，采集足够的花朵来救治村民。","method":"reviewed-sol61"}
+{"source":"I have gathered enough of the lotus petals. I should return them to Mesahtnofret.","target":"我收集到了足够的莲花花瓣。该把它们带给梅萨特诺芙蕾特。","method":"reviewed-sol61"}
+{"source":"The Cure","target":"解药","method":"reviewed-sol61"}
+{"source":"Mesahtnofret now has everything that she needs to prepare the elixir and will soon give the cure to her people.","target":"梅萨特诺芙蕾特已经集齐了配制药剂所需的一切，很快就会把解药交给村民。","method":"reviewed-sol61"}
+{"source":"She's ready!","target":"她准备好了！","method":"reviewed-sol61"}
+{"source":"Get there fast","target":"尽快赶过去","method":"reviewed-sol61"}
+{"source":"Search for Kemma","target":"寻找凯玛","method":"reviewed-sol61"}
+{"source":"Kemma must be somewhere nearby, I will recognise her by a necklace set with blue gemstones.","target":"凯玛一定就在附近。她戴着镶嵌蓝色宝石的项链，我可以凭这个认出她。","method":"reviewed-sol61"}
+{"source":"Return to the Villager","target":"返回村民处","method":"reviewed-sol61"}
+{"source":"I shoiuld bring the news of Kemma's demise to her lover.","target":"我该把凯玛遇害的消息告诉她的恋人。","method":"reviewed-sol61"}
+{"source":"Look for Clues to Find the Missing Brother","target":"寻找失踪兄弟的线索","method":"reviewed-sol61"}
+{"source":"I've been asked to search for a villager's brother who got towed away with their aadi when it bolted.","target":"一位村民请我寻找自己的兄弟。他家的阿迪兽受惊狂奔，把那位兄弟也拖走了。","method":"reviewed-sol61"}
+{"source":"I've found the aadi and brother, I should bring the aadi back and let them know what happened.","target":"我找到了阿迪兽和失踪的兄弟。该把阿迪兽带回去，告诉那位村民发生了什么。","method":"reviewed-sol61"}
+{"source":"Track Anhur's location","target":"追查安赫尔的下落","method":"reviewed-sol61"}
+{"source":"I've been tasked to find a farmer's son and fieldhand who have a habit of sneaking off. They can't have gone too far.","target":"一位农夫托我寻找他的儿子和一名雇农，两人总爱偷偷溜走。他们应该没走太远。","method":"reviewed-sol61"}
+{"source":"Search for Anhur and the Fieldhand","target":"寻找安赫尔和雇农","method":"reviewed-sol61"}
+{"source":"I've found a camp not too far from the farmer's land, perhaps this is where they snuck off to. I should have a look around.","target":"我在离农田不远的地方发现了一处营地。或许两人偷偷跑到了这里，我该四处看看。","method":"reviewed-sol61"}
+{"source":"Return to the Farmer","target":"返回农夫处","method":"reviewed-sol61"}
+{"source":"I should bring these notes back to the farmer, but what should I tell him?","target":"我该把这些字条带给农夫，可该怎么对他说呢？","method":"reviewed-sol61"}
+{"source":"Patience","target":"耐心等待","method":"reviewed-sol61"}
+{"source":"The shade said that they would return when the need arises.. Whatever that means.","target":"幽影说，等到有需要时就会回来……不管那是什么意思。","method":"reviewed-sol61"}
+{"source":"Find a compatible partner","target":"寻找合适的伴侣","method":"reviewed-sol61"}
+{"source":"I've been instructed to 'fulfill my carnal desires' by the shade, I should find someone who meets my tastes.","target":"幽影让我“满足肉欲”。我该找个合自己口味的人。","method":"reviewed-sol61"}
+{"source":"Extend Harabi's sentence","target":"延长哈拉比的刑期","method":"reviewed-sol61"}
+{"source":"Harabi's asked me to try and find a way to extend her punishment since her time's nearly up, perhaps the best place to start is the person she's strapped to.","target":"哈拉比的刑期快结束了，她却让我想办法延长惩罚。或许该先问问那个和她绑在一起的人。","method":"reviewed-sol61"}
+{"source":"Tell Harabi the good news","target":"将好消息告诉哈拉比","method":"reviewed-sol61"}
+{"source":"I've successfully managed to extend Harabi's punishment, she'll be delighted to hear it.","target":"我成功延长了哈拉比的刑期。她听到后一定会很高兴。","method":"reviewed-sol61"}
+{"source":"Find the leg straps","target":"寻找腿带","method":"reviewed-sol61"}
+{"source":"Harabi has offered a pair of leg straps as a reward for helping her, she said I can find them in her home nearby.","target":"哈拉比答应送我一对腿带，作为帮助她的报酬。她说腿带就在附近她的家里。","method":"reviewed-sol61"}
+{"source":"Find the Missing Brother","target":"寻找失踪的兄弟","method":"reviewed-sol61"}
+{"source":"Find out what happened to the Anubites","target":"查明阿努比斯族人的遭遇","method":"reviewed-sol61"}
+{"source":"I've found a group of wounded Anubites, speaking to a Priestess among them it seems that they were attacked by some kind of creature and are now stranded. She had mentioned a Captain, perhaps I should find him?","target":"我遇见了一群受伤的阿努比斯族人。据其中一位女祭司所说，他们遭到某种怪物袭击，如今被困在这里。她提到过一位船长，或许我该去找他。","method":"reviewed-sol61"}
+{"source":"Aid the Anubites","target":"帮助阿努比斯族人","method":"reviewed-sol61"}
+{"source":"Captain Asim sent scouts along to coast to find a way off the island, though they didn't return. Maybe I'll have better luck.","target":"阿西姆船长派出斥候沿海岸寻找离岛的办法，但他们没有回来。也许我的运气会好些。","method":"reviewed-sol61"}
+{"source":"Inform the Priestess about the boats.","target":"将小船的消息告诉女祭司。","method":"reviewed-sol61"}
+{"source":"I've found some boats along the coastline, I should inform Preistess Ameni back at the Anubite camp so they can make their escape.","target":"我在海岸边找到了一些小船。该回阿努比斯族营地通知阿梅妮女祭司，让他们乘船逃离。","method":"reviewed-sol61"}
+{"source":"Find the Anubites weapons.","target":"寻找阿努比斯族人的武器。","method":"reviewed-sol61"}
+{"source":"Captain Asim mentioned how during the shipwreck they lost their armaments with the ship. If I can find and return these, they may stand a chance should the creature return.","target":"阿西姆船长提到，船难时他们的武器装备也随船沉没了。若能找到并归还这些装备，怪物再来时，他们或许还能有一战之力。","method":"reviewed-sol61"}
+{"source":"Return the supplies to the Priestess.","target":"将补给交还女祭司。","method":"reviewed-sol61"}
+{"source":"I've found the Anubites armaments, I should return them to the camp.","target":"我找到了阿努比斯族人的武器装备。该把它们带回营地。","method":"reviewed-sol61"}
+{"source":"Inform the Priestess of my successful hunt.","target":"将狩猎成功的消息告诉女祭司。","method":"reviewed-sol61"}
+{"source":"I've managed to find and kill the Kravenrook, the Priestess back at the Anubite camp would be delighted to hear about this.","target":"我找到了克拉文鲁克，并将其杀死。阿努比斯族营地的女祭司听到这个消息，一定会很高兴。","method":"reviewed-sol61"}
+{"source":"Collect the reliquary.","target":"取走圣物匣。","method":"reviewed-sol61"}
+{"source":"Priestess Ameni has given me her blessing to carry the reliquary on her behalf, I should go and collect it.","target":"阿梅妮女祭司允许我代她携带圣物匣。我该去把它取来。","method":"reviewed-sol61"}
+{"source":"Speak to Captain Asim and Decide the Anubite's Fate","target":"与阿西姆船长交谈，决定阿努比斯族人的命运","method":"reviewed-sol61"}
+{"source":"Priestess Ameni has asked me to inform the Captain of my success.","target":"阿梅妮女祭司让我把成功的消息告诉船长。","method":"reviewed-sol61"}
+{"source":"Kill the creature.","target":"杀死怪物。","method":"reviewed-sol61"}
+{"source":"I've discovered a creature that may be the one that attacked the Anubites, if I manage to kill it they would be able to rest easy.","target":"我发现了一只怪物，它可能就是袭击阿努比斯族人的凶手。若能杀死它，他们就能安心了。","method":"reviewed-sol61"}
+{"source":"Seed Swollen. Stamina reduced by 25.","target":"精液胀满。耐力降低25点。","method":"reviewed-sol61"}
+{"source":"Matriarch's Rage. Damage increased by 10.","target":"族母之怒。伤害提高10点。","method":"reviewed-sol61"}
+{"source":"Investigate the shipwreck","target":"调查沉船","method":"reviewed-sol61"}
+{"source":"Continue on","target":"继续前进","method":"reviewed-sol61"}
+{"source":"Locate the Tomb","target":"寻找墓穴","method":"reviewed-sol61"}
+{"source":"Find a way further inland to safety","target":"寻找通往内陆安全地带的道路","method":"reviewed-sol61"}
+{"source":"Go to the site of the curse","target":"前往诅咒发生之地","method":"reviewed-sol61"}
+{"source":"Survive Kethra's Onslaught","target":"在凯瑟拉的猛攻下存活","method":"reviewed-sol61"}
+{"source":"Follow the Anubite Captain","target":"跟随阿努比斯族船长","method":"reviewed-sol61"}
+{"source":"Climb the wall and enter the village","target":"翻过墙壁，进入村庄","method":"reviewed-sol61"}
+{"source":"Find a way into the village","target":"寻找进入村庄的办法","method":"reviewed-sol61"}
+{"source":"Move the objects blocking the door","target":"移开堵门的物品","method":"reviewed-sol61"}
+{"source":"Get to Traitor's Gate","target":"前往叛徒之门","method":"reviewed-sol61"}
+{"source":"Find a shovel to bury the dead","target":"找一把铲子，埋葬死者","method":"reviewed-sol61"}
+{"source":"Search for survivors","target":"寻找幸存者","method":"reviewed-sol61"}
+{"source":"Seek out survivors","target":"搜寻幸存者","method":"reviewed-sol61"}
+{"source":"Cleanse Tal'Senet","target":"净化塔尔塞内特","method":"reviewed-sol61"}
+{"source":"Make the island safe for habitation","target":"清除岛上的威胁，使其适合居住","method":"reviewed-sol61"}
+{"source":"Return to Damaris","target":"返回达玛瑞斯处","method":"reviewed-sol61"}
+{"source":"Travel to Mehden Island","target":"前往梅登岛","method":"reviewed-sol61"}
+{"source":"Damaris has told me that Mehden island may have a blacksmith which can remove my mask, I should go there and find them.","target":"达玛瑞斯说，梅登岛上可能有位铁匠能替我取下面具。我该去那里找找。","method":"reviewed-sol61"}
+{"source":"Search for the Blacksmith","target":"寻找铁匠","method":"reviewed-sol61"}
+{"source":"I have landed on Mehden Island, I should look for this Blacksmith","target":"我已经登上梅登岛，该寻找那位铁匠了。","method":"reviewed-sol61"}
+{"source":"Save the Trapped Villager","target":"营救被困的村民","method":"reviewed-sol61"}
+{"source":"Follow the Villager to the Blacksmith","target":"跟随村民前往铁匠处","method":"reviewed-sol61"}
+{"source":"Find Utnas at the temple","target":"去神殿寻找乌特纳斯","method":"reviewed-sol61"}
+{"source":"Defeat the Felreq","target":"击败费尔雷克","method":"reviewed-sol61"}
+{"source":"Speak to the saved villager","target":"与获救的村民交谈","method":"reviewed-sol61"}
+{"source":"Clear the area","target":"肃清周围区域","method":"reviewed-sol61"}
+{"source":"Inspect the source of power","target":"查看力量之源","method":"reviewed-sol61"}
+{"source":"Search for Survivors","target":"寻找幸存者","method":"reviewed-sol61"}
+{"source":"I've found myself on a Strange Island, I'm not sure what happened back there, I should look for Survivors.","target":"我发现自己来到了一座陌生的岛屿，不清楚之前究竟发生了什么。我应该寻找其他幸存者。","method":"reviewed-sol61"}
+{"source":"Enter the lair of the beast","target":"进入野兽巢穴","method":"reviewed-sol61"}
+{"source":"I've discovered a strange tomb entrance, the nearby statues and Effigies are related to a twisted creature knowns as a Kravenrook.","target":"我发现了一个奇怪的墓穴入口。附近的雕像和偶像都与一种叫克拉文鲁克的扭曲怪物有关。","method":"reviewed-sol61"}
+{"source":"Investigate the lair","target":"调查巢穴","method":"reviewed-sol61"}
+{"source":"I must investigate the lair of The Kravenrook.","target":"我必须调查克拉文鲁克的巢穴。","method":"reviewed-sol61"}
+{"source":"Escape the room by burning the effigy","target":"烧毁偶像，逃出房间","method":"reviewed-sol61"}
+{"source":"I've been trapped in a room with the Kravenrook, the creature can appear anywhere at any moment as long as the Effigy remains.","target":"我被困在一间房里，克拉文鲁克也在其中。只要偶像还在，那怪物就能随时出现在任何地方。","method":"reviewed-sol61"}
+{"source":"Find and Kill the creature","target":"找到并杀死怪物","method":"reviewed-sol61"}
+{"source":"Having narrowly avoided death, I must delve further into the creature's lair and kill the creature","target":"我刚刚死里逃生，必须继续深入巢穴，杀死那只怪物。","method":"reviewed-sol61"}
+{"source":"Defeat the Kravenrook","target":"击败克拉文鲁克","method":"reviewed-sol61"}
+{"source":"By killing the Kravenrook I can escape this tomb and save the Anubites","target":"杀死克拉文鲁克，就能逃离墓穴，救下阿努比斯族人。","method":"reviewed-sol61"}
+{"source":"Clear Kehm Farmstead of enemies","target":"清除凯姆农庄的敌人","method":"reviewed-sol61"}
+{"source":"Kehm Farmstead is swarming with foes. I must defeat them.","target":"凯姆农庄到处都是敌人。我必须击败他们。","method":"reviewed-sol61"}
+{"source":"Exterminate the Bloodseeker encampment","target":"剿灭觅血者营地","method":"reviewed-sol61"}
+{"source":"I've discovered an encampent of Bloodseekers--bloodthirsty cannibals who find pleasure in carnage and eating their victims alive. I should end their miserable existence.","target":"我发现了一处觅血者营地。这群嗜血的食人族以屠杀和生吞受害者为乐。我该结束他们可悲的性命。","method":"reviewed-sol61"}
+{"source":"Meet Amara at The Shrine of Ascension","target":"在升华神龛与阿玛拉会面","method":"reviewed-sol61"}
+{"source":"A mysterious woman asked me to meet her at The Shrine of Ascension. She made it sound like something of great importance that should be done quickly.","target":"一位神秘女子让我去升华神龛见她。听她的意思，这事十分重要，必须尽快去办。","method":"reviewed-sol61"}
+{"source":"Commune with The Shrine","target":"与神龛沟通","method":"reviewed-sol61"}
+{"source":"The mysterious woman told me to transfer my essence into The Shrine of Ascension, whatever that means. Perhaps touching it will be enough. Anything to get this mask off...","target":"神秘女子让我将精华注入升华神龛，不知道这是什么意思。或许摸一摸就行。只要能把这面具摘下来……","method":"reviewed-sol61"}
+{"source":"Talk to Amara","target":"与阿玛拉交谈","method":"reviewed-sol61"}
+{"source":"I've communed with the shrine. I should speak to the mysterious woman now.","target":"我已与神龛沟通。现在该和那位神秘女子谈谈。","method":"reviewed-sol61"}
+{"source":"Learn and use a Sorcery","target":"学会并施放一种法术","method":"reviewed-sol61"}
+{"source":"I have learned that I can use Sorcery, the kind of mystical abilites such as those of the Felreq, but I need to learn them at The Shrine of Ascension. Once I've learned, I should show the mysterious woman what I can do.","target":"原来我也能施展法术，就像费尔雷克的神秘能力一样。但我得先在升华神龛学习。学会之后，该向那位神秘女子展示一下。","method":"reviewed-sol61"}
+{"source":"Find and retrieve the lost sceptre","target":"找回遗失的权杖","method":"reviewed-sol61"}
+{"source":"The mysterious woman told me about the artifact she used to teleport herself to The Shrine of Ascension. Apparently a karrow bird flew off with it, but if I find it, I can keep it.","target":"神秘女子提到，她曾用一件神器将自己传送到升华神龛。那东西似乎被一只卡罗鸟叼走了，不过如果我能找回来，就归我所有。","method":"reviewed-sol61"}
+{"source":"(Optional) Read the five Tenets","target":"（可选）阅读五条信条","method":"reviewed-sol61"}
+{"source":"Herdmaster Reseph told me to read about the tenets of the Gilded Fold. They are engraved in pillars within the Gilded Fold's compound, and there should be five of them in total.","target":"牧长雷瑟夫让我了解金辉牧团的信条。它们刻在牧团驻地的石柱上，一共应该有五条。","method":"reviewed-sol61"}
+{"source":"Speak to Reseph","target":"与雷瑟夫交谈","method":"reviewed-sol61"}
+{"source":"I've read the tenets and should return to Herdmaster Reseph to discuss what I've learned.","target":"我读过信条了，该回去和牧长雷瑟夫谈谈自己的收获。","method":"reviewed-sol61"}
+{"source":"Capture Sehet","target":"捕捉塞赫特","method":"reviewed-sol61"}
+{"source":"Herdmaster Reseph has agreed to take me on as his apprentice, but first I need to learn the basics. He's given me a capture jar and told me to use it on one of the slaves named Sehet.","target":"牧长雷瑟夫同意收我为徒，但我得先学会基础。他给了我一个捕捉罐，让我拿一名叫塞赫特的奴隶练习。","method":"reviewed-sol61"}
+{"source":"Place Sehet in the cage","target":"将塞赫特放回笼中","method":"reviewed-sol61"}
+{"source":"I've successfully captured Sehet! Now I need to expell her from my capture jar to place her back into her cage as Herdmaster Reseph instructed.","target":"我成功抓到了塞赫特！现在得按照牧长雷瑟夫的指示，把她从捕捉罐中放出，送回笼子里。","method":"reviewed-sol61"}
+{"source":"I've done as Herdmaster Reseph asked. I should speak to him.","target":"我照牧长雷瑟夫说的做了。该和他谈谈。","method":"reviewed-sol61"}
+{"source":"Find and capture your slave","target":"寻找并捕捉你的奴隶","method":"reviewed-sol61"}
+{"source":"Herdmaster Reseph has sent me off to capture my very first slave! There are some prime candidates hiding in a cave not far from here.","target":"牧长雷瑟夫让我去捕捉属于自己的第一个奴隶！离这里不远的洞穴里，藏着一些很合适的目标。","method":"reviewed-sol61"}
+{"source":"Return to Reseph","target":"返回雷瑟夫处","method":"reviewed-sol61"}
+{"source":"I've captured my first slave. I should return to Herdmaster Reseph and show him.","target":"我抓到了第一个奴隶。该回去给牧长雷瑟夫看看。","method":"reviewed-sol61"}
+{"source":"Get on the cart","target":"登上货车","method":"reviewed-sol61"}
+{"source":"Wrangler Sotema needs help protecting her cart from bandits on the way to and from a farm. I've agreed to help, and she's waiting for me to get onto her cart before we set off.","target":"赶车人索特玛需要有人保护货车，防止往返农场的途中遭到强盗袭击。我答应帮忙。她正等我上车，然后就出发。","method":"reviewed-sol61"}
+{"source":"Save the village","target":"救援村庄","method":"reviewed-sol61"}
+{"source":"The village Sotema is supposed to get supplies from is under attack by Inquisitors of Bast. Sotema has already rushed to the village's rescue. I should join her!","target":"索特玛要去采购补给的村庄遭到了巴斯特审判官的袭击。她已经冲去救援，我也该赶过去！","method":"reviewed-sol61"}
+{"source":"Collect supplies","target":"收集补给","method":"reviewed-sol61"}
+{"source":"We were too late to do much, and most of the village was masacred. There's still a job to be done though, and Sotema has asked me to gather supplies to take back to the Gilded Fold.","target":"我们来得太晚，没能救下多少人，村里大多数人都被屠杀了。但活还得干，索特玛让我收集补给，带回金辉牧团。","method":"reviewed-sol61"}
+{"source":"Return to the cart","target":"返回货车处","method":"reviewed-sol61"}
+{"source":"I've gathered all of the supplies I can. I should return to Sotema's cart and ride with her back to the Gilded Fold compound.","target":"能拿的补给我都收集好了。该回到索特玛的货车旁，和她一起返回金辉牧团驻地。","method":"reviewed-sol61"}
+{"source":"Find Nergaal's Tomb","target":"寻找涅尔加尔之墓","method":"reviewed-sol61"}
+{"source":"There is an ancient warlord named Nergaal who harbored the recipe to a special elixir Mesatnofreht thinks can help save the afflicted villagers. I must find the tomb.","target":"古代军阀涅尔加尔掌握着一种特殊药剂的配方。梅萨特诺芙蕾特认为，这种药剂能拯救染病的村民。我必须找到他的墓穴。","method":"reviewed-sol61"}
+{"source":"Enter Nergaal's tomb","target":"进入涅尔加尔之墓","method":"reviewed-sol61"}
+{"source":"I've found Nergaal's Tomb. Time to go in.","target":"我找到了涅尔加尔之墓。该进去了。","method":"reviewed-sol61"}
+{"source":"Find the recipe","target":"寻找配方","method":"reviewed-sol61"}
+{"source":"I've entered Nergaal's Tomb. Now to find the recipe for Mesatnofreht.","target":"我已经进入涅尔加尔之墓。现在得替梅萨特诺芙蕾特找到配方。","method":"reviewed-sol61"}
+{"source":"Read the recipe inscriptions","target":"阅读配方铭文","method":"reviewed-sol61"}
+{"source":"Segments of the recipe I seek are etched onto tablets inside Nergaal's Tomb. I should search the place for more etchings until I find the complete recipe.","target":"我要找的配方被分段刻在涅尔加尔墓内的石板上。我该继续寻找铭文，直到拼出完整配方。","method":"reviewed-sol61"}
+{"source":"Defeat Nergaal","target":"击败涅尔加尔","method":"reviewed-sol61"}
+{"source":"It turns out Nergaal isn't entirely dead. I'm trapped with nowhere to run. I must defeat Nergaal if I want to leave this place alive.","target":"原来涅尔加尔还没死透。我被困在这里，无路可逃。想活着离开，就必须击败他。","method":"reviewed-sol61"}
+{"source":"Return to Mesatnofreht","target":"返回梅萨特诺芙蕾特处","method":"reviewed-sol61"}
+{"source":"I've found all the parts to the recipe, and even one of the ingredients. I should return to Mesatnofreht with the news.","target":"我找全了配方，甚至还找到了其中一种材料。该回去把消息告诉梅萨特诺芙蕾特。","method":"reviewed-sol61"}
+{"source":"Gather the ingredients","target":"收集材料","method":"reviewed-sol61"}
+{"source":"I must gather the rest of the ingredients for the ancient elixir. Mesatnofreht knows where they can be found.","target":"我必须收齐这种古代药剂所需的其余材料。梅萨特诺芙蕾特知道去哪里找。","method":"reviewed-sol61"}
+{"source":"I've gathered all the necessary ingredients. I should return to Mesatnofreht quickly so she can brew the elixir and save the villagers.","target":"所需的材料已经全部集齐。我该尽快回到梅萨特诺芙蕾特身边，让她配制药剂，拯救村民。","method":"reviewed-sol61"}
+{"source":"Delve into Kab'Alrah","target":"深入卡布阿尔拉","method":"reviewed-sol61"}
+{"source":"I've found an ancient tomb called Kab'Alrah. Who knows what treasures may be found within? Like most tombs, the idea of entering it is foreboding. I should be warry of potential danger.","target":"我发现了一座名叫卡布阿尔拉的古墓，谁知道里面藏着什么宝物？不过和大多数墓穴一样，光是想到要进去就让人不安。我得提防潜在的危险。","method":"reviewed-sol61"}
+{"source":"Find the stolen jar","target":"寻找被盗的罐子","method":"reviewed-sol61"}
+{"source":"Temarah mentioned she's searching for a runaway slave. The slave has stolen a jar from her, and Temarah wants it back.","target":"特玛拉说，她正在追捕一名逃跑的奴隶。奴隶偷走了她的一个罐子，她想把它找回来。","method":"reviewed-sol61"}
+{"source":"Take the jar to Temarah","target":"将罐子交给特玛拉","method":"reviewed-sol61"}
+{"source":"I found the slave, and the jar. Although it seems to have cracked, I should return it to Temarah.","target":"我找到了奴隶和罐子。虽然罐子似乎裂了，还是该把它还给特玛拉。","method":"reviewed-sol61"}
+{"source":"Meet with the Anubites","target":"与阿努比斯族人会面","method":"reviewed-sol61"}
+{"source":"It would seem the Anubites are causing Safiya great distress. I should look into it. Maybe I can negotiate a peace between them.","target":"看来阿努比斯族人让萨菲娅十分困扰。我该了解一下，也许能让双方和解。","method":"reviewed-sol61"}
+{"source":"Create a distraction for Mera to escape","target":"制造动静，掩护梅拉逃走","method":"reviewed-sol61"}
+{"source":"Mera is ready to make her escape from Ikenni Villa. I need to distract her sisters so she can slip away.","target":"梅拉已经准备好逃离伊肯尼庄园。我得分散她姐妹们的注意力，让她悄悄溜走。","method":"reviewed-sol61"}
+{"source":"Find Mera","target":"寻找梅拉","method":"reviewed-sol61"}
+{"source":"Mera has made her escape. She shouldn't have gone far. I should look for her outside Ikenni Villa.","target":"梅拉已经逃出来了，应该还没走远。我该去伊肯尼庄园外找她。","method":"reviewed-sol61"}
+{"source":"Speak with Safiya","target":"与萨菲娅交谈","method":"reviewed-sol61"}
+{"source":"Sergeant Tabu has agreed to allow me to make a deal with Safiya. If I can convince her to share her adopted daughters with his soldiers, then he will make sure that the priestess will allow Safiya access to her pool.","target":"塔布军士同意让我和萨菲娅谈条件。只要我能说服她，让士兵们享用她收养的女儿，他就会确保女祭司允许萨菲娅使用水池。","method":"reviewed-sol61"}
+{"source":"Meet with Tabu","target":"与塔布会面","method":"reviewed-sol61"}
+{"source":"Safiya has accepted the deal to share her daughters. I should return to Tabu with the good news.","target":"萨菲娅答应让士兵们享用她的女儿。该把好消息带给塔布了。","method":"reviewed-sol61"}
+{"source":"Collect five sandscale minnow","target":"收集五条沙鳞鲦鱼","method":"reviewed-sol61"}
+{"source":"Badeel of the Gilded Fold needs aid in feeding the flock. Catching at least five sandscale minnow for him should be enough.","target":"金辉牧团的巴迪尔需要人帮忙喂养牲畜。替他抓至少五条沙鳞鲦鱼应该就够了。","method":"reviewed-sol61"}
+{"source":"Turn in your catches","target":"交付鱼获","method":"reviewed-sol61"}
+{"source":"I've caught five sandscale minnow. I should place them into the barrel near Badeel.","target":"我抓到了五条沙鳞鲦鱼。该把它们放进巴迪尔旁边的桶里。","method":"reviewed-sol61"}
+{"source":"Find the herder a drink","target":"为牧人找点喝的","method":"reviewed-sol61"}
+{"source":"I ran into a herder who is dying for a drink. Maybe if I grab him one he'll put in a good word for me with The Fold.","target":"我遇到了一位口渴难耐的牧人。或许给他弄点喝的，他就愿意在牧团里替我说几句好话。","method":"reviewed-sol61"}
+{"source":"Bring a drink to the herder","target":"将饮料带给牧人","method":"reviewed-sol61"}
+{"source":"I've found a drink. I should return to the thirsty herder.","target":"我找到喝的了。该回去找那位口渴的牧人。","method":"reviewed-sol61"}
+{"source":"Meet Damaris outside","target":"在外面与达玛瑞斯会面","method":"reviewed-sol61"}
+{"source":"Damaris has asked me to join her for a walk outside.","target":"达玛瑞斯邀我一起出去散步。","method":"reviewed-sol61"}
+{"source":"Make your decision","target":"做出决定","method":"reviewed-sol61"}
+{"source":"I need to decide how to approach my relationship with Demaris.","target":"我得决定如何对待自己与达玛瑞斯的关系。","method":"reviewed-sol61"}
+{"source":"Find Damaris at the Taberna","target":"在酒馆寻找达玛瑞斯","method":"reviewed-sol61"}
+{"source":"I should seek out Damaris at The Rampant Lioness.","target":"我该去“昂首雌狮”酒馆寻找达玛瑞斯。","method":"reviewed-sol61"}
+{"source":"Talk to Damaris","target":"与达玛瑞斯交谈","method":"reviewed-sol61"}
+{"source":"I should speak with Damaris.","target":"我该和达玛瑞斯谈谈。","method":"reviewed-sol61"}
+{"source":"Regain Damaris' trust","target":"重新赢得达玛瑞斯的信任","method":"reviewed-sol61"}
+{"source":"Damaris undoubtedly hates me, but maybe I'll be able to regain her trust later.","target":"达玛瑞斯现在肯定恨透了我，不过以后也许还有机会重新赢得她的信任。","method":"reviewed-sol61"}
+{"source":"Help Amonhoteph","target":"帮助阿蒙霍特普","method":"reviewed-sol61"}
+{"source":"I've met an old warrior named Amonhoteph. He seeks a warrior's death by a worthy foe. I am to defeat him in honorable combat and send his spirit to Keth-Eros.","target":"我遇到了一位名叫阿蒙霍特普的老战士。他希望死在一位值得尊敬的对手手中。我得在光荣的决斗中击败他，将他的灵魂送往凯特埃罗斯。","method":"reviewed-sol61"}
+{"source":"Learn to fish with Moswen","target":"跟莫斯温学习钓鱼","method":"reviewed-sol61"}
+{"source":"Moswen has offered to teach me to fish, and surprisingly with no strings attached. He's offered me his pole to use.","target":"莫斯温愿意教我钓鱼，居然没有附带任何条件。他还把自己的鱼竿借给我用。","method":"reviewed-sol61"}
+{"source":"Catch your first fish with Moswen","target":"在莫斯温的指导下钓到第一条鱼","method":"reviewed-sol61"}
+{"source":"Moswen has asked me catch a fish while he watches.","target":"莫斯温让我在他的注视下钓一条鱼。","method":"reviewed-sol61"}
+{"source":"Recieve permission from Safiya","target":"取得萨菲娅的许可","method":"reviewed-sol61"}
+{"source":"Mera is stricly forbidden from intimate interactions with any outsiders without Mother's permission. I should speak to Safiya about this.","target":"没有母亲的许可，梅拉严禁与任何外人亲热。我该就此和萨菲娅谈谈。","method":"reviewed-sol61"}
+{"source":"Give Mera the good news","target":"将好消息告诉梅拉","method":"reviewed-sol61"}
+{"source":"I've secured a treaty between the Anubites and Safiya, granting me access to her handmaidens, including Mera. I should speak with Mera.","target":"我促成了阿努比斯族与萨菲娅之间的协议，因此获准与她的侍女亲近，梅拉也在其中。我该和梅拉谈谈。","method":"reviewed-sol61"}
+{"source":"Free Khalia","target":"解救卡莉娅","method":"reviewed-sol61"}
+{"source":"I found a woman bound up by the Inquisition of Bast. I should free her.","target":"我发现一名女子被巴斯特审判庭绑了起来。我该救她。","method":"reviewed-sol61"}
+{"source":"Speak to Khalia","target":"与卡莉娅交谈","method":"reviewed-sol61"}
+{"source":"I've freed Khalia. I should speak with her now.","target":"我救出了卡莉娅。现在该和她谈谈。","method":"reviewed-sol61"}
+{"source":"Follow the suspicious villager","target":"跟踪可疑的村民","method":"reviewed-sol61"}
+{"source":"A suspicious looking villager was watching me as I freed Khalia. I assumed the Inquisition killed everyone else. I should follow this villager to find out who they are.","target":"我救卡莉娅时，有个形迹可疑的村民一直盯着我。我原以为其他人都被审判庭杀了。该跟上去，查清这个人是谁。","method":"reviewed-sol61"}
+{"source":"Follow the stranger inside","target":"跟随陌生人进入屋内","method":"reviewed-sol61"}
+{"source":"The suspicious villager has disappeared into a house. I should follow her inside.","target":"那个可疑的村民钻进了一间屋子。我该跟她进去。","method":"reviewed-sol61"}
+{"source":"Investigate the depths of the house","target":"探索房屋深处","method":"reviewed-sol61"}
+{"source":"The house is not all it seems to be. I should delve deeper in search of the suspicious villager.","target":"这间屋子并不像表面那么简单。我该继续深入，寻找那个可疑的村民。","method":"reviewed-sol61"}
+{"source":"Speak with the suspicious villager","target":"与可疑的村民交谈","method":"reviewed-sol61"}
+{"source":"I followed the suspicious villager to into an exotic refuge carved out beneath the house. She caught me off guard, but spared my life. I should speak to her to learn more about who she is, and what she's doing.","target":"我跟着可疑的村民，来到房屋地下开凿的一处别致藏身所。她打了我一个措手不及，却饶了我一命。我该和她谈谈，弄清她的身份与目的。","method":"reviewed-sol61"}
+{"source":"Help Tefahra or leave","target":"帮助特法拉或离开","method":"reviewed-sol61"}
+{"source":"I've learned that the suspicious villager is a woman named Tefahra, an Inquisitor of Bast. I stand at a crossroads. Do I help her in her supposedly noble cause? Or do I simply leave and forget this meeting ever happened?","target":"原来那个可疑的村民叫特法拉，是巴斯特的审判官。我得做个选择：帮助她完成那所谓的崇高事业，还是直接离开，当作这次会面从未发生？","method":"reviewed-sol61"}
+{"source":"Find the Anubite orgy","target":"寻找阿努比斯族人的性爱聚会","method":"reviewed-sol61"}
+{"source":"I've agreed to help Tefahra, but she wishes to test my dedication first. I must interrupt an Anubite orgy. The first step is to locate it.","target":"我答应帮助特法拉，但她想先考验我的决心。我必须打断一场阿努比斯族人的性爱聚会，第一步是找到地点。","method":"reviewed-sol61"}
+{"source":"Deal with the Anubite orgy","target":"处理阿努比斯族人的性爱聚会","method":"reviewed-sol61"}
+{"source":"I've found the Anubite orgy. Now, according to Tefahra, I must find a way to interrupt it, lest they continue to perpetuate the horrible curse affecting everyone.","target":"我找到了阿努比斯族人的性爱聚会。按照特法拉的说法，我必须想办法打断他们，否则他们会继续延续那影响所有人的可怕诅咒。","method":"reviewed-sol61"}
+{"source":"Return to Tefahra in Maz-Arjeni","target":"返回马兹阿尔杰尼寻找特法拉","method":"reviewed-sol61"}
+{"source":"I've dealt with the Anubite orgy-goers. Now I must return to Tefahra in her hideout beneath Maz-Arjeni.","target":"我处理了参加性爱聚会的阿努比斯族人。现在得回马兹阿尔杰尼地下的藏身处找特法拉。","method":"reviewed-sol61"}
+{"source":"Search for clues to Tefahra's whereabouts","target":"寻找特法拉去向的线索","method":"reviewed-sol61"}
+{"source":"I've returned to Tefahra's hideout beneath Maz-Arjeni, but she isn't here. Perhaps she left a clue to where she went off to around here somewhere.","target":"我回到了马兹阿尔杰尼地下的藏身处，特法拉却不在。也许她在这里留下了去向的线索。","method":"reviewed-sol61"}
+{"source":"Speak to Tefahra at the Rampant Lioness","target":"在“昂首雌狮”与特法拉交谈","method":"reviewed-sol61"}
+{"source":"I've discovered that Tefahra has moved to the taberna known as The Rampant Lioness on Tal'Senet. I should find her there. According to the note she left me, I should bring her a Blood-Reed Tonic to show I am still a friend of her order.","target":"我得知特法拉去了塔尔塞内特的“昂首雌狮”酒馆。我该去找她。她留下的字条说，让我带一瓶血芦补剂，证明我仍是她所属教团的朋友。","method":"reviewed-sol61"}
+{"source":"Go to Kab'Alrek","target":"前往卡布阿尔雷克","method":"reviewed-sol61"}
+{"source":"Tefahra has tasked me to stop the Anubites from recovering a ritual vessel that was sealed in a tomb called Kab'Alrek. I should make my way there.","target":"特法拉让我阻止阿努比斯族取回一件封存在卡布阿尔雷克墓穴里的仪式容器。我该动身前往。","method":"reviewed-sol61"}
+{"source":"Infiltrate the tomb","target":"潜入墓穴","method":"reviewed-sol61"}
+{"source":"I've found Kab'Alrek, but the Anubites are already inside. Going through the front door will no doubt end in bloodshed. Perhaps there's a way I could sneak in.","target":"我找到了卡布阿尔雷克，但阿努比斯族人已经进去了。走正门肯定会引发厮杀，或许有办法悄悄潜入。","method":"reviewed-sol61"}
+{"source":"Deal with the priestess","target":"处理女祭司","method":"reviewed-sol61"}
+{"source":"Deep within Kab'Alrek, I've discovered an Anubite Priestess attempting to use the ritual vessel. I should take care of her.","target":"在卡布阿尔雷克深处，我发现一位阿努比斯族女祭司正试图使用仪式容器。我该处理掉她。","method":"reviewed-sol61"}
+{"source":"Leave Kab'Alrek","target":"离开卡布阿尔雷克","method":"reviewed-sol61"}
+{"source":"With the Anubite priestess defeated, it's safe to say their excursion is over. I should return to Tefahra with the good news.","target":"阿努比斯族女祭司已被击败，他们的行动算是结束了。该回去把好消息带给特法拉。","method":"reviewed-sol61"}
+{"source":"Speak to the Inquisitor","target":"与审判官交谈","method":"reviewed-sol61"}
+{"source":"Some Inquisitors have arrived, if only they had arrive a bit sooner... Nevertheless, I should speak to their leader.","target":"一些审判官赶到了，要是他们能早来一点就好了……不管怎样，该和他们的首领谈谈。","method":"reviewed-sol61"}
+{"source":"Return to Tefahra","target":"返回特法拉处","method":"reviewed-sol61"}
+{"source":"It appears the Inquisitors have things at Kab'Alrek sorted. I should report back to Tefahra.","target":"看来审判官已经控制了卡布阿尔雷克的局面。我该向特法拉汇报。","method":"reviewed-sol61"}
+{"source":"Choose a path","target":"选择道路","method":"reviewed-sol61"}
+{"source":"Tefahra wishes to induct me into the Inquisition of Bast! I've been given the choice of three different methods through which I may devote myself. I should let Tefahra know my choice.","target":"特法拉想让我加入巴斯特审判庭！我可以通过三种不同的方式奉献自己。该告诉她我的选择。","method":"reviewed-sol61"}
+{"source":"Meet Tefahra in her hideout","target":"在藏身处与特法拉会面","method":"reviewed-sol61"}
+{"source":"Tefahra wishes to induct me into the Inquisition of Bast! I need to find her in her hideout and then make my choice. I've been given the choice of three different methods through which I may devote myself.","target":"特法拉想让我加入巴斯特审判庭！我得去她的藏身处，做出自己的选择。我可以通过三种不同的方式奉献自己。","method":"reviewed-sol61"}
+{"source":"Complete the Trial of Pain","target":"完成苦痛试炼","method":"reviewed-sol61"}
+{"source":"I've chosen the Trial of Pain. Now I must endure, for Bast.","target":"我选择了苦痛试炼。为了巴斯特，我必须忍耐。","method":"reviewed-sol61"}
+{"source":"Complete the Ritual of Temptation","target":"完成诱惑仪式","method":"reviewed-sol61"}
+{"source":"I've chosen to go through the Ritual of Temptation. I must remain steadfast for Tefahra, and for Bast.","target":"我选择接受诱惑仪式。为了特法拉，也为了巴斯特，我必须坚定不移。","method":"reviewed-sol61"}
+{"source":"Complete the Plea of Deliverance","target":"完成救赎祈求","method":"reviewed-sol61"}
+{"source":"I've choses to devote myself to Bast through the Plea of Deliverance. May Bast hear my words.","target":"我选择以救赎祈求向巴斯特献身。愿巴斯特聆听我的话语。","method":"reviewed-sol61"}
+{"source":"Speak to Tefahra","target":"与特法拉交谈","method":"reviewed-sol61"}
+{"source":"I did it. I successfully performed the rite. I should speak to Tefahra to finalize my induction into the Inquisition.","target":"我做到了，仪式顺利完成。我该和特法拉谈谈，正式加入审判庭。","method":"reviewed-sol61"}
+{"source":"Search for Amhak","target":"寻找阿姆哈克","method":"reviewed-sol61"}
+{"source":"An Anubite priestess named Amansi has asked me to look for Amhak, her 'dimwitted half-brother'. There must be someone around here who knows where he went...","target":"一位名叫阿曼西的阿努比斯族女祭司让我寻找阿姆哈克，她那“脑子不灵光的同父异母兄弟”。附近总该有人知道他去了哪里……","method":"reviewed-sol61"}
+{"source":"Find Amhak's ruins","target":"寻找阿姆哈克提到的遗迹","method":"reviewed-sol61"}
+{"source":"According to Amhak's journal, there's a ruined tomb known not far from here. He apparently believes it contains a ritual vessel, and has gone off in search of it. I should look for these ruins.","target":"阿姆哈克的日记提到，附近有一座残破的墓穴。他似乎相信里面藏着一件仪式容器，已经动身去寻找了。我该找找那片遗迹。","method":"reviewed-sol61"}
+{"source":"Find Kab'Sehet","target":"寻找卡布塞赫特","method":"reviewed-sol61"}
+{"source":"I spoke with Amhak's servant who told me Amhak went to explore some nearby ruins, a tomb called 'Kab'Sehet'. I should make my way there.","target":"阿姆哈克的仆人告诉我，他去探索附近一座名叫“卡布塞赫特”的墓穴遗迹了。我该去那里。","method":"reviewed-sol61"}
+{"source":"I've found Kab'Sehet. Amhak must be within. I should have a look around.","target":"我找到了卡布塞赫特。阿姆哈克一定在里面，我该四处看看。","method":"reviewed-sol61"}
+{"source":"Find Amhak","target":"寻找阿姆哈克","method":"reviewed-sol61"}
+{"source":"I've found some ruins nearby the Anubite encampment. Perhaps this is where Amhak went? I should have a look around.","target":"我在阿努比斯族营地附近发现了一片遗迹。阿姆哈克会不会去了那里？我该四处看看。","method":"reviewed-sol61"}
+{"source":"Save Amhak","target":"营救阿姆哈克","method":"reviewed-sol61"}
+{"source":"I've found Amhak, but he's trapped. I should eliminate the enemies keeping him trapped.","target":"我找到了阿姆哈克，但他被困住了。我得消灭困住他的敌人。","method":"reviewed-sol61"}
+{"source":"Speak to Amhak at the Anubite camp","target":"在阿努比斯族营地与阿姆哈克交谈","method":"reviewed-sol61"}
+{"source":"I've successfully saved Amhak. I should check in on him back at the Anubite camp.","target":"我成功救出了阿姆哈克。该回阿努比斯族营地看看他。","method":"reviewed-sol61"}
+{"source":"Speak to Astari","target":"与阿斯塔莉交谈","method":"reviewed-sol61"}
+{"source":"It seems Amhak's other half-sister, Astari, would like a word with me.","target":"看来阿姆哈克的另一位同父异母姐妹阿斯塔莉想找我谈谈。","method":"reviewed-sol61"}
+{"source":"Speak to Amhak","target":"与阿姆哈克交谈","method":"reviewed-sol61"}
+{"source":"Now Amhak wishes to speak with me. To offer thanks, no doubt. It sure feels good to be helpful.","target":"现在阿姆哈克也想和我谈谈，想必是要道谢。能帮上忙的感觉真不错。","method":"reviewed-sol61"}
+{"source":"Delve into the mysteries of the cave","target":"探索洞穴的秘密","method":"reviewed-sol61"}
+{"source":"I've discovered a strange cave. The very air emanating from it feels... strange. I should investigate.","target":"我发现了一处奇怪的洞穴。洞里透出的气息都让人觉得……古怪。我该调查一下。","method":"reviewed-sol61"}
+{"source":"Defeat Inquisition raiders","target":"击败审判庭袭击者","method":"reviewed-sol61"}
+{"source":"Maz-Arjeni is under attack. I must defeat the Inquisition and free the woman they appear to have tied up.","target":"马兹阿尔杰尼正遭到袭击。我必须击败审判庭，救下那个似乎被他们绑住的女子。","method":"reviewed-sol61"}
+{"source":"Explore deeper into Maz-Arjeni Tomb","target":"深入探索马兹阿尔杰尼墓穴","method":"reviewed-sol61"}
+{"source":"I've entered into the Maz-Arjeni Tomb, it appears to be filled with the Inquisition.","target":"我进入了马兹阿尔杰尼墓穴，里面似乎到处都是审判庭的人。","method":"reviewed-sol61"}
+{"source":"Free the captives","target":"解救俘虏","method":"reviewed-sol61"}
+{"source":"I've found tied up Captives being held here, I can help. I have a bad feeling about this.","target":"我发现了一些被绑起来关押在这里的俘虏，可以救他们。不过我有种不祥的预感。","method":"reviewed-sol61"}
+{"source":"Find out what is required for the ritual","target":"询问仪式所需之物","method":"reviewed-sol61"}
+{"source":"I've offered to 'tread the Path' with an Anubite called Asman, I should find out what he needs from me.","target":"我答应和一位名叫阿斯曼的阿努比斯族人一同“踏上圣道”。该问问他需要我做什么。","method":"reviewed-sol61"}
+{"source":"Search for the \"Sacred\" Oils of Preparation","target":"寻找准备仪式的“圣”油","method":"reviewed-sol61"}
+{"source":"Asman has asked me to find the \"Sacred\" Oils of Preparation. They should be somewhere nearby, surely any Oil will do.","target":"阿斯曼让我寻找准备仪式的“圣”油，应该就在附近。想必随便什么油都行吧。","method":"reviewed-sol61"}
+{"source":"Return to Asman","target":"返回阿斯曼处","method":"reviewed-sol61"}
+{"source":"I've found the oils! I should return to Asman.","target":"我找到油了！该回去找阿斯曼。","method":"reviewed-sol61"}
+{"source":"Search for the Sacred Rug of Repose","target":"寻找安歇圣毯","method":"reviewed-sol61"}
+{"source":"I've now been sent to find the Sacred Rug of Repose, surely it's around here somewhere.","target":"现在他又让我寻找安歇圣毯，肯定就在附近某处。","method":"reviewed-sol61"}
+{"source":"I've got the rug, I should bring it back to Asman.","target":"我拿到毯子了，该带回去给阿斯曼。","method":"reviewed-sol61"}
+{"source":"Search for the Sacred Incense of Insight","target":"寻找洞察圣香","method":"reviewed-sol61"}
+{"source":"Asman has now asked me to find the Sacred Incense of Insight. He said that it'd probably be near where I found the Sacred Oil.","target":"阿斯曼又让我去找洞察圣香。他说，应该就在先前找到圣油的地方附近。","method":"reviewed-sol61"}
+{"source":"I can't find any Sacred Incense of Insight around, I should let Asman know.","target":"我到处都找不到洞察圣香，该告诉阿斯曼。","method":"reviewed-sol61"}
+{"source":"Bring Farkos some Melinh Wine","target":"为法尔科斯带来梅林葡萄酒","method":"reviewed-sol61"}
+{"source":"A minoan has demanded I bring him a local drink, I've heard some locals talking about 'Melinh Wine' so hopefully that'll do. There must be a bar nearby I can purchase it from.","target":"一个米诺安族人命令我给他带点本地的酒。我听当地人提过“梅林葡萄酒”，希望那个能合他心意。附近应该有酒馆卖。","method":"reviewed-sol61"}
+{"source":"Bring Farkos some Yellow Sweetwater","target":"为法尔科斯带来黄色甜水","method":"reviewed-sol61"}
+{"source":"Farkos hated the wine and is now demanding some Yellow Sweetwater, the nearby bar should sell it.","target":"法尔科斯讨厌那葡萄酒，现在又要黄色甜水。附近的酒馆应该有卖。","method":"reviewed-sol61"}
+{"source":"Bring Farkos some Minot Brandy","target":"为法尔科斯带来米诺特白兰地","method":"reviewed-sol61"}
+{"source":"... Farkos hated the Yellow Sweetwater as well and is now demanding Minot Brandy. There must be some at the bar.","target":"……法尔科斯连黄色甜水也不喜欢，现在又要米诺特白兰地。酒馆里肯定有。","method":"reviewed-sol61"}
+{"source":"Bring Nisu some Girin-Da","target":"为妮苏带来吉林达","method":"reviewed-sol61"}
+{"source":"I've bumped into Nisu who mid-threesome has asked me to fetch her some lube, specifically Girin-Da She said that Hasina should have some in stock.","target":"我碰到了正在玩三人行的妮苏。她让我去拿点润滑剂，还特别指定要吉林达。她说哈西娜那里应该有货。","method":"reviewed-sol61"}
+{"source":"Find a musician","target":"寻找乐师","method":"reviewed-sol61"}
+{"source":"Nisu has now asked me to bring her a musician, hopefully one will be lurking around here somewhere.","target":"妮苏现在又让我给她找个乐师。希望附近就有一个。","method":"reviewed-sol61"}
+{"source":"Return to Nisu","target":"返回妮苏处","method":"reviewed-sol61"}
+{"source":"Apet has agreed to play for Nisu, I should check in with her.","target":"阿佩特答应为妮苏演奏。我该回去看看她。","method":"reviewed-sol61"}
+{"source":"Find Nisu's friend","target":"寻找妮苏的朋友","method":"reviewed-sol61"}
+{"source":"Nisu has now asked me to pass a message to a friend of hers- they need to go and see her for 'the usual'. She should be on Tal-Senet alongside her husband.","target":"妮苏让我替她给一位朋友捎个口信，叫对方来找她，还是“老样子”。那位朋友应该和丈夫一起待在塔尔塞内特。","method":"reviewed-sol61"}
+{"source":"Catch up with Amhak over some drinks","target":"与阿姆哈克喝酒叙旧","method":"reviewed-sol61"}
+{"source":"I've met up with Amhak outside the Taberna, I should find out if he has any clues relating to more Vessels.","target":"我在酒馆外遇到了阿姆哈克。该问问他有没有其他容器的线索。","method":"reviewed-sol61"}
+{"source":"Investigate Amhak's Camp for clues","target":"调查阿姆哈克的营地，寻找线索","method":"reviewed-sol61"}
+{"source":"Amhak has been investigating clues relating to more Ritual Vessels, I should check with him and the Artefacts in his camp","target":"阿姆哈克一直在调查其他仪式容器的线索。我该去问问他，再看看营地里的古物。","method":"reviewed-sol61"}
+{"source":"Speak with Amhak","target":"与阿姆哈克交谈","method":"reviewed-sol61"}
+{"source":"I've inspected Amhak's tomb findings and they all point to one location - Kab'Siron, I should speak to him about it.","target":"我查看了阿姆哈克从墓穴中找到的东西，线索都指向同一个地方：卡布西隆。我该和他谈谈。","method":"reviewed-sol61"}
+{"source":"Find Kab'Siron","target":"寻找卡布西隆","method":"reviewed-sol61"}
+{"source":"All of Amhak's notes relate to a Dungeon on Mehden Island called Kab'Siron, we should head there to look for any clues.","target":"阿姆哈克所有的笔记都指向梅登岛上一处叫卡布西隆的地牢。我们该去那里寻找线索。","method":"reviewed-sol61"}
+{"source":"Rendezvous with Amhak","target":"与阿姆哈克会合","method":"reviewed-sol61"}
+{"source":"I've entered Kab'Siron, I should meetup with Amhak so we can uncover it's mysteries together.","target":"我已经进入卡布西隆。该和阿姆哈克会合，一起揭开这里的秘密。","method":"reviewed-sol61"}
+{"source":"Find another route","target":"寻找其他路线","method":"reviewed-sol61"}
+{"source":"Amhak has fallen through a trap door and is lost, I can't follow him, I'll have to find another way through.","target":"阿姆哈克踩中活板门掉了下去，失去了踪影。我没法跟着跳，只能另找一条路。","method":"reviewed-sol61"}
+{"source":"Solve the puzzle","target":"解开谜题","method":"reviewed-sol61"}
+{"source":"I've found a flooded room with no clear way to get across the broken Aqueduct, maybe it has something to do with these water valves?","target":"我找到一间积水的房间，没有明显的路线能越过断裂的引水渠。也许和这些水阀有关？","method":"reviewed-sol61"}
+{"source":"I've found a way to flood the room to get across, I'll find Amhak in here somewhere","target":"我找到了让房间灌水、从而通过的办法。阿姆哈克一定就在里面某处。","method":"reviewed-sol61"}
+{"source":"Defeat the Shade of Nethyra","target":"击败奈瑟拉之影","method":"reviewed-sol61"}
+{"source":"Amhak by nearing the Vessel of Nethrya has summoned a terrifying Crocodilian monster, hopefully by killing it we can grab the Vessel and make it out alive.","target":"阿姆哈克靠近奈瑟拉的容器时，召出了一只可怕的鳄人怪物。希望杀死它之后，我们就能拿着容器活着离开。","method":"reviewed-sol61"}
+{"source":"Obtain the Vessel of Nethrya","target":"取得奈瑟拉的容器","method":"reviewed-sol61"}
+{"source":"The beast has been defeated and I'm somehow still alive, let's grab the Vessel and get out of here.","target":"野兽被击败了，我居然还活着。拿上容器，赶紧离开吧。","method":"reviewed-sol61"}
+{"source":"Return to Amansi at the Anubite Camp","target":"返回阿努比斯族营地寻找阿曼西","method":"reviewed-sol61"}
+{"source":"Now I've got the Vessel, I should head back to Amansi in the Anubite Camp and see if this was worth the effort.","target":"我拿到容器了。该回阿努比斯族营地找阿曼西，看看这番辛苦是否值得。","method":"reviewed-sol61"}
+{"source":"Loot the Anubite Armoury","target":"搜刮阿努比斯族军械库","method":"reviewed-sol61"}
+{"source":"I've chosen a key to the Anubite Armory, I should grab the weapon and see what other rewards await me around the camp.","target":"我选择了阿努比斯族军械库的钥匙。该去拿武器，再看看营地里还有什么奖励等着我。","method":"reviewed-sol61"}
+{"source":"Find the Farmstead owner","target":"寻找农庄主人","method":"reviewed-sol61"}
+{"source":"Investigate the Farm","target":"调查农场","method":"reviewed-sol61"}
+{"source":"Track the source of blood","target":"追踪血迹的来源","method":"reviewed-sol61"}
+{"source":"Find the Farmer","target":"寻找农夫","method":"reviewed-sol61"}
+{"source":"Find a way to save the Formless","target":"寻找拯救无形者的办法","method":"reviewed-sol61"}
+{"source":"I've found a shipwrecked Gilded Fold herder with some drowning caged formless, it appears the key has been lost with the wreckage nearby.","target":"我遇到一位遭遇船难的金辉牧团牧人。他押运的无形者被困在笼子里，眼看就要淹死，而钥匙似乎遗失在附近的船骸中了。","method":"reviewed-sol61"}
+{"source":"Negotiate with the Inquisitor","target":"与审判官交涉","method":"reviewed-sol61"}
+{"source":"An Inquisitor has shown up and has taken issue with simply freeing the slaves from drowning only to hand them over to slavery, I need to make my choice of their fate even if this means conflict.","target":"一位审判官出现了。他不认同把奴隶救出水后再送回奴役的做法。我必须决定他们的命运，即使这会引发冲突。","method":"reviewed-sol61"}
+{"source":"Find the Pleasure Palace","target":"寻找欢愉宫","method":"reviewed-sol61"}
+{"source":"I've heard rumour of a place nearby full of desire and pleasure, I should check it out, seems right up my alley.","target":"我听说附近有个充满欲望与欢愉的地方。该去看看，听起来正合我的口味。","method":"reviewed-sol61"}
+{"source":"Enter the pleasure palace","target":"进入欢愉宫","method":"reviewed-sol61"}
+{"source":"Having found the pleasure palace and the less than enthused attendant, I should head inside.","target":"我找到了欢愉宫，还有那个不怎么热情的侍者。该进去了。","method":"reviewed-sol61"}
+{"source":"Investigate the Pleasure Palace","target":"调查欢愉宫","method":"reviewed-sol61"}
+{"source":"I appear to have been trapped inside, hopefully this is for my benefit, but I'm beginning to get concerned, I should take a look around.","target":"我似乎被困在里面了。希望这是为了让我尽兴，可我已经有些担心了，得四处看看。","method":"reviewed-sol61"}
+{"source":"Defeat the Inquisition Ambush","target":"击败伏击的审判官","method":"reviewed-sol61"}
+{"source":"I've been ambushed by an overly zealous Inquisitor, it's do or die.","target":"一位狂热的审判官伏击了我。现在不是他死，就是我亡。","method":"reviewed-sol61"}
+{"source":"Escape the Pleasure Palace","target":"逃离欢愉宫","method":"reviewed-sol61"}
+{"source":"Having defeated the Inquisitor, I should use that key I looted to make it out the back alive.","target":"我击败了审判官。该用搜到的钥匙从后面逃出去。","method":"reviewed-sol61"}
+{"source":"Find the Aadi seller","target":"寻找阿迪兽商人","method":"reviewed-sol61"}
+{"source":"I've found a note from a stablemaster on Tal'Senet, he's gone to Mehden island, if I find them, I can buy my own Aadi.","target":"我在塔尔塞内特找到一张马厩主管留下的字条，他去了梅登岛。找到他，我就能买一只自己的阿迪兽。","method":"reviewed-sol61"}
+{"source":"Inquire about a Mount","target":"询问坐骑的事","method":"reviewed-sol61"}
+{"source":"I've found Hakor, I should see about acquiring my own steed.","target":"我找到了哈科尔，该问问怎么才能拥有自己的坐骑。","method":"reviewed-sol61"}
+{"source":"Purchase an Aadi","target":"购买阿迪兽","method":"reviewed-sol61"}
+{"source":"I've acquired an Aadi on trial from Hakor, if I pay him 1,000 gold, I can get the mount as my very own.","target":"哈科尔让我试用一只阿迪兽。付给他1000金币，这只坐骑就正式归我了。","method":"reviewed-sol61"}
+{"source":"Find the meeting point","target":"寻找会面地点","method":"reviewed-sol61"}
+{"source":"I've received a strange and urgent note telling me to come to the Ruins of the Sacred Steps to retrieve an important item.","target":"我收到了一张古怪而急迫的字条，要我前往圣阶遗迹取一件重要物品。","method":"reviewed-sol61"}
+{"source":"Investigate the Standoff","target":"调查对峙局面","method":"reviewed-sol61"}
+{"source":"I've discovered both the Anubites and the Inquisition fighting over the ruins, this is looking like trouble.","target":"我发现阿努比斯族和审判庭正在争夺遗迹，看来有麻烦了。","method":"reviewed-sol61"}
+{"source":"Resolve the Situation","target":"解决争端","method":"reviewed-sol61"}
+{"source":"There's a simple dispute between a Copper Merchant and a Buyer, it appears the area is littered with complaints, I should investigate and settle the matter.","target":"一位铜商和买家起了争执，周围似乎散落着不少投诉。我该调查一下，解决此事。","method":"reviewed-sol61"}
+{"source":"I've come across bickering Anubite and Gilded Fold members over the sale of a Slave, I think I can resolve this issue without any bloodshed.","target":"我遇到阿努比斯族人与金辉牧团成员，双方正为一名奴隶的买卖争执。我想可以不流血就解决这件事。","method":"reviewed-sol61"}
+{"source":"Choose your side","target":"选择阵营","method":"reviewed-sol61"}
+{"source":"I must choose by side between the Anubites and the Inquisition on who should take the Artifact.","target":"我必须在阿努比斯族与审判庭之间选择一方，决定神器归谁。","method":"reviewed-sol61"}
+{"source":"Win the Battle","target":"赢得战斗","method":"reviewed-sol61"}
+{"source":"I've chosen to side with the Cult of Anubis, for now, and I must help kill the Inquisitors to retrieve the Voice of Amun.","target":"我选择暂时支持阿努比斯教团，必须帮他们杀死审判官，夺回阿蒙之声。","method":"reviewed-sol61"}
+{"source":"I've chosen to side with the Inquisition of Bast, for now, and I must help kill the Anubites to retrieve the Voice of Amun.","target":"我选择暂时支持巴斯特审判庭，必须帮他们杀死阿努比斯族人，夺回阿蒙之声。","method":"reviewed-sol61"}
+{"source":"Speak to Mehsu","target":"与梅赫苏交谈","method":"reviewed-sol61"}
+{"source":"I've retrieved the Voice of Amun, I need to speak to Mehsu to discuss the next steps.","target":"我取回了阿蒙之声，得找梅赫苏商量下一步行动。","method":"reviewed-sol61"}
+{"source":"Speak to Nehma","target":"与内赫玛交谈","method":"reviewed-sol61"}
+{"source":"I've retrieved the Voice of Amun, I need to speak to Nehma to discuss the next steps.","target":"我取回了阿蒙之声，得找内赫玛商量下一步行动。","method":"reviewed-sol61"}
+{"source":"Kill Mehsu","target":"杀死梅赫苏","method":"reviewed-sol61"}
+{"source":"I've chosen to betray the Anubites and bring the Voice of Amun to the Inquisition, I must kill Mehsu.","target":"我选择背叛阿努比斯族，将阿蒙之声交给审判庭。我必须杀死梅赫苏。","method":"reviewed-sol61"}
+{"source":"Kill Nehma","target":"杀死内赫玛","method":"reviewed-sol61"}
+{"source":"I've chosen to betray the Inquisition and bring the Voice of Amun to the Anubites, I must kill Nehma.","target":"我选择背叛审判庭，将阿蒙之声交给阿努比斯族。我必须杀死内赫玛。","method":"reviewed-sol61"}
+{"source":"Obtain the Voice of Amun","target":"取得阿蒙之声","method":"reviewed-sol61"}
+{"source":"There's some sort of Magical Force preventing me from just taking the Artifact. There must be a way to break the spell around here.","target":"某种魔力阻止我直接取走神器。附近一定有解除法术的办法。","method":"reviewed-sol61"}
+{"source":"Hand over the Voice of Amun to Astari","target":"将阿蒙之声交给阿斯塔莉","method":"reviewed-sol61"}
+{"source":"Hand over the Voice of Amun to Astari.","target":"将阿蒙之声交给阿斯塔莉。","method":"reviewed-sol61"}
+{"source":"Hand over the Voice of Amun to Karo","target":"将阿蒙之声交给卡罗","method":"reviewed-sol61"}
+{"source":"Hand over the Voice of Amun to Karo.","target":"将阿蒙之声交给卡罗。","method":"reviewed-sol61"}
+{"source":"Talk to the Baker","target":"与面包师交谈","method":"reviewed-sol61"}
+{"source":"I've witnessed a thief making off with some bread from the Baker in Dhrakoq port, this injustice needs investigating.","target":"我看见一个小偷从德拉科克港的面包师那里偷了些面包逃走。这种不法之事需要调查。","method":"reviewed-sol61"}
+{"source":"Search for the Thief","target":"寻找小偷","method":"reviewed-sol61"}
+{"source":"I've offered to help a baker search for a Thief that keeps stealing from them, since they keep going there they must live nearby. I should search the area.","target":"我答应帮一位面包师寻找总来偷东西的小偷。既然常来，他一定住在附近。我该搜索这一带。","method":"reviewed-sol61"}
+{"source":"Decide what to do with the Thief","target":"决定如何处置小偷","method":"reviewed-sol61"}
+{"source":"I've found the Thief, I could head back to the Baker now and let her know about him. Alternatively there must be some way I could convince him to stop stealing.","target":"我找到了小偷，现在可以回去告诉面包师。或者，也许还有办法说服他不再行窃。","method":"reviewed-sol61"}
+{"source":"Return to the Cook","target":"返回厨师处","method":"reviewed-sol61"}
+{"source":"I've had a word with the Thief, he won't be a problem anymore. I should let the Baker know.","target":"我已经和小偷谈过，他不会再惹麻烦了。我该告诉面包师。","method":"reviewed-sol61"}
+{"source":"I've given the Thief some money to get them back on their feet, hopefully now they'll leave the Baker alone. I should let them know.","target":"我给了小偷一些钱，让他能重新站稳脚跟。希望他以后别再骚扰面包师了，我该回去说一声。","method":"reviewed-sol61"}
+{"source":"Deal with the Vigilante","target":"阻止私刑者","method":"reviewed-sol61"}
+{"source":"The Baker hired a Vigilante to take care of the Thief. I need to find and stop him before it's too late!","target":"面包师雇了个私刑者去处理小偷。我得赶在太迟之前找到并阻止他！","method":"reviewed-sol61"}
+{"source":"Bring the Voice of Amun to Astari","target":"将阿蒙之声带给阿斯塔莉","method":"reviewed-sol61"}
+{"source":"Now I have the Artifact - the Voice of Amun, I need to bring it to the Anubites, it cannot be in the Inquisiton Control. Astari will know what to do.","target":"我拿到了神器阿蒙之声，得把它交给阿努比斯族，绝不能让审判庭控制它。阿斯塔莉会知道该怎么办。","method":"reviewed-sol61"}
+{"source":"Await further Instructions","target":"等待进一步指示","method":"reviewed-sol61"}
+{"source":"To be Continued...","target":"未完待续……","method":"reviewed-sol61"}
+{"source":"Bring the Voice of Amun to Karo","target":"将阿蒙之声带给卡罗","method":"reviewed-sol61"}
+{"source":"Now I have the Artifact - the Voice of Amun, I need to bring it to the Inquisition, it cannot be in the Anubites Control. Karo will know what to do.","target":"我拿到了神器阿蒙之声，得把它交给审判庭，绝不能让阿努比斯族控制它。卡罗会知道该怎么办。","method":"reviewed-sol61"}
+{"source":"Investigate the Strange Cries","target":"调查奇怪的叫声","method":"reviewed-sol61"}
+{"source":"I can hear some odd noises coming from a nearby pot, is someone stuck?","target":"附近一个罐子里传来奇怪的声音，是有人被卡住了吗？","method":"reviewed-sol61"}
+{"source":"Free Onha from the Jar","target":"将昂哈从罐子中救出","method":"reviewed-sol61"}
+{"source":"I've discovered a helpless but clearly aroused stranger trapped inside a pot, I should see what I can do to help, maybe I can get hold of some Fish Oil from a vendor..","target":"我发现一个陌生人被卡在罐子里，动弹不得，却明显很兴奋。我该想办法帮她，也许能从商人那里弄点鱼油……","method":"reviewed-sol61"}
+{"source":"Return to Onha with the Lube","target":"带着润滑剂返回昂哈处","method":"reviewed-sol61"}
+{"source":"I've managed to find some Fish Oil, let's see if this can help get her lubed up and out of the pot.","target":"我找到了鱼油，看看能否给她润滑一下，让她从罐子里出来。","method":"reviewed-sol61"}
+{"source":"Journey to the Temple of Pahnu","target":"前往帕努神殿","method":"reviewed-sol61"}
+{"source":"After speaking to Amara at the Shrine of Ascension, to gain more power and change the world I need to obtain the essence of demigods. For the essence of Pahnu I need to travel to their temple in the desert.","target":"在升华神龛与阿玛拉交谈后，我得知想获得更多力量、改变世界，就需要取得半神的精华。要获得帕努的精华，我得前往沙漠中的神殿。","method":"reviewed-sol61"}
+{"source":"Investigate the temple","target":"调查神殿","method":"reviewed-sol61"}
+{"source":"I've arrived in the temple in the desert, let's investigate.","target":"我来到了沙漠中的神殿，四处调查一下吧。","method":"reviewed-sol61"}
+{"source":"Aid the Mouth of Pahnu","target":"帮助帕努之口","method":"reviewed-sol61"}
+{"source":"I've discovered and spoken to the Mouth of Pahnu, I think it won't speak to me unless I satiate it's thirst.","target":"我找到了帕努之口，也试着与它交谈。但看来不先替它解渴，它就不会理我。","method":"reviewed-sol61"}
+{"source":"Speak to the Mouth of Pahnu","target":"与帕努之口交谈","method":"reviewed-sol61"}
+{"source":"After watering the tree, I can speak to the Mouth and unlock the next steps.","target":"我给树浇了水，现在可以与帕努之口交谈，了解接下来该怎么做。","method":"reviewed-sol61"}
+{"source":"Attune to the Elements - Seek the Ancient Shrines","target":"与元素共鸣——寻找古代神龛","method":"reviewed-sol61"}
+{"source":"The Mouth of Pahnu won't grant me access to the Labyrinth until I attune myself to the Land, Sea and Sky. I need to find their shrines and attune with the elements if I want the essence.","target":"帕努之口要求我先与大地、海洋和天空共鸣，才肯让我进入迷宫。想取得精华，就必须找到它们的神龛，与这些元素建立联系。","method":"reviewed-sol61"}
+{"source":"Return to the Mouth of Pahnu","target":"返回帕努之口处","method":"reviewed-sol61"}
+{"source":"I've attuned to all three elements of Land, Sea and Sky and now I can proceed with my journey back to the Mouth of Pahnu.","target":"我已与大地、海洋和天空三种元素共鸣，现在可以回去找帕努之口，继续旅程。","method":"reviewed-sol61"}
+{"source":"Enter the Temple of Pahnu","target":"进入帕努神殿","method":"reviewed-sol61"}
+{"source":"I've been granted access, let's continue onward into the Temple.","target":"我获得了进入许可，继续深入神殿吧。","method":"reviewed-sol61"}
+{"source":"Navigate Pahnu's Labyrinth","target":"穿越帕努的迷宫","method":"reviewed-sol61"}
+{"source":"I've found that the temple is based on the ivy covered grounds of an Ancient Labyrinth, hopefully Pahnu is in the middle.","target":"原来神殿建在一座爬满常春藤的古老迷宫中。希望帕努就在迷宫中央。","method":"reviewed-sol61"}
+{"source":"Speak with the Demi-God Pahnu","target":"与半神帕努交谈","method":"reviewed-sol61"}
+{"source":"I've found Pahnu, I need to obtain their essence.","target":"我找到了帕努，必须取得祂的精华。","method":"reviewed-sol61"}
+{"source":"Defeat Pahnu","target":"击败帕努","method":"reviewed-sol61"}
+{"source":"Enough talk, surely I can obtain Pahnu's essence by defeating them.","target":"说够了，只要击败帕努，肯定就能取得祂的精华。","method":"reviewed-sol61"}
+{"source":"Return to Amara at the Shrine of Ascension","target":"返回升华神龛寻找阿玛拉","method":"reviewed-sol61"}
+{"source":"I've obtained the essence, I can now return to Amara at the Shrine fo Ascension","target":"我取得了精华，现在可以回升华神龛找阿玛拉。","method":"reviewed-sol61"}
+{"source":"Deal with the Dune Bugs","target":"清理沙丘虫","method":"reviewed-sol61"}
+{"source":"Pahnu won't part with any essence until I prove that I can tend to the land, I can clear out some Dune Bug nests nearby to hopefully appease the Demi-God.","target":"帕努要我证明自己懂得照料这片土地，才肯给我精华。我可以清理附近的沙丘虫巢，希望能让这位半神满意。","method":"reviewed-sol61"}
+{"source":"Speak to Pahnu","target":"与帕努交谈","method":"reviewed-sol61"}
+{"source":"After burning many Dune Bug nests, I've proved I can tend to the land and hopefully Pahnu will give me the essence I need.","target":"我烧毁了许多沙丘虫巢，证明自己能够照料土地。希望帕努会把我需要的精华交给我。","method":"reviewed-sol61"}
+{"source":"Touch the Shrine to begin Purification","target":"触碰神龛，开始净化","method":"reviewed-sol61"}
+{"source":"I've found one of the Shrines of Elements, the Shrine of Sea. I need to touch it to attune to the Shrine.","target":"我找到了元素神龛之一：海洋神龛。需要触碰它，才能与之共鸣。","method":"reviewed-sol61"}
+{"source":"Survive the trial of the Sea Shrine","target":"通过海洋神龛的生存试炼","method":"reviewed-sol61"}
+{"source":"The shrine is testing me by expunging dark creatures, I feel that if I survive the onslaught that I'll be worthy to meditate here.","target":"神龛释放出黑暗生物来考验我。我感觉只要撑过这轮猛攻，就有资格在这里冥想。","method":"reviewed-sol61"}
+{"source":"Meditate at the Shrine","target":"在神龛前冥想","method":"reviewed-sol61"}
+{"source":"I've survived the purging and now I can meditate and attune to the Sea.","target":"我撑过了净化试炼，现在可以冥想，与海洋共鸣。","method":"reviewed-sol61"}
+{"source":"Return to the Shrine Area to restart the Ritual","target":"返回神龛区域，重新开始仪式","method":"reviewed-sol61"}
+{"source":"After leaving the area I can feel that the shrine has become dormant once again, if I return I should be able to re-start the ritual.","target":"离开这片区域后，我能感到神龛再次陷入了沉寂。回去应该就能重新开始仪式。","method":"reviewed-sol61"}
+{"source":"Pass the trials to activate the Shrine of Land","target":"通过试炼，激活大地神龛","method":"reviewed-sol61"}
+{"source":"I've found the Shrine of the Land, it appears to be dormant and is surrounded by void  magic. Perhaps by completing the puzzling trials the shrine will activate.","target":"我找到了大地神龛。它似乎处于沉寂状态，周围环绕着虚空魔法。或许完成这些解谜试炼，就能激活它。","method":"reviewed-sol61"}
+{"source":"Meditate at the Shrine of Land","target":"在大地神龛前冥想","method":"reviewed-sol61"}
+{"source":"I've activated the shrine of Land and now I can meditate and attune to the Land.","target":"我激活了大地神龛，现在可以冥想，与大地共鸣。","method":"reviewed-sol61"}
+{"source":"Traverse the Sky to reach the Sky Essence","target":"踏空而行，抵达天空精华处","method":"reviewed-sol61"}
+{"source":"I've found one of the Shrines of Elements, the Shrine of Sky. I need to touch it to attune to the Shrine. There appears to be a faint whispy path in the sky that I can traverse to make my way to the Shrine.","target":"我找到了元素神龛之一：天空神龛。需要触碰它，才能与之共鸣。空中似乎有一条若隐若现的缥缈路径，可以沿它抵达神龛。","method":"reviewed-sol61"}
+{"source":"Speak to Amhak and Nepthys","target":"与阿姆哈克和奈芙蒂斯交谈","method":"reviewed-sol61"}
+{"source":"I've found Amhak and Nepthys in Wased-Heq, they seem to be discussing something important.","target":"我在瓦塞德赫克找到了阿姆哈克和奈芙蒂斯，他们似乎在讨论重要的事情。","method":"reviewed-sol61"}
+{"source":"Catch up with Amhak at the Temple of Anubis","target":"前往阿努比斯神殿与阿姆哈克会合","method":"reviewed-sol61"}
+{"source":"Make the journey to Wased-Heq","target":"动身前往瓦塞德赫克","method":"reviewed-sol61"}
+{"source":"Find the Anubite Barracks","target":"寻找阿努比斯族兵营","method":"reviewed-sol61"}
+{"source":"Nepthys has offered me a place in the Anubite Barracks to rest after my travels.","target":"奈芙蒂斯说，我旅途劳顿，可以去阿努比斯族兵营休息。","method":"reviewed-sol61"}
+{"source":"Earn a bunk in the ring","target":"在擂台上赢得床位","method":"reviewed-sol61"}
+{"source":"The Barrack's Captain is making me prove myself to earn a bunk in the Barracks. Fisticuffs it is.","target":"兵营队长要我先证明自己，才能获得一个床位。看来得靠拳头说话了。","method":"reviewed-sol61"}
+{"source":"DUD RN FOR SOME KINDA EVENT","target":"暂留：用于某种事件","method":"reviewed-sol61"}
+{"source":"Take a well earned Rest","target":"好好休息一下","method":"reviewed-sol61"}
+{"source":"Having given the Barrack's Captain a good fisting, it's time to take a break and take a hard earned rest in the bunks.","target":"我已经用拳头好好教训了兵营队长，是时候喘口气，躺上辛苦赢来的床位休息了。","method":"reviewed-sol61"}
+{"source":"Return to Nepthys and Amhak","target":"返回奈芙蒂斯和阿姆哈克处","method":"reviewed-sol61"}
+{"source":"I've never felt so refreshed despite all the bumps in the night. I better get back to Nepthys, Amansi and Amhak.","target":"虽然夜里折腾不断，我却从未感觉如此神清气爽。该回去找奈芙蒂斯、阿曼西和阿姆哈克了。","method":"reviewed-sol61"}
+{"source":"Travel to the Tomb of Q'Tesh","target":"前往克泰什之墓","method":"reviewed-sol61"}
+{"source":"The High Priestess, Nepthys, has requested that a ritual vessel be recovered from the Tomb of the Ascended.","target":"大祭司奈芙蒂斯让我从升华者之墓中取回一件仪式容器。","method":"reviewed-sol61"}
+{"source":"Find the ritual vessel","target":"寻找仪式容器","method":"reviewed-sol61"}
+{"source":"I've found the Tomb of Q'tesh, at least some entrance into this cursed place, now I need to find the ritual vessel.","target":"我找到了克泰什之墓，至少找到了进入这鬼地方的一处入口。现在得找到仪式容器。","method":"reviewed-sol61"}
+{"source":"Defeat the Void Titan to Obtain the Sealed Vessel of Q'Tesh","target":"击败虚空泰坦，取得克泰什的封印容器","method":"reviewed-sol61"}
+{"source":"The Sealed Vessel is being guarded by some giant creature of the void, I'll need to kill this creature to take the vessel back to Nepthys.","target":"封印容器由一只巨大的虚空生物看守。我得杀死它，才能把容器带回给奈芙蒂斯。","method":"reviewed-sol61"}
+{"source":"Pickup the Sealed Vessel of Q'Tesh","target":"拾取克泰什的封印容器","method":"reviewed-sol61"}
+{"source":"Now the Tomb Guardian has been defeated, I can retrieve the Sealed Vessel of Q'Tesh.","target":"墓穴守卫已被击败，现在可以取走克泰什的封印容器了。","method":"reviewed-sol61"}
+{"source":"Return to Nepthys","target":"返回奈芙蒂斯处","method":"reviewed-sol61"}
+{"source":"I have defeated the Tomb Guardian and retrieved the Sealed Vessel of Q'Tesh, I can now return to Nepthys.","target":"我击败了墓穴守卫，取回了克泰什的封印容器。现在可以回去找奈芙蒂斯。","method":"reviewed-sol61"}
+{"source":"Speak to TEF","target":"与特芙交谈","method":"reviewed-sol61"}
+{"source":"Tefahra has requested that the Sealed Ritual vessel be recovered from the Tomb of the Ascended, stealing it from the Anubites.","target":"特法拉让我从升华者之墓取回封印仪式容器，将它从阿努比斯族手里偷走。","method":"reviewed-sol61"}
+{"source":"Find the Sealed Ritual Vessel of Q'Tesh","target":"寻找克泰什的封印仪式容器","method":"reviewed-sol61"}
+{"source":"Defeat the Void Titan to obtain the Ritual Vessel","target":"击败虚空泰坦，取得仪式容器","method":"reviewed-sol61"}
+{"source":"The Sealed Ritual Vessel is being guarded by some giant creature of the void, I'll need to kill this creature to take the vessel back to Tefahra.","target":"封印仪式容器由一只巨大的虚空生物看守。我得杀死它，才能把容器带回给特法拉。","method":"reviewed-sol61"}
+{"source":"Pick up the Sealed Vessel of Q'Tesh","target":"拾取克泰什的封印容器","method":"reviewed-sol61"}
+{"source":"I have defeated the Tomb Guardian and retrieved the Sealed Vessel of Q'Tesh, I can now return to Tefahra at her hideout.","target":"我击败了墓穴守卫，取回了克泰什的封印容器。现在可以回她的藏身处找特法拉。","method":"reviewed-sol61"}
+{"source":"Speak to Esi","target":"与艾西交谈","method":"reviewed-sol61"}
+{"source":"One of the Adepts of the Temple is here making camp outside the Tomb, I should speak to her.","target":"一位神殿修士正在墓穴外扎营，我该和她谈谈。","method":"reviewed-sol61"}
+{"source":"Investigate the body and area","target":"调查尸体及周围区域","method":"reviewed-sol61"}
+{"source":"One of the Adepts of the Temple is dead here, having made camp outside the Tomb, I should investigate.","target":"一位在墓穴外扎营的神殿修士死在这里，我该调查一下。","method":"reviewed-sol61"}
+{"source":"Find Khaba the Scribe","target":"寻找书吏卡巴","method":"reviewed-sol61"}
+{"source":"I should follow the river to the scribe's house.","target":"我该沿河前往书吏的住处。","method":"reviewed-sol61"}
+{"source":"Speak to Khaba","target":"与卡巴交谈","method":"reviewed-sol61"}
+{"source":"I've found Khaba the Scribe at their home, I should speak to them and investigate the void.","target":"我在书吏卡巴家里找到了他。该和他谈谈，调查虚空的事。","method":"reviewed-sol61"}
+{"source":"Find Khaba's servant","target":"寻找卡巴的仆人","method":"reviewed-sol61"}
+{"source":"Return to Khaba","target":"返回卡巴处","method":"reviewed-sol61"}
+{"source":"Search for the ancient ruins","target":"寻找古代遗迹","method":"reviewed-sol61"}
+{"source":"Khaba has told me of ruins that supposedly house a gateway between this world and The Void. Laughed off as a children's story by Esi, perhaps this place really is a door to a place beyond reality.","target":"卡巴提到一片遗迹，据说那里藏着连接现实世界与虚空的门。艾西把这当作小孩子的传说，一笑置之，但也许那里真是一道通往现实之外的门户。","method":"reviewed-sol61"}
+{"source":"Unlock the Mysteries of the Ruins","target":"揭开遗迹的秘密","method":"reviewed-sol61"}
+{"source":"There are four statues marked with symbols that spin freely on their plinth. Perhaps a specific alignment of these is all that's needed to open the gateway.","target":"这里有四座刻着符号的雕像，可以在底座上自由旋转。或许只要按特定方式排列它们，就能打开门户。","method":"reviewed-sol61"}
+{"source":"Enter the temple","target":"进入神殿","method":"reviewed-sol61"}
+{"source":"Find the hidden weapon","target":"寻找隐藏的武器","method":"reviewed-sol61"}
+{"source":"It was trivial to open the gateway to The Void... baffling really that nobody had done it already. Now I've entered this void space, I need to find this hidden weapon.","target":"通往虚空的门户竟然这么容易就打开了……之前居然没人做到，真令人费解。我已经进入这片虚空，现在得找到藏在这里的武器。","method":"reviewed-sol61"}
+{"source":"Speak to the void spirit","target":"与虚空之灵交谈","method":"reviewed-sol61"}
+{"source":"A void spirit has appeared within this strange place, I should speak to them.","target":"一个虚空之灵出现在这奇异的地方，我该和它谈谈。","method":"reviewed-sol61"}
+{"source":"Gather Evidence to Find the Thief","target":"收集证据，寻找小偷","method":"reviewed-sol61"}
+{"source":"The Watch have asked me to search for a thief that's been plaguing the docks. I should ask around to try and track the thief down before confronting anyone. The various tradespeople are a good bet, one of them must have seen something.","target":"城卫队让我追查一个在码头频频行窃的小偷。在找人对质前，我该先四处打听，追查他的下落。各种行当的人都值得问问，总有人见过什么。","method":"reviewed-sol61"}
+{"source":"Confront the Black Felian","target":"与黑色猫人对质","method":"reviewed-sol61"}
+{"source":"I have a description of the suspect, a distincive one at that. I should confront the Black Felian and put a stop to this spate of thefts.","target":"我得到了嫌疑人的外貌描述，特征十分明显。我该找那名黑色猫人对质，制止接连发生的盗窃。","method":"reviewed-sol61"}
+{"source":"Determine the fate of Iraya","target":"决定伊拉娅的命运","method":"reviewed-sol61"}
+{"source":"I must choose the thief's fate, though no choice will be without consequence for myself. With a single decision I could make powerful friends, or dangerous enemies.","target":"我必须决定这个小偷的命运，但无论怎么选，我自己都会承担后果。一念之间，我可能交到强大的朋友，也可能树立危险的敌人。","method":"reviewed-sol61"}
+{"source":"Condemned Iraya to the watch","target":"将伊拉娅交给城卫队","method":"reviewed-sol61"}
+{"source":"I have chosen to condemn Iraya to the watch, no doubt straight into the hands of the Merchant Guild.","target":"我选择将伊拉娅交给城卫队，无疑也就是把她送进商人公会手里。","method":"reviewed-sol61"}
+{"source":"Enslaved Iraya","target":"奴役伊拉娅","method":"reviewed-sol61"}
+{"source":"I've chosen to capture Iraya, I suppose I may as well sell her myself.","target":"我选择捕捉伊拉娅。既然如此，不如亲自把她卖了。","method":"reviewed-sol61"}
+{"source":"Freed Iraya","target":"释放伊拉娅","method":"reviewed-sol61"}
+{"source":"I've chosen to let Iraya go, surely her crimes do not warrant such awful fates.","target":"我选择放走伊拉娅。她的罪行应该还不至于让她遭受那些可怕的命运。","method":"reviewed-sol61"}
+{"source":"Investigate the body","target":"调查尸体","method":"reviewed-sol61"}
+{"source":"I've found the body of someone murdered in the street, maybe I should check it out.","target":"我发现街上有一具被谋杀者的尸体，也许该查看一下。","method":"reviewed-sol61"}
+{"source":"Report the body to the Watch","target":"向城卫队报告尸体","method":"reviewed-sol61"}
+{"source":"The body has been mutilated, I should report it to the guards.","target":"尸体遭到了肢解，我该向守卫报告。","method":"reviewed-sol61"}
+{"source":"Find and speak to potential witnesses:","target":"寻找可能的目击者并交谈：","method":"reviewed-sol61"}
+{"source":"To get to the bottom of these killings I should speak to any potential witnesses.","target":"想查清这些凶杀案，我该找所有可能的目击者谈谈。","method":"reviewed-sol61"}
+{"source":"Find a Scribe","target":"寻找书吏","method":"reviewed-sol61"}
+{"source":"The Jackal mentioned a scribe, perhaps there's one around here who can help identify the markings.","target":"那个豺狼人提到了一位书吏，也许附近就有人能帮忙辨认这些符号。","method":"reviewed-sol61"}
+{"source":"Speak to the Stranger","target":"与陌生人交谈","method":"reviewed-sol61"}
+{"source":"There's a Draconid that's acting a bit suspicious, I should see if they saw anything.","target":"有个龙裔行为有些可疑，我该问问他是否看见了什么。","method":"reviewed-sol61"}
+{"source":"Follow the Stranger","target":"跟随陌生人","method":"reviewed-sol61"}
+{"source":"After mentioning Atá the Draconid ran, saying to follow them since 'it's not safe to mention that name here'. I should catch up to them.","target":"我一提到阿塔，那个龙裔就跑了，还让我跟上，说“这里不方便提那个名字”。我该追上去。","method":"reviewed-sol61"}
+{"source":"I've caught up to the Draconid and now they've locked me out, I should see what they have to say.","target":"我追上了龙裔，他却把我关在门外。我该看看他有什么话说。","method":"reviewed-sol61"}
+{"source":"Defeat Mered","target":"击败梅雷德","method":"reviewed-sol61"}
+{"source":"I've refused to aid Mered and now he's attacking me, I need to defend myself.","target":"我拒绝帮助梅雷德，他便向我发起了攻击。我得自卫。","method":"reviewed-sol61"}
+{"source":"Read the Tome","target":"阅读典籍","method":"reviewed-sol61"}
+{"source":"Mered mentioned a tome is what told him to kill people, I should check it out.","target":"梅雷德说，是一本典籍指使他杀人。我该读一读。","method":"reviewed-sol61"}
+{"source":"Speak to Mered","target":"与梅雷德交谈","method":"reviewed-sol61"}
+{"source":"I've refused to help Atá, I should return to Mered and turn him in.","target":"我拒绝帮助阿塔，该回去找梅雷德，把他交出去。","method":"reviewed-sol61"}
+{"source":"Decide the Scribe's fate","target":"决定书吏的命运","method":"reviewed-sol61"}
+{"source":"Atá has asked me to kill the scribe, I should decide if I'll help with the killings.","target":"阿塔让我杀死书吏。我该决定是否帮他继续杀人。","method":"reviewed-sol61"}
+{"source":"Kill the Scribe","target":"杀死书吏","method":"reviewed-sol61"}
+{"source":"I've decided to aid Atá in killing the scribe, I should pay them a visit.","target":"我决定帮阿塔杀死书吏，该去拜访对方了。","method":"reviewed-sol61"}
+{"source":"I refused to kill the scribe and now Atá has instead asked me to bring Mered to Uket's shrine. I should go and grab him.","target":"我拒绝杀死书吏，阿塔便改口让我把梅雷德带到乌凯特的神龛。我该去找他。","method":"reviewed-sol61"}
+{"source":"Go to Uket's shrine","target":"前往乌凯特的神龛","method":"reviewed-sol61"}
+{"source":"I need to lead Mered to Uket's shrine.","target":"我得带梅雷德去乌凯特的神龛。","method":"reviewed-sol61"}
+{"source":"Deal with Mered","target":"处置梅雷德","method":"reviewed-sol61"}
+{"source":"We've arrived at Uket's shrine, time to see what Atá plans with Mered.","target":"我们来到了乌凯特的神龛，看看阿塔打算如何处置梅雷德。","method":"reviewed-sol61"}
+{"source":"I've managed to get the Draconid to open the door and speak to me, let's figure out what's going on.","target":"我设法让龙裔打开门，愿意和我谈谈。现在来弄清到底是怎么回事。","method":"reviewed-sol61"}
+{"source":"Atá has decided that Mered will be a worthy enough sacrifice to free him.","target":"阿塔认定，梅雷德足以成为让自己重获自由的祭品。","method":"reviewed-sol61"}
+{"source":"Kill Mered","target":"杀死梅雷德","method":"reviewed-sol61"}
+{"source":"I've determined that Mered must die to attone for his crimes.","target":"我认定梅雷德必须以死赎罪。","method":"reviewed-sol61"}
+{"source":"Decide Mered's Fate","target":"决定梅雷德的命运","method":"reviewed-sol61"}
+{"source":"Mered is begging for mercy and his life, I must choose.","target":"梅雷德正苦苦求饶，请我放他一条生路。我必须做出选择。","method":"reviewed-sol61"}
+{"source":"Cook a Fruit Medley","target":"制作什锦水果","method":"reviewed-sol61"}
+{"source":"I've run into a Chef who believes I'm part of his team and has demanded I make him a Fruit Medley with the nearby ingredients. Perhaps I should play along and see what I can learn.","target":"我遇到一位厨师，他以为我是手下的帮厨，命令我用附近的食材做一份什锦水果。或许该顺着他的意思，看看能打听到什么。","method":"reviewed-sol61"}
+{"source":"Hand the Fruit Medley to Kordon","target":"将什锦水果交给科尔登","method":"reviewed-sol61"}
+{"source":"I've made the Fruit Medley! I should bring it back to Kordon to see what he thinks.","target":"我做好了什锦水果！该拿给科尔登，看看他怎么评价。","method":"reviewed-sol61"}
+{"source":"Cook Emerald Skewers","target":"制作翡翠烤串","method":"reviewed-sol61"}
+{"source":"Kordon has now demanded I cook him some Emerald Skewers, surely he'll like those.","target":"科尔登现在又让我做些翡翠烤串。这次他总该喜欢了吧。","method":"reviewed-sol61"}
+{"source":"Hand the Emerald Skewers to Kordon","target":"将翡翠烤串交给科尔登","method":"reviewed-sol61"}
+{"source":"I've made the Emerald Skewers! Now I need to hand them over to Kordon.","target":"我做好了翡翠烤串！现在得把它们交给科尔登。","method":"reviewed-sol61"}
+{"source":"Cook Candied Nunut","target":"制作蜜饯努努特","method":"reviewed-sol61"}
+{"source":"Kordon also hated the Emerald Skewers and is now sending me to make some Candied Nunut. Perhaps this time he'll actually like it.","target":"科尔登也讨厌翡翠烤串，现在又让我去做蜜饯努努特。也许这回他终于会满意。","method":"reviewed-sol61"}
+{"source":"Hand the Candied Nunut to Kordon","target":"将蜜饯努努特交给科尔登","method":"reviewed-sol61"}
+{"source":"I've made the Candied Nunut, time to bring them back to Kordon.","target":"我做好了蜜饯努努特，该拿回去给科尔登。","method":"reviewed-sol61"}
+{"source":"Search for clues","target":"寻找线索","method":"reviewed-sol61"}
+{"source":"I've encountered a Ritual Vessel that appears to be leaking. Perhaps if I can find a way to fix it, I could take its power for myself.","target":"我遇到一个似乎正在泄漏的仪式容器。或许只要找到修复的方法，我就能将它的力量据为己有。","method":"reviewed-sol61"}
+{"source":"Read the Inquisitor's Journal","target":"阅读审判官的日记","method":"reviewed-sol61"}
+{"source":"There was a dead Inquisitor nearby, perhaps their journal contains some information about what happened here.","target":"附近有一名死去的审判官，也许他的日记里记载了这里发生的事。","method":"reviewed-sol61"}
+{"source":"Reseal the Ritual Vessel","target":"重新封印仪式容器","method":"reviewed-sol61"}
+{"source":"According to the Inquisitor's journal the Ritual Vessel can be resealed with the use of the Void, perhaps using a Void sorcery on it would do the trick?","target":"根据审判官的日记，可以借助虚空重新封印仪式容器。也许对它施放虚空法术就行？","method":"reviewed-sol61"}
+{"source":"Pick up the Ritual Vessel","target":"拾取仪式容器","method":"reviewed-sol61"}
+{"source":"I've managed to reseal the Ritual Vessel, I should grab it before anyone else gets to it.","target":"我成功重新封印了仪式容器，得赶在别人之前拿走它。","method":"reviewed-sol61"}
+{"source":"I've encountered an Inquisitor who has been injured while fighting off some Cursed Ones. I should see what they were up to.","target":"我遇到一位审判官，他在抵御受诅咒者时受了伤。我该问问他们在做什么。","method":"reviewed-sol61"}
+{"source":"Collect the Ritual Vessel","target":"取走仪式容器","method":"reviewed-sol61"}
+{"source":"The Inquisitor has succumbed to their wounds, I should grab the Ritual Vessel before it causes more problems.","target":"审判官伤重不治。我该拿走仪式容器，免得它惹出更多麻烦。","method":"reviewed-sol61"}
+{"source":"Find the Inquisition's Shrine","target":"寻找审判庭的神龛","method":"reviewed-sol61"}
+{"source":"The Inquisitor mentioned a Shine, perhaps I should do as they asked and destroy the Ritual Vessel there.. Or maybe I could use it for myself.","target":"审判官提到一座神龛，也许我该照他的请求，去那里摧毁仪式容器……也许也能把它留给自己用。","method":"reviewed-sol61"}
+{"source":"Defeat the Shrine Guardian","target":"击败神龛守卫","method":"reviewed-sol61"}
+{"source":"It seems the Shrine was warded against non-Inquisitors, I need to take care of this Guardian.","target":"神龛似乎设有针对审判庭以外之人的防护。我得解决这个守卫。","method":"reviewed-sol61"}
+{"source":"Destroy the Ritual Vessel","target":"摧毁仪式容器","method":"reviewed-sol61"}
+{"source":"I've found the Inquisition Shrine as well as a chest that's locked with some kind of spell. Maybe it was intended as a reward for the Inquisitor after they destroyed the Ritual Vessel. That being said.. I could still use the Ritual Vessel for myself instead.","target":"我找到了审判庭的神龛，还有一只被法术锁住的箱子。也许它原本是给摧毁仪式容器的审判官的奖励。话虽如此……我仍然可以把仪式容器留给自己用。","method":"reviewed-sol61"}
+{"source":"Investigate the commotion","target":"调查骚动","method":"reviewed-sol61"}
+{"source":"I've encountered a couple arguing over what appears to be some dug up treasure, I should check it out.","target":"我遇到一对正在争吵的人，争执的东西似乎是他们挖出的宝藏。我该看看。","method":"reviewed-sol61"}
+{"source":"Trouble in Paradise","target":"乐土生变","method":"reviewed-sol61"}
+{"source":"After suggesting only one of them gets the treasure a fight has broken out between the duo. I should probably leave them alone.. But I could use this as my chance to get the treasure for myself.","target":"我提议宝藏只归其中一人，结果两人打了起来。我大概该让他们自己解决……不过也可以趁机把宝藏据为己有。","method":"reviewed-sol61"}
+{"source":"Kill Hamnet & Shira","target":"杀死哈姆内特和希拉","method":"reviewed-sol61"}
+{"source":"I've decided that I want the treasure for myself, I should take care of these two first.","target":"我决定独占宝藏，得先解决这两个人。","method":"reviewed-sol61"}
+{"source":"Search the chest","target":"搜查宝箱","method":"reviewed-sol61"}
+{"source":"The treasure is mine for the taking!","target":"宝藏任我拿取了！","method":"reviewed-sol61"}
+{"source":"Find the treasures","target":"寻找宝藏","method":"reviewed-sol61"}
+{"source":"It turns out the treasure chest had just contained a couple of maps, perhaps I can find the real reward if I track them down.","target":"原来宝箱里只有几张地图。也许顺着地图找下去，才能得到真正的奖励。","method":"reviewed-sol61"}
+{"source":"Speak to the Slave","target":"与奴隶交谈","method":"reviewed-sol61"}
+{"source":"I've encountered a runaway Slave collapsed in the sand, I should see if I can help them.","target":"我遇到一名逃跑的奴隶，瘫倒在沙地上。我该看看能否帮忙。","method":"reviewed-sol61"}
+{"source":"Bring the Slave some water","target":"给奴隶带些水","method":"reviewed-sol61"}
+{"source":"I've brought the Slave to the shade but they're in dire need of something to drink. I should find some water for them.","target":"我把奴隶带到了阴凉处，但对方急需喝点东西。我该找些水来。","method":"reviewed-sol61"}
+{"source":"Kemma must be somewhere nearby, I will recognise her by her necklace set with blue gemstones","target":"凯玛一定就在附近。我可以凭她那条镶着蓝色宝石的项链认出她。","method":"reviewed-sol61"}
+{"source":"Description of success sub objective.","target":"子目标完成说明。","method":"reviewed-sol61"}
+{"source":"Return to the villager","target":"返回村民处","method":"reviewed-sol61"}
+{"source":"Search for the Brother","target":"寻找失踪的兄弟","method":"reviewed-sol61"}
+{"source":"Investigate the camp","target":"调查营地","method":"reviewed-sol61"}
+{"source":"Find out what happened.","target":"查明发生了什么。","method":"reviewed-sol61"}
+{"source":"Find some boats.","target":"寻找小船。","method":"reviewed-sol61"}
+{"source":"Speak to Captain Asim.","target":"与阿西姆船长交谈。","method":"reviewed-sol61"}
+{"source":"Search the West","target":"搜索西部","method":"reviewed-sol61"}
+{"source":"Search the North","target":"搜索北部","method":"reviewed-sol61"}
+{"source":"Search the South","target":"搜索南部","method":"reviewed-sol61"}
+{"source":"Search the Centre","target":"搜索中部","method":"reviewed-sol61"}
+{"source":"(Optional) Find Damaris' Lost Sword","target":"（可选）寻找达玛瑞斯遗失的剑","method":"reviewed-sol61"}
+{"source":"Find Damaris' Lost Sword","target":"寻找达玛瑞斯遗失的剑","method":"reviewed-sol61"}
+{"source":"Clear threats in the west","target":"清除西部的威胁","method":"reviewed-sol61"}
+{"source":"Kill the cursed ones in the west","target":"杀死西部的受诅咒者","method":"reviewed-sol61"}
+{"source":"Clear threats in the north","target":"清除北部的威胁","method":"reviewed-sol61"}
+{"source":"Kill the cursed wives","target":"杀死受诅咒的妻子们","method":"reviewed-sol61"}
+{"source":"Clear threats in the south","target":"清除南部的威胁","method":"reviewed-sol61"}
+{"source":"Kill the cursed families","target":"杀死受诅咒的家人们","method":"reviewed-sol61"}
+{"source":"Find a Boat","target":"寻找小船","method":"reviewed-sol61"}
+{"source":"Reach Mehden Island","target":"抵达梅登岛","method":"reviewed-sol61"}
+{"source":"Speak to Captain Asim","target":"与阿西姆船长交谈","method":"reviewed-sol61"}
+{"source":"Speak to Priestess Ameni","target":"与阿梅妮女祭司交谈","method":"reviewed-sol61"}
+{"source":"Search the north of the island","target":"搜索岛屿北部","method":"reviewed-sol61"}
+{"source":"Search the south of the island","target":"搜索岛屿南部","method":"reviewed-sol61"}
+{"source":"(Optional) Find and hunt the Creature","target":"（可选）寻找并猎杀怪物","method":"reviewed-sol61"}
+{"source":"(Optional) Find and hunt the Creature which has been killing the Anubites","target":"（可选）寻找并猎杀残杀阿努比斯族人的怪物","method":"reviewed-sol61"}
+{"source":"(Optional) Read the Frescos and Messages","target":"（可选）阅读壁画和留言","method":"reviewed-sol61"}
+{"source":"(Optional) Destroy the Effigies","target":"（可选）摧毁偶像","method":"reviewed-sol61"}
+{"source":"Kill Cursed Ones","target":"杀死受诅咒者","method":"reviewed-sol61"}
+{"source":"Kill Bloodseekers","target":"杀死觅血者","method":"reviewed-sol61"}
+{"source":"Rescue Prisoners","target":"营救囚犯","method":"reviewed-sol61"}
+{"source":"Kill the Inquisition Raiders","target":"杀死审判庭袭击者","method":"reviewed-sol61"}
+{"source":"Find the Last Supplies","target":"寻找最后的补给","method":"reviewed-sol61"}
+{"source":"Gather pulp of Yellow Fruit","target":"收集黄果果肉","method":"reviewed-sol61"}
+{"source":"Gather River water","target":"收集河水","method":"reviewed-sol61"}
+{"source":"Gather Night Lotus","target":"收集夜莲","method":"reviewed-sol61"}
+{"source":"Gather Semen","target":"收集精液","method":"reviewed-sol61"}
+{"source":"Return to Mesatnofreht with the Supplies","target":"带着补给返回梅萨特诺芙蕾特处","method":"reviewed-sol61"}
+{"source":"Find a weapon amongst the wreckage","target":"在残骸中寻找武器","method":"reviewed-sol61"}
+{"source":"Find Moswen's Rod","target":"寻找莫斯温的鱼竿","method":"reviewed-sol61"}
+{"source":"Meet Moswen at the Docks","target":"在码头与莫斯温会面","method":"reviewed-sol61"}
+{"source":"Speak to the Anubite Priestess","target":"与阿努比斯族女祭司交谈","method":"reviewed-sol61"}
+{"source":"Kill the Anubites","target":"杀死阿努比斯族人","method":"reviewed-sol61"}
+{"source":"???","target":"???","method":"reviewed-sol61"}
+{"source":"Try not to be seen!","target":"尽量别被发现！","method":"reviewed-sol61"}
+{"source":"Kill the Enemies trapping Amhak","target":"杀死困住阿姆哈克的敌人","method":"reviewed-sol61"}
+{"source":"Dead Cattle","target":"死去的牲畜","method":"reviewed-sol61"}
+{"source":"Broken Table","target":"破损的桌子","method":"reviewed-sol61"}
+{"source":"Farm Implement","target":"农具","method":"reviewed-sol61"}
+{"source":"Fireplace","target":"壁炉","method":"reviewed-sol61"}
+{"source":"Eliminate the Bloodseekers","target":"消灭觅血者","method":"reviewed-sol61"}
+{"source":"Obtain the Cage Key","target":"取得笼子钥匙","method":"reviewed-sol61"}
+{"source":"Formless Saved","target":"已救出无形者","method":"reviewed-sol61"}
+{"source":"Find another way through","target":"寻找另一条通路","method":"reviewed-sol61"}
+{"source":"Inspect the Copper Ingots (Optional)","target":"检查铜锭（可选）","method":"reviewed-sol61"}
+{"source":"Read the complaint tablets (Optional)","target":"阅读投诉石板（可选）","method":"reviewed-sol61"}
+{"source":"Choose the Cult of Anubis","target":"选择阿努比斯教团","method":"reviewed-sol61"}
+{"source":"Choose the Inquisition of Bast","target":"选择巴斯特审判庭","method":"reviewed-sol61"}
+{"source":"Kill the Inquisition","target":"杀死审判庭成员","method":"reviewed-sol61"}
+{"source":"(Optional) Obtain the Voice of Amun","target":"（可选）取得阿蒙之声","method":"reviewed-sol61"}
+{"source":"Speak to the Suvivors","target":"与幸存者交谈","method":"reviewed-sol61"}
+{"source":"Give it to the Inquisition","target":"交给审判庭","method":"reviewed-sol61"}
+{"source":"Give it to the Anubites","target":"交给阿努比斯族","method":"reviewed-sol61"}
+{"source":"Solve the Puzzle to unlock the Artifact","target":"解开谜题，取得神器","method":"reviewed-sol61"}
+{"source":"Acquire some Lubricant","target":"获取润滑剂","method":"reviewed-sol61"}
+{"source":"Suvive the onslaught - Purify Time :","target":"撑过猛攻——净化时间：","method":"reviewed-sol61"}
+{"source":"Defeat Wave 3","target":"击败第3波敌人","method":"reviewed-sol61"}
+{"source":"Defeat Wave 4","target":"击败第4波敌人","method":"reviewed-sol61"}
+{"source":"Solve the Puzzle of Path","target":"解开路径谜题","method":"reviewed-sol61"}
+{"source":"Solve the Puzzle of Sequence","target":"解开顺序谜题","method":"reviewed-sol61"}
+{"source":"Solve the Puzzle of Mind","target":"解开心智谜题","method":"reviewed-sol61"}
+{"source":"Attune to the Sky","target":"与天空共鸣","method":"reviewed-sol61"}
+{"source":"Attune to the Sea","target":"与海洋共鸣","method":"reviewed-sol61"}
+{"source":"Attune to the Land","target":"与大地共鸣","method":"reviewed-sol61"}
+{"source":"Destroy the Dune Bug Hives","target":"摧毁沙丘虫巢","method":"reviewed-sol61"}
+{"source":"(Optional) Find Khaba's Servant","target":"（可选）寻找卡巴的仆人","method":"reviewed-sol61"}
+{"source":"Find a way to Defeat the Void Titan","target":"寻找击败虚空泰坦的办法","method":"reviewed-sol61"}
+{"source":"I must search for a means to defeat this Guardian. It seems that it cannot be harmed by normal means, but perhaps someone knows of a way to destroy it. There's got to be more than one exit from this cursed tomb.","target":"我得寻找击败这个守卫的办法。普通手段似乎伤不到它，但也许有人知道怎么摧毁它。这座该死的墓穴里，肯定不止一个出口。","method":"reviewed-sol61"}
+{"source":"Check Incense Boxes for \"Sacred Incense\"","target":"在香盒中寻找“圣香”","method":"reviewed-sol61"}
+{"source":"(Optional) Speak to the Adept Esi","target":"（可选）与修士艾西交谈","method":"reviewed-sol61"}
+{"source":"Perhaps I should talk with the Adept,  surely she will have knowledge of this place.","target":"或许我该和那位修士谈谈，她肯定了解这个地方。","method":"reviewed-sol61"}
+{"source":"You must be unarmed","target":"必须空手","method":"reviewed-sol61"}
+{"source":"Report in to the Barrack Captain for a bunk","target":"向兵营队长报到，领取床位","method":"reviewed-sol61"}
+{"source":"Rest on your Bunk","target":"在床铺上休息","method":"reviewed-sol61"}
+{"source":"(Optional) You can store your items in your storage chest","target":"（可选）你可以把物品存入储物箱","method":"reviewed-sol61"}
+{"source":"You can store your items in your storage chest","target":"你可以把物品存入储物箱","method":"reviewed-sol61"}
+{"source":"(Optional) Pick up your Anubite Armour","target":"（可选）领取你的阿努比斯族护甲","method":"reviewed-sol61"}
+{"source":"Speak to the workers around the docks for information","target":"向码头附近的工人打听消息","method":"reviewed-sol61"}
+{"source":"Shadya","target":"莎迪娅","method":"reviewed-sol61"}
+{"source":"Speak to the Slavers","target":"与奴隶贩子交谈","method":"reviewed-sol61"}
+{"source":"Slaver","target":"奴隶贩子","method":"reviewed-sol61"}
+{"source":"Speak to the Merchants","target":"与商人交谈","method":"reviewed-sol61"}
+{"source":"(Optional) Claim you are the secret admirer","target":"（可选）自称是秘密仰慕者","method":"reviewed-sol61"}
+{"source":"Watchmen","target":"城卫","method":"reviewed-sol61"}
+{"source":"Strange Draconid","target":"奇怪的龙裔","method":"reviewed-sol61"}
+{"source":"Loitering Jackal","target":"游荡的豺狼人","method":"reviewed-sol61"}
+{"source":"Citizens","target":"市民","method":"reviewed-sol61"}
+{"source":"Find out more about Atá","target":"进一步了解阿塔","method":"reviewed-sol61"}
+{"source":"(Optional) Use the Ritual Vessel","target":"（可选）使用仪式容器","method":"reviewed-sol61"}
+{"source":"(Optional) Walk Away","target":"（可选）转身离开","method":"reviewed-sol61"}
+{"source":"(Optional) Steal the Treasure for yourself","target":"（可选）将宝藏据为己有","method":"reviewed-sol61"}
+{"source":"Find the first treasure","target":"寻找第一处宝藏","method":"reviewed-sol61"}
+{"source":"Find the second treasure","target":"寻找第二处宝藏","method":"reviewed-sol61"}
+{"source":"Investigate the Strange Obelisk","target":"调查奇怪的方尖碑","method":"reviewed-sol61"}
+{"source":"(Optional) Grab the Ingredients from the Table","target":"（可选）从桌上拿取食材","method":"reviewed-sol61"}
+{"source":"Kordon has provided all the necessary ingredients","target":"科尔登已经提供了所有必需的食材","method":"reviewed-sol61"}
